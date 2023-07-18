@@ -40,14 +40,13 @@ class Sampling:
         self.curLanguage = language.getLanguage()
         # Set date here.
         self.startDate = dt.date(2012, 1, 1)
-        self.endDate = dt.date(2021, 6, 28)
+        self.endDate = dt.date(2023, 1, 31)
         self.incompleteResult = False
         self.errorCode = "200"
         self.counter = 0
         self.counter2 = 0
-        pass
 
-    def requestRepos(self, stars):
+    def request_repos(self, stars):
         """This is the first step of sampling. In this function, all repos that match the characteristics are stored in a file. More to the characteristics at the request url.
 
         Args:
@@ -220,9 +219,9 @@ class Sampling:
                 print("finished with commits")
 
                 if (
-                    not bugCommits["bug_commits"] == []
-                    and bugCommits["total_commits"] > 30
-                    and not self.incompleteResult
+                        not bugCommits["bug_commits"] == []
+                        and bugCommits["total_commits"] > 30
+                        and not self.incompleteResult
                 ):
                     repo["commits"] = bugCommits
                 else:
@@ -253,9 +252,9 @@ class Sampling:
                     "ScriptStats.txt",
                     {
                         "checked_repos": "First checked repo: "
-                        + str(startIndex)
-                        + ", last checkedRepo"
-                        + str(firstRepoIndex),
+                                         + str(startIndex)
+                                         + ", last checkedRepo"
+                                         + str(firstRepoIndex),
                         "lostRepos": lostRepos,
                         "checkNextIndex": firstRepoIndex + 1,
                     },
@@ -272,9 +271,9 @@ class Sampling:
                     "ScriptStats.txt",
                     {
                         "checked_repos": "First checked repo: "
-                        + str(startIndex)
-                        + ", last checkedRepo"
-                        + str(firstRepoIndex - 1),
+                                         + str(startIndex)
+                                         + ", last checkedRepo"
+                                         + str(firstRepoIndex - 1),
                         "lostRepos": lostRepos,
                         "timeToCheck": "{:5.3f}s".format(endTime - startTime),
                         "checkNextIndex": firstRepoIndex,
@@ -626,7 +625,7 @@ class Sampling:
                                             "username",
                                             tokenRequest[
                                                 countRequest % len(tokenRequest)
-                                            ],
+                                                ],
                                         ),
                                     )
                             elif not repoCommitFilesRequest.status_code == 200:
@@ -669,15 +668,15 @@ class Sampling:
                         # Check for each commit if it contains a relevant file (.ts or .js)
                         for commitFile in repoCommitFiles["files"]:
                             if (
-                                commitFile["filename"].endswith(
-                                    ".ts" if self.curLanguage == "TypeScript" else ".js"
-                                )
-                                or commitFile["filename"].endswith(
-                                    ".tsx"
-                                    if self.curLanguage == "TypeScript"
-                                    else ".jsx"
-                                )
-                                or commitFile["filename"].endswith(".vue")
+                                    commitFile["filename"].endswith(
+                                        ".ts" if self.curLanguage == "TypeScript" else ".js"
+                                    )
+                                    or commitFile["filename"].endswith(
+                                ".tsx"
+                                if self.curLanguage == "TypeScript"
+                                else ".jsx"
+                            )
+                                    or commitFile["filename"].endswith(".vue")
                             ):
                                 if not bool:
                                     commitCount += 1
@@ -768,10 +767,10 @@ class Sampling:
 
         # If the readme of a repo indicates, that it is an app or it it contains a package.json file it returns true.
         if (
-            "app" in result
-            or "application" in result
-            or "websit" in result
-            or "platform" in result
+                "app" in result
+                or "application" in result
+                or "websit" in result
+                or "platform" in result
         ):
             isApp = True
         # elif packageJson:
@@ -1097,16 +1096,16 @@ class Sampling:
             "language": self.curLanguage,
             "total_count": totalCount,
             "time_period": "Start date: "
-            + str(self.startDate)
-            + ", end date: "
-            + str(self.endDate),
+                           + str(self.startDate)
+                           + ", end date: "
+                           + str(self.endDate),
             "incomplete_results": incompleteResult,
             "status_code": statusCode,
             "repositories": repositories,
         }
 
     def issuesJson(
-        self, incompleteResult, statusCode, totalBugIssues, totalIssues, issues
+            self, incompleteResult, statusCode, totalBugIssues, totalIssues, issues
     ):
         return {
             "incomplete_results": incompleteResult,
@@ -1117,7 +1116,7 @@ class Sampling:
         }
 
     def issueKey(
-        self, title, description, label, createdAt, closedAt, lastComment, commentCount
+            self, title, description, label, createdAt, closedAt, lastComment, commentCount
     ):
         return {
             "title": title,
@@ -1130,7 +1129,7 @@ class Sampling:
         }
 
     def commitJson(
-        self, incompleteResult, statusCode, totalBugCommits, totalCommits, bugCommits
+            self, incompleteResult, statusCode, totalBugCommits, totalCommits, bugCommits
     ):
         return {
             "incomplete_results": incompleteResult,
@@ -1318,7 +1317,7 @@ class Sampling:
             totalBugIssues += repo["issues"]["total_bug_issues"]
 
         print(
-            f"{self.curLanguage}: unlabeledIssues= {unlabeledIssues}, labeledIssues= {labeledIssues}. Total issues= {totalIssues}, total bug issues= {totalBugIssues}.  {labeledIssues/totalBugIssues}% der bug issues are labeled."
+            f"{self.curLanguage}: unlabeledIssues= {unlabeledIssues}, labeledIssues= {labeledIssues}. Total issues= {totalIssues}, total bug issues= {totalBugIssues}.  {labeledIssues / totalBugIssues}% der bug issues are labeled."
         )
 
     def getStarsOfReposPerPL(self):
@@ -1479,14 +1478,14 @@ class SonarQubeDance:
                     try:
                         # Only when number is related to file. Not when to folder.
                         if file["qualifier"] == "FIL" and (
-                            (
-                                file["language"]
-                                == ("js" if self.curLanguage == "JavaScript" else "ts")
-                            )
-                            or (
-                                file["path"].endswith(".vue")
-                                and file["language"] == "js"
-                            )
+                                (
+                                        file["language"]
+                                        == ("js" if self.curLanguage == "JavaScript" else "ts")
+                                )
+                                or (
+                                        file["path"].endswith(".vue")
+                                        and file["language"] == "js"
+                                )
                         ):
                             try:
                                 metricCount += int(file["measures"][0]["value"])
@@ -1638,7 +1637,7 @@ class ESLint:
         """
         try:
             with open(
-                f"./../../../eslint/eslintReports/eslint_output_{self.repoFullName}.txt"
+                    f"./../../../eslint/eslintReports/eslint_output_{self.repoFullName}.txt"
             ) as f:
                 contents = f.readlines()
                 os.chdir(f"./../../../")
@@ -2046,7 +2045,7 @@ class PackageJson:
         js = "./git-repos/JS/" + f"{repoFullName}"
         ts = "./git-repos/TS/" + f"{repoFullName}"
         for root, dirs, files in os.walk(
-            js if self.curLanguage == "JavaScript" else ts
+                js if self.curLanguage == "JavaScript" else ts
         ):
             if "package.json" + fileSuffix in files:
                 paths.append(os.path.join(root, "package.json" + fileSuffix))
@@ -2342,7 +2341,7 @@ class Metrics:
                 )
                 continue
 
-            print(f"secs open: {secsOpen/countIssues}")
+            print(f"secs open: {secsOpen / countIssues}")
             # If there are more than 5 bug issues add the avg time to close the issue (to last comment under issue) to csv
             commaSeparatedValues.changeValueInCSV(
                 repo["index"], "avg_bug-issue_time", secsOpen / countIssues
@@ -2386,14 +2385,14 @@ class Metrics:
                         & (dfMerged["framework"] != "angular")
                         & (dfMerged["framework"] != "react")
                         & (dfMerged[metric] < float("inf"))
-                    ][metric]
+                        ][metric]
                 )
             else:
                 valJSTS.append(
                     dfMerged.loc[
                         (dfMerged["framework"] == framework)
                         & (dfMerged[metric] < float("inf"))
-                    ][metric]
+                        ][metric]
                 )
 
         return valJSTS
@@ -2444,7 +2443,7 @@ class Metrics:
                                 & (dfMerged["framework"] != "angular")
                                 & (dfMerged["framework"] != "react")
                                 & (dfMerged[metric] < float("inf"))
-                            ][metric].describe()[calcValues],
+                                ][metric].describe()[calcValues],
                         )
 
                     valJSTS.append(
@@ -2453,7 +2452,7 @@ class Metrics:
                             & (dfMerged["framework"] != "angular")
                             & (dfMerged["framework"] != "react")
                             & (dfMerged[metric] < float("inf"))
-                        ][metric]
+                            ][metric]
                     )
                 else:
                     for calcValues in values:
@@ -2465,14 +2464,14 @@ class Metrics:
                             dfMerged.loc[
                                 (dfMerged["framework"] == framework)
                                 & (dfMerged[metric] < float("inf"))
-                            ][metric].describe()[calcValues],
+                                ][metric].describe()[calcValues],
                         )
 
                     valJSTS.append(
                         dfMerged.loc[
                             (dfMerged["framework"] == framework)
                             & (dfMerged[metric] < float("inf"))
-                        ][metric]
+                            ][metric]
                     )
 
         return valJSTS
@@ -2569,29 +2568,31 @@ class PrintDiagramms:
         print(f"TypeScript {metric} mean: {np.mean(vals[1])}")
 
 
-language = Language("TypeScript")
+language = Language("JavaScript")
 
 fileClass = File()
 
 sampling = Sampling()
 
-sonarQubeDance = SonarQubeDance()
+sampling.request_repos(5)
 
-eslint = ESLint()
-
-framework = Framework()
-
-# Suffix could be: ReposCharacteristics.csv or Metrics.csv
-commaSeparatedValues = CSV("Metrics.csv")
-
-cloneRepo = CloneRepo()
-
-packageJson = PackageJson()
-
-tsconfig = Tsconfig()
-
-metrics = Metrics()
-
-test = Test()
-
-printDiagramms = PrintDiagramms()
+# sonarQubeDance = SonarQubeDance()
+#
+# eslint = ESLint()
+#
+# framework = Framework()
+#
+# # Suffix could be: ReposCharacteristics.csv or Metrics.csv
+# commaSeparatedValues = CSV("Metrics.csv")
+#
+# cloneRepo = CloneRepo()
+#
+# packageJson = PackageJson()
+#
+# tsconfig = Tsconfig()
+#
+# metrics = Metrics()
+#
+# test = Test()
+#
+# printDiagramms = PrintDiagramms()

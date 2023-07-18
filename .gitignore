@@ -1,8 +1,10 @@
 # History files
 .Rhistory
 .Rapp.history
+.constants.py
 .DS_Store
 /data
+/study_data
 # Session Data files
 .RData
 .RDataTmp
