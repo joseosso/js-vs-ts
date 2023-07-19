@@ -2568,7 +2568,7 @@ class PrintDiagramms:
         print(f"TypeScript {metric} mean: {np.mean(vals[1])}")
 
 
-language = Language("JavaScript")
+language = Language("TypeScript")
 
 fileClass = File()
 
