@@ -39,8 +39,8 @@ class Sampling:
     def __init__(self):
         self.curLanguage = language.getLanguage()
         # Set date here.
-        self.startDate = dt.date(2012, 1, 1)
-        self.endDate = dt.date(2023, 1, 31)
+        self.startDate = dt.date(2021, 6, 28)
+        self.endDate = dt.date(2023, 6, 28)
         self.incompleteResult = False
         self.errorCode = "200"
         self.counter = 0
@@ -442,7 +442,7 @@ class Sampling:
         Returns:
             boolean: If the text contains a bug.
         """
-        bugWords = ["bug", "fix"]
+        bugWords = ["bug", "fix", "fault", "error", "flaw", "defect", "issue"]
 
         if any(bug in text for bug in bugWords):
             return True
@@ -2574,25 +2574,27 @@ fileClass = File()
 
 sampling = Sampling()
 
-sampling.request_repos(5)
+sampling.checkRepoByCharacteristics(138,100)
 
-# sonarQubeDance = SonarQubeDance()
-#
-# eslint = ESLint()
-#
-# framework = Framework()
-#
-# # Suffix could be: ReposCharacteristics.csv or Metrics.csv
-# commaSeparatedValues = CSV("Metrics.csv")
-#
-# cloneRepo = CloneRepo()
-#
-# packageJson = PackageJson()
-#
-# tsconfig = Tsconfig()
-#
-# metrics = Metrics()
-#
-# test = Test()
-#
-# printDiagramms = PrintDiagramms()
+#sampling.request_repos(5)
+
+#sonarQubeDance = SonarQubeDance()
+
+#eslint = ESLint()
+
+#framework = Framework()
+
+# Suffix could be: ReposCharacteristics.csv or Metrics.csv
+#commaSeparatedValues = CSV("Metrics.csv")
+
+#cloneRepo = CloneRepo()
+
+#packageJson = PackageJson()
+
+#tsconfig = Tsconfig()
+
+#metrics = Metrics()
+
+#test = Test()
+
+#printDiagramms = PrintDiagramms()
