@@ -1,0 +1,1534 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/APIServer.ts
+  59:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  99:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  99:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/JobManager.ts
+  60:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  68:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/abstractions/Manager.ts
+  53:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/aws/S3Service.ts
+  87:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  90:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/configuration/AwsKeyStoreConfig.ts
+  11:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/databases/GoogleCloudBigQuery.ts
+    70:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    71:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    82:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   178:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   378:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   382:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   488:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1028:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/databases/MongoDb.ts
+   112:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   114:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   154:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   163:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   304:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   305:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   305:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1038:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1057:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1058:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1058:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/email/Mailer.ts
+  34:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/email/abstractions/BaseEmail.ts
+  9:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/logging/AirbrakeLogger.ts
+  33:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/logging/ConsoleLogger.ts
+  13:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/logging/FileLogger.ts
+  40:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/logging/abstractions/BaseLogger.ts
+  11:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/storage/GoogleCloudStorage.ts
+  47:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/backends/storage/MongoDBStorage.ts
+  30:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/bootstrap/StripeSetup.ts
+  30:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/container/ChainDependenciesBinder.ts
+   8:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/core/Future.ts
+  2:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  3:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/express/Routing.ts
+  13:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/express/handlers/GitHubAuth.ts
+   46:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   47:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/gql/ResolverRegister.ts
+   75:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   75:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  247:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  258:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  267:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/gql/scalars/DateTime.ts
+  30:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/lambdas/job.ts
+   5:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/AuditManager.ts
+  107:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  200:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  200:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/InviteManager.ts
+  52:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/OrgManager.ts
+   596:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   596:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   602:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   602:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   608:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   608:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   624:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   624:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   633:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   633:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   647:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   647:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   657:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   657:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   667:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   667:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   680:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   680:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   690:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   690:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   699:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   699:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   717:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   717:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   750:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   750:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   768:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   768:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   789:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   789:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   806:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   806:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   847:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   847:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   867:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   867:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   942:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   942:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   952:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   952:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   974:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   974:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   988:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   988:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1015:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1015:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1034:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1034:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1052:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1052:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1078:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1078:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1105:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1105:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1117:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1117:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1129:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1129:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1138:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1138:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1156:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1156:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1167:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1167:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1174:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1174:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/UserManager.ts
+  388:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  388:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  390:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  390:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  418:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  418:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  423:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  423:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  428:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  428:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  437:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  437:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  447:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  447:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  487:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  504:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  504:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  511:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  511:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  531:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  532:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  550:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  550:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  564:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  564:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  586:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  586:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  607:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  607:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  628:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  628:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  648:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  648:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  656:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  656:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  681:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  681:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  719:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  719:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  742:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  747:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  747:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/UserNotificationManager.ts
+  60:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/data/DataManagerAccountManager.ts
+  101:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/data/IngestEndpointDataMapManager.ts
+  199:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  217:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  217:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  244:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  244:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  276:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  276:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  335:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  335:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  354:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  354:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  370:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  370:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/data/IngestEndpointEnvironmentManager.ts
+  212:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  212:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  263:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  263:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  285:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  285:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  336:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  336:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  350:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  357:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  357:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  366:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  366:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  382:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  382:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  409:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  409:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/data/IngestEndpointManager.ts
+  222:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  231:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  231:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  269:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  269:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  424:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  424:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  443:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  443:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  459:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  459:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  475:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  475:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  488:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  488:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  513:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  513:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  541:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/data/IngestEndpointRevisionManager.ts
+  177:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  246:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  246:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  280:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  280:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  305:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  305:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  329:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  329:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  356:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  356:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/ActionGroupDistributionManager.ts
+  200:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  200:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  218:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  218:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  248:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  248:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  343:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  343:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  400:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  400:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  435:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  435:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  444:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  444:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/ActionGroupManager.ts
+  186:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  186:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  203:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  203:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  255:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  255:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  271:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  272:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  289:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  289:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  338:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  338:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  390:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  390:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/ActionManager.ts
+  144:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  245:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  245:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  326:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  326:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  345:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  345:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/AppManager.ts
+  446:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  446:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  458:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  458:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  500:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  500:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  520:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  520:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  573:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  573:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  591:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  591:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  614:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  614:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  626:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  626:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  638:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  638:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  650:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  650:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  662:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  662:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  674:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  674:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  686:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  686:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  698:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  698:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  710:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  710:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  722:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  722:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  734:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  734:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  743:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  743:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  756:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  756:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  769:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  769:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  782:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  782:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  795:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  795:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  808:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  808:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  820:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  820:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  832:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  832:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  854:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  854:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  866:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  866:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  878:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  878:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  890:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  890:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  901:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  901:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  914:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  914:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  923:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  923:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/AppPlatformRevisionManager.ts
+  152:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  253:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  253:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  384:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  420:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  420:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  434:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  434:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/ConditionRuleManager.ts
+  219:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  219:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  301:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  301:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  384:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  384:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  402:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  402:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  422:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  473:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/DataMapManager.ts
+  122:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/EnvironmentManager.ts
+  241:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  241:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  258:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  258:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  293:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  293:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  304:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  304:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  353:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  353:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  425:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  425:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  439:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  446:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  446:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  448:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  448:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  462:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  462:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  474:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  474:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/EventManager.ts
+  177:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  250:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  250:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  272:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  272:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  374:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  374:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  396:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  396:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  409:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/PlatformActionManager.ts
+  267:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  267:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  296:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  296:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  312:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  313:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  344:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  344:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  390:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  391:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  428:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  428:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  452:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  452:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  472:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  472:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  485:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  485:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  500:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  500:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  525:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/PlatformActionPermissionManager.ts
+  127:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/PlatformDataContainerManager.ts
+  100:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/PlatformDataMapManager.ts
+  157:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  185:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  185:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  209:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  209:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  247:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  247:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/PlatformEventManager.ts
+  100:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/PlatformManager.ts
+  146:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  146:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  197:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  197:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  251:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  251:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  262:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  262:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/PlatformRevisionManager.ts
+  210:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  210:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  237:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  237:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  268:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  343:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  475:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  483:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  498:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  513:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  542:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  542:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  557:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  557:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  585:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  585:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  597:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  597:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  619:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  619:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  628:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  628:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  644:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  644:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  647:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  647:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  654:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  654:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  657:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  657:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/RevisionManager.ts
+  176:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  185:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  185:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  209:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  209:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  249:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  249:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  258:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  258:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  284:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  284:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  299:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  299:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  322:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  322:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/RuleGroupManager.ts
+  162:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  231:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  231:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  272:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  272:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  310:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  310:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  328:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  328:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/RuleManager.ts
+  230:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  247:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  247:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  307:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  307:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  337:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  337:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  363:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  363:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  378:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  378:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  412:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  412:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  474:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  474:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  501:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  501:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/TagManager.ts
+  240:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  240:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  268:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  268:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  292:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  292:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  310:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  310:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  341:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  341:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  373:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  373:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  391:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  391:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  400:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  400:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/TagManagerAccountManager.ts
+   85:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/managers/tag/TriggerManager.ts
+  195:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  195:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  239:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  239:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  254:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  254:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  285:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  285:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  338:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  338:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  357:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  357:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  366:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  366:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  377:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  377:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  388:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  388:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/mongo/abstractions/Model.ts
+  136:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  202:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  241:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  275:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  277:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  290:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  292:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  294:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  294:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  330:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  332:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  381:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  394:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/mongo/abstractions/Repo.ts
+   81:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  243:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  244:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  361:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  364:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/mongo/decorators/Field.ts
+  6:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/mongo/models/tag/DataMap.ts
+  150:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/mongo/reflect/ModelReflect.ts
+   3:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/mongo/types/Types.ts
+  13:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/twig/Render.ts
+  10:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/utils/DataMapsUtils.ts
+  116:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  296:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  330:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  462:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/utils/DiffUtils.ts
+  100:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  148:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  322:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  324:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/utils/DuplicateUtils.ts
+   86:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/utils/EnvironmentUtils.ts
+  109:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  204:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  226:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/utils/EventRequestsUtils.ts
+  16:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/utils/IngestEndpointDataMapUtils.ts
+  174:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  201:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/utils/IngestEndpointEnvironmentUtils.ts
+   92:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  400:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  438:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/utils/ModelUtils.ts
+   26:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   89:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  129:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/utils/PlatformDataMapUtils.ts
+  15:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/src/utils/RevisionUtils.ts
+  54:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/tests/integration/managers/InviteManager.test.ts
+  22:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/tests/integration/managers/data/DataManagerAccountManager.test.ts
+  21:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/tests/integration/managers/tag/DataMapManager.test.ts
+  23:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/tests/integration/managers/tag/PlatformAssetManager.test.ts
+  22:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/tests/integration/managers/tag/PlatformDataMapManager.test.ts
+  23:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/tests/integration/managers/tag/TagManagerAccountManager.test.ts
+  21:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/tests/unit/container/ChainDependenciesBinder.test.ts
+  17:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/tests/unit/core/S8VarTypeValidation.test.ts
+  13:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/tests/unit/mongo/abstractions/Repo.test.ts
+  28:83  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/api/tests/utils/TestUtils.ts
+  116:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/common/interfaces/PlatformSpec.ts
+  59:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  78:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/common/RegisterPlatform.ts
+   7:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/common/lib/util/ElementExtended.ts
+  25:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/common/lib/util/Future.ts
+  2:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  3:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/common/lib/util/Logger.ts
+   8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/common/lib/util/Match.ts
+    6:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    8:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/common/lib/util/ObjectClone.ts
+  2:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/common/lib/util/ObjectReference.ts
+   2:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   2:96  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/common/lib/util/ObjectSearch.ts
+   1:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/common/lib/util/WindowElement.ts
+   5:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/common/types/Types.ts
+   6:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/DemoPlatform/src/Main.ts
+  41:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/HelloWorld/src/Main.ts
+  33:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/Main.ts
+  189:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/actions/TrackEvent.ts
+  27:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/containers/Custom.ts
+  23:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/containers/LocalStorage.ts
+  18:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/config/Collection.ts
+  44:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/config/DB.ts
+  18:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/config/ModelTypes.ts
+   81:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  129:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/debug/DebugLayer.ts
+   15:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/funcs/DataMapToObject.ts
+  4:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/funcs/HandleExceptionWithLogger.ts
+  1:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/interpreter/ActionInterpreter.ts
+   95:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  228:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  258:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  308:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  310:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  316:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  323:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  325:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  433:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  553:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  587:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  633:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  655:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  659:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  663:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  668:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  672:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  676:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  680:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  684:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  684:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  688:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  688:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  692:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  692:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  696:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  815:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/lib/ActionRunner.ts
+  10:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/lib/AppState.ts
+   8:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/lib/ClickData.ts
+  20:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/lib/ErrorData.ts
+  20:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/lib/EventStore.ts
+   9:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:84  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/lib/PlatformDataContainerRegister.ts
+  13:6   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/lib/PlatformRegister.ts
+  47:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/lib/RuleExecutor.ts
+  264:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  317:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  324:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  330:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/lib/TagManager.ts
+  163:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  184:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  289:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  290:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/lib/TagStore.ts
+  4:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/core/types/Types.ts
+   3:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/platforms/providers/Scale8/src/events/CMPCheck.ts
+  39:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/abstractions/AfterLazyLoadComponent.tsx
+   8:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/abstractions/AfterLoadComponent.tsx
+   9:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/abstractions/LazyQueryLoaderAndError.tsx
+  12:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/abstractions/QueryLoaderAndError.tsx
+  11:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/abstractions/TablePage.tsx
+  24:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledBooleanSelect.tsx
+  5:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledCheckbox.tsx
+  5:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledCodeInput.tsx
+  5:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledColorInput.tsx
+  5:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledCountrySelect.tsx
+  5:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledDateStampInput.tsx
+  5:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledDateStringInput.tsx
+  5:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledDomSelectorInput.tsx
+  5:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledFilteredSelects.tsx
+  17:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledFloatInput.tsx
+  5:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledIntegerInput.tsx
+  5:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledOptionalBooleanSelect.tsx
+  5:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledSelect.tsx
+  15:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledSwitch.tsx
+  5:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledTextAreaInput.tsx
+  5:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledTextInput.tsx
+  5:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/ControlledInputs/ControlledTimezoneSelect.tsx
+  8:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/InputTypes/DateInput.tsx
+  35:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/InputTypes/FormElementWithInputType.tsx
+  41:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/InputTypes/TextInputWithMacros.tsx
+  72:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/LibraryLoaders/CodeShiki.tsx
+  35:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  76:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/LibraryLoaders/LazyCodeEditor.tsx
+  6:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/Next/Link.tsx
+  11:1  error  Definition for rule 'react/display-name' was not found  react/display-name
+  71:1  error  Definition for rule 'react/display-name' was not found  react/display-name
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/atoms/PlatformValueEdit.tsx
+   97:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/BreadcrumbActions.tsx
+  14:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/DataMapDefaultValueFormSection.tsx
+  19:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/DistributionElementContainer.tsx
+  32:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/FormPermissionSection.tsx
+  6:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/MappedPlatformValues/MappedPlatformElementTypeSelect.tsx
+  21:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/MappedPlatformValues/MappedPlatformValuesForm.tsx
+  12:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/PricingSlider.tsx
+  42:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/S8Table/S8Table.tsx
+  123:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/S8Table/S8TableHead.tsx
+  27:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/S8Table/S8TableRowActionsCell.tsx
+  19:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/S8Table/S8TableRowSelectCell.tsx
+  19:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/S8Table/S8TableTypes.ts
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/SectionActionsSpeedDial.tsx
+  8:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/StorageProviderSelector.tsx
+  19:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/TabsTabPanel.tsx
+  6:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/TabularData.tsx
+  5:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/molecules/ValidationRulesSection.tsx
+  13:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/organisms/Breadcrumb.tsx
+  21:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/organisms/Forms/TwoFactorEnableForm.tsx
+  57:42  error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/organisms/PreviewFrame/PreviewFrameRevisionInfo.tsx
+  22:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/organisms/PreviewFrame/PreviewFrameTagInfo.tsx
+  41:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/organisms/PreviewFrame/PreviewFrameTagRule.tsx
+  77:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/components/templates/containers/LoggedInTemplate.tsx
+  72:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/containers/abstractions/Section.tsx
+  35:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/context/DialogFormContext.tsx
+  4:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/abstractions/DialogDirectMutation.tsx
+  22:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/abstractions/DialogForm.tsx
+  24:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/abstractions/DialogPreloadForm.tsx
+  30:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/dataManager/IngestEndpointCreate.tsx
+  36:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/dataManager/IngestEndpointDataMapCreate.tsx
+  123:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/dataManager/IngestEndpointEnvironmentCreate.tsx
+  41:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/dataManager/IngestEndpointUpdate.tsx
+  29:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/global/AccountSubscribe.tsx
+  10:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/global/ChangePlan.tsx
+  13:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/global/DataManagerStartTrial.tsx
+   9:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/global/GithubAccount.tsx
+  62:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/global/OpenOrgBillingPage.tsx
+  7:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/global/TagManagerStartTrial.tsx
+   9:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/tagManager/app/AppCreate.tsx
+  42:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/tagManager/app/AppRevisionPreview.tsx
+  76:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/tagManager/app/AppUpdate.tsx
+  28:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/tagManager/app/tag/TagCreate.tsx
+  72:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/tagManager/platform/TemplatedActionCreate.tsx
+  102:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/tagManager/platform/TemplatedActionDataMapCreate.tsx
+  23:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/tagManager/platform/TemplatedActionDataMapDelete.tsx
+  6:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/dialogPages/tagManager/platform/TemplatedActionDataMapUpdate.tsx
+  69:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/hooks/chart/useQueryOptions.ts
+  13:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/hooks/form/useConditionRuleForm.ts
+   26:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/hooks/form/useFormValidation.ts
+   20:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   22:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   23:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   28:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   57:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   79:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/hooks/form/useMappedPlatformValuesForm.ts
+  29:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/lazyComponents/Usage.tsx
+  38:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/lazyComponents/abstractions/AppDashboardList.tsx
+  18:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/pages/_document.tsx
+  16:22  error  Definition for rule '@next/next/google-font-display' was not found  @next/next/google-font-display
+  68:13  error  Definition for rule 'react/display-name' was not found              react/display-name
+  69:31  error  Unexpected any. Specify a different type                            @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/pages/login.tsx
+  127:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/scripts/BuildInfoJson.ts
+  6:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/types/DataMapsTypes.ts
+  42:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/types/IngestEndpointsTypes.ts
+  23:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/types/MappedPlatformValuesTypes.ts
+  3:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/types/PreviewFrameTypes.ts
+  97:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/types/TagRulesTypes.ts
+  106:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/types/props/forms/CommonFormProps.tsx
+   9:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/utils/ArrayUtils.ts
+  26:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  87:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/utils/BuildAppRevisionBreadcrumbActions.ts
+  24:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/utils/ElementListUtils.tsx
+  16:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/utils/MappedPlatformElementUtils.ts
+   95:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/utils/PlatformDataMapTypeUtils.tsx
+   44:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  419:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  420:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/utils/PlatformDataMapsUtils.ts
+   33:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   34:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   61:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/utils/StorageProviderUtils.ts
+  72:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/utils/TableActionsUtils.ts
+  157:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/scale8-scale8-tag-manager-and-analytics/ui/src/utils/logUtils.ts
+  1:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 1098 problems (1098 errors, 0 warnings)

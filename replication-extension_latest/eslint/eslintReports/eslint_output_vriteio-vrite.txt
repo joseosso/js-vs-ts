@@ -1,0 +1,111 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/backend/api/src/api.ts
+  13:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/backend/collaboration/src/writing.ts
+  74:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/backend/extensions/src/extensions.ts
+  13:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/backend/extensions/src/routes/dev.ts
+  84:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/backend/extensions/src/routes/hashnode.ts
+  89:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/backend/extensions/src/routes/medium.ts
+  87:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/scripts/sandbox.ts
+  88:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/context/client.tsx
+  15:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/context/notifications.tsx
+  18:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/layout/side-panel.tsx
+  12:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/layout/toolbar.tsx
+  166:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/lib/editor/extensions/collab-cursor.tsx
+  12:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/lib/extensions/component-renderer.tsx
+   15:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/lib/extensions/sandbox.ts
+  44:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/lib/extensions/view-context.tsx
+  18:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/views/content-piece/sections/custom-data.tsx
+  6:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/views/content-piece/sections/extensions.tsx
+  16:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/apps/web/src/views/extensions/extension-configuration-view.tsx
+  32:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/packages/backend/src/lib/errors.ts
+  4:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/packages/backend/src/lib/mongo.ts
+  4:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/packages/backend/src/plugins/pub-sub.ts
+  9:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/packages/editor/src/comment.ts
+  4:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/packages/editor/src/heading.ts
+  8:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/packages/editor/src/node-input-rule.ts
+  7:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/packages/editor/src/node-paste-rule.ts
+  8:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/packages/sdk/javascript/src/api/content-pieces.ts
+   15:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   15:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  146:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  146:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/packages/sdk/javascript/src/api/request.ts
+   7:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vriteio-vrite/packages/sdk/javascript/src/types/index.d.ts
+  38:7  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 53 problems (53 errors, 0 warnings)

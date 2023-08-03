@@ -1,0 +1,99 @@
+index,repo_name,ncloc,code_smells,any-type_count,cognitive_complexity,framework,bug_issues_count,bug-fix_commits_count,commits_count,avg_bug-issue_time
+1,actualbudget/actual,44639,1248,,7859,react,188,14,63,4206102.257
+2,Reamd7/notion-zh_CN,10570,30,,129,No framework identified,3,5,66,inf
+3,pot-app/pot-desktop,8822,237,,1879,react,89,23,47,331626.2706
+4,nolanlawson/fuite,6015,906,,1329,angular,8,30,34,3054334.25
+5,dragonir/3d,25998,2287,,3996,react,1,3,82,inf
+6,kkoomen/pointless,3175,17,,362,react,4,9,51,inf
+7,chetannada/Namaste-React,6541,60,,115,react,2,6,50,inf
+8,VideoTogether/VideoTogether,74236,1553,,25732,No framework identified,3,23,78,inf
+9,adrianhajdin/project_music_player,1100,3,,64,react,1,13,45,inf
+10,lyfe00011/whatsapp-bot-md,4343,60,,825,No framework identified,61,68,94,561013.8077
+11,duiqt/herta_kuru,647,24,,75,No framework identified,2,17,77,inf
+12,avinash201199/Competitions-and-Programs-List,1223,4,,15,No framework identified,14,2,37,1423332.083
+13,illustrated-machine-learning/illustrated-machine-learning.github.io,1399,5,,29,react,2,7,45,inf
+14,keldenl/gpt-llama.cpp,1908,79,,305,express,14,20,73,238096.5
+15,EyuCoder/chatgpt-clone,620,4,,42,react,9,6,65,817416.4444
+16,gamer-ai/eletypes-frontend,3908,43,,320,react,4,19,73,inf
+17,cocktailpeanut/breadboard,171,8,,38,No framework identified,7,23,74,924615.1429
+18,revenz/Fenrus,34518,1246,,9389,No framework identified,25,17,62,3616268.333
+19,mafiosnik777/enhancr,8384,1092,,2181,No framework identified,6,26,73,46489
+20,jvdutrag/open-source-rpg,3166,11,,148,react,1,1,42,inf
+21,idurar/starter-antd-admin-crud-auth-mern,5374,83,,292,react,1,6,34,inf
+22,titaniumnetwork-dev/Ultraviolet,5606,47,,965,No framework identified,19,11,51,1440384.526
+23,benbrown/shuttlecraft,2942,53,,588,express,16,18,61,484808.25
+24,lucahammer/fedifinder,1999,95,,483,express,18,19,69,519794.6667
+25,badlogic/heissepreise,6546,183,,1663,express,14,11,75,226063.0714
+26,iprodanovbg/homeassistant-desktop,681,6,,158,No framework identified,7,23,51,1844797.714
+27,dynamicweb/swiffy-slider,324,10,,89,No framework identified,20,6,34,352318.05
+28,tenpages/us-level,1733,7,,74,No framework identified,1,14,58,inf
+29,OpenAsar/arrpc,674,24,,193,No framework identified,5,6,66,170709.8
+30,wenhaomin/ChatGPT-PromptGenius,22113,1474,,32735,No framework identified,2,9,70,inf
+31,easonwong-de/Adaptive-Tab-Bar-Colour,1633,84,,451,No framework identified,17,2,67,3537782.294
+32,chartello/chartello,932,0,,18,vue,2,1,37,inf
+33,arduino/lab-micropython-editor,4599,433,,1599,No framework identified,10,16,85,1090469.1
+34,rstudio/shinyuieditor,108,2,,5,,22,12,52,2345780.727
+35,dataplane-app/dataplane,29038,220,,2664,react,12,12,61,848044.9167
+36,ericdiviney/react-handbook,4585,9,,124,react,3,5,36,inf
+37,artgenexyz/webflow-nft-components,1567,24,,218,react,9,40,76,966473.1111
+38,Tairraos/TikDown,832,11,,78,No framework identified,1,5,49,inf
+39,Clueless-Community/first-contribution,4949,7,,20,react,13,4,92,41716.69231
+40,zach-hopkins/create-t3svelte-app,469,17,,79,No framework identified,6,6,31,147122.3333
+41,OSSPhilippines/philippines-travel-level-map,1498,8,,16,react,4,18,54,inf
+42,LunarVim/lunarvim.org,1386,13,,54,react,8,8,31,2190267.25
+43,foyzulkarim/mern-video-streaming,5966,40,,224,react,4,2,51,inf
+44,Shopify/shopify-app-examples,1578,12,,103,react,2,14,81,inf
+45,amupedia2021/Project-Amupedia,6494,73,,166,react,99,5,56,1277088.093
+46,socketsupply/create-socket-app,660,6,,89,No framework identified,9,9,45,1700501.111
+47,bytemakers/Noteslify,5095,155,,246,react,46,13,63,765009.5227
+48,R2Northstar/NorthstarMasterServer,1971,46,,384,No framework identified,1,27,76,inf
+49,tdjsnelling/sqtracker,11564,120,,1144,react,10,26,79,1226469.6
+50,fjwillemsen/NativeOverleaf,1699,85,,459,No framework identified,5,9,61,1110918.4
+51,immortalwrt/homeproxy,2775,200,,640,No framework identified,3,8,34,inf
+52,joshcawthorne/LunaDesk,5842,157,,198,react,3,5,65,inf
+53,MonalikaPatnaik/UMatter,5167,111,,127,react,165,19,82,306961.2244
+54,ckalgos/fut-trade-enhancer,6868,40,,785,No framework identified,29,25,51,3319250.464
+55,Project-And-Factory/BlurLyric,12292,253,,1323,vue,7,7,67,1072500
+56,acikyazilimagi/deprem-io-backend,1536,31,,204,No framework identified,10,36,72,27083.7
+57,alphabit-technology/erpnext-restaurant,5481,59,,963,No framework identified,3,3,64,inf
+58,Kanika637/amazon-clone,2064,47,,46,react,21,3,57,614936.5
+59,Meta3D-Technology/Meta3D,67065,9177,,11075,react,1,12,32,inf
+60,Akshima-Ghai/OneEducationalWebsiteForAll,4347,29,,196,react,11,2,68,416701.7
+61,Daksh777/TakeABreak,1013,155,,315,No framework identified,22,2,56,925189.3182
+62,harshmangalam/hydrogen-solidjs-client,8308,62,,122,No framework identified,8,26,89,329459.125
+63,small-tech/nodekit,3384,154,,391,foundation,3,13,77,inf
+64,neesjanvaneck/VOSviewer-Online,11363,52,,1690,react,13,15,40,1588864.308
+65,GregVido/mica-electron,401,1,,56,No framework identified,7,17,32,1571285.143
+66,Stoccoin-Official/Stoccoin-Website,2260,10,,62,react,40,16,67,2220872.789
+67,dappnetbby/dappnet,3063,268,,376,react,13,8,62,3160214
+68,UBA-GCOEN/StichHub,19159,556,,665,react,17,7,59,263456.75
+69,davunt/app-eraser,716,11,,43,No framework identified,1,4,42,inf
+70,sudojia/scripts,365,1,,98,No framework identified,1,1,57,inf
+71,shi-yan/Epiphany,4651,198,,1081,No framework identified,2,20,73,inf
+72,OrbisWeb3/orbis-sdk,2238,89,,402,No framework identified,1,4,34,inf
+73,StreamAble-Team/StreamAble-app,12358,296,,376,react,10,16,58,40278.8
+74,rohansx/informatician,5801,54,,152,react,201,26,83,116161.8345
+75,quiqr/quiqr-desktop,19886,376,,2326,react,111,13,59,9295659.556
+76,TeamAOF/All-of-Fabric-6,7626,2,,20,No framework identified,57,7,48,915396.8596
+77,llopisdon/skies-adsb,1332,9,,189,No framework identified,1,12,67,inf
+78,lmachens/skeleton,974,4,,143,No framework identified,4,5,43,inf
+79,gabrysia694/Gym-Junkies,1026,6,,27,react,17,8,33,126419.5625
+80,usmansbk/pomofocus,1152,0,,44,react,1,2,85,inf
+81,ZigZagExchange/frontend,21625,218,,2302,react,24,40,94,425434.7917
+82,Persian-Caesar/Ticker-Boy,2465,118,,698,express,1,3,68,inf
+83,jessejanderson/skylink,182,2,,69,No framework identified,3,6,42,inf
+84,CTF-Cafe/CTF_Cafe_platform,12275,255,,1737,react,11,6,83,1917518.636
+85,GamerKingFaiz/shouldiplay,736,3,,40,react,3,6,51,inf
+86,ianb/llm-garden,16341,177,,2400,preact,2,13,95,inf
+87,leomcelroy/svg-pcb,31018,2282,,9228,No framework identified,6,10,95,1608153.8
+88,seths10/Quotes-Generator,6921,3,,4,No framework identified,1,4,88,inf
+89,cyboholics/portfolioshop,4374,54,,118,react,7,3,31,3986195.571
+90,whitespider-dev/whitespider,100842,6702,,22715,No framework identified,1,2,57,inf
+91,leolee9086/cc-image-tag-new,73445,4133,,60205,No framework identified,18,4,76,411353.3333
+92,NovaAppsInc/fracital-proxy,60164,8935,,42512,express,6,1,37,4780457
+93,spandan114/Crowdfunding-DAPP,1314,51,,69,react,1,2,34,inf
+94,terwer/siyuan-plugin-publisher,10344,26,,711,vue,24,14,58,898895.1818
+95,zoom/zoomapps-sample-js,526,0,,50,express,3,7,53,inf
+96,GrabBits/GrabBits_Website,4819,63,,194,react,33,21,59,215145.1935
+97,shohan-pherones/euphoria-ecommerce,2231,5,,64,react,2,9,94,inf
+98,developerforce/salesforce-slack-starter-kit,1199,3,,73,express,5,18,46,5746881

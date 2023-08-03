@@ -1,0 +1,508 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/build_bundle.ts
+  19:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/cmd/server.ts
+  18:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/cmd/user_add.ts
+   6:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/cmd/user_chgrp.ts
+   5:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/cmd/user_delete.ts
+   6:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/cmd/user_passwd.ts
+   6:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/async_util.ts
+  2:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/markdown_parser/markdown_ext.ts
+  50:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/markdown_parser/parser.ts
+  45:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  94:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/spaces/disk_space_primitives.ts
+  160:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/spaces/fallback_space_primitives.ts
+  39:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/spaces/file_meta_space_primitives.ts
+  16:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/spaces/http_space_primitives.ts
+  40:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/spaces/indexeddb_space_primitives.ts
+  19:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/spaces/plug_space_primitives.ts
+  33:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/spaces/sync.ts
+   98:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/types.ts
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/common/util.ts
+  19:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/lib/attribute.ts
+  23:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/lib/frontmatter.ts
+   18:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   19:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   62:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  138:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/lib/query.ts
+   13:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   47:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/lib/secrets_page.ts
+   6:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/lib/settings_page.ts
+  22:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  69:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/lib/syscall_mock.ts
+  3:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/lib/yaml_page.ts
+  43:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/plugos-syscall/event.ts
+  5:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/plugos-syscall/store.ts
+   5:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/plugos-syscall/syscall.ts
+  2:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/plugos-syscall/yaml.ts
+   5:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/silverbullet-syscall/editor.ts
+  107:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  132:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/silverbullet-syscall/index.ts
+   6:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/silverbullet-syscall/store.ts
+  3:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/silverbullet-syscall/syscall.ts
+  2:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plug-api/silverbullet-syscall/system.ts
+   7:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/compile.ts
+  29:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/environments/deno_sandbox.ts
+  24:8  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/event.ts
+  12:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/hooks/cron.ts
+  56:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/hooks/endpoint.ts
+  10:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/hooks/event.ts
+  13:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/lib/kv_store.dexie.ts
+  10:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/lib/kv_store.json_file.ts
+   4:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/lib/kv_store.ts
+   3:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/plug.ts
+  43:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/protocol.ts
+  15:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/sandbox.ts
+  16:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/syscalls/asset.ts
+  3:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/syscalls/event.ts
+  6:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/syscalls/fs.deno.test.ts
+  6:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/syscalls/store.dexie_browser.ts
+  21:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/syscalls/transport.ts
+   8:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/system.ts
+   7:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  85:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  86:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  89:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugos/worker_runtime.ts
+   7:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/cloud.ts
+  31:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/embed.ts
+  27:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/item.ts
+  16:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  78:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/link.ts
+  20:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/navigate.ts
+  114:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/page.ts
+  23:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/page_links.ts
+  110:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/plugmanager.ts
+  15:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  99:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/refactor.ts
+    5:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   16:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   55:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/template.ts
+  221:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  245:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/text.ts
+  84:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/core/vim.ts
+  27:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/directive/command.ts
+   60:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/directive/data.ts
+  11:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/directive/directives.ts
+  52:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/directive/eval_directive.ts
+  63:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/directive/handlebar_helpers.ts
+  5:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  6:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/directive/parser.ts
+  64:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  94:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/directive/query.test.ts
+  100:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/directive/template_directive.ts
+  54:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/directive/util.ts
+   9:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  85:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/federation/federation.ts
+  92:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  99:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/markdown/markdown_render.test.ts
+  11:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/markdown/preview.ts
+  35:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/search/search.ts
+  53:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/share/publish.ts
+  28:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/plugs/tasks/task.ts
+  38:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/server/http_server.ts
+   95:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  324:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  366:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  439:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/server/spaces/s3_space_primitives.test.ts
+  28:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/server/spaces/s3_space_primitives.ts
+  58:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/client.ts
+  151:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  361:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  361:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  467:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  622:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  662:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  731:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/client_system.ts
+  149:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/admonition.ts
+  102:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/block.ts
+  10:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/block_quote.ts
+  9:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/command_link.ts
+  17:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/directive.ts
+  12:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/fenced_code.ts
+  28:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  99:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/hide_mark.ts
+  41:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/link.ts
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/list.ts
+  12:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/table.ts
+  29:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/task.ts
+  36:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/cm_plugins/wiki_link.ts
+  18:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/components/mini_editor.tsx
+  116:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/components/panel.tsx
+  126:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/editor_state.ts
+  86:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/editor_ui.tsx
+   30:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/service_worker.ts
+   24:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/sync_service.ts
+  146:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  210:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/syscalls/editor.ts
+   89:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/syscalls/index.ts
+   7:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/syscalls/system.ts
+   8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/syscalls/yaml.ts
+  6:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/silverbulletmd-silverbullet/web/types.ts
+    8:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   23:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 290 problems (290 errors, 0 warnings)

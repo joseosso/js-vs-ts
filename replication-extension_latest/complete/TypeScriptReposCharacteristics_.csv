@@ -1,0 +1,102 @@
+index,repo_name,ncloc,code_smells,any-type_count,cognitive_complexity,framework,bug_issues_count,bug-fix_commits_count,commits_count,avg_bug-issue_time
+1,lensterxyz/lenster,40476.0,210.0,7722.0,2553.0,react,376.0,16.0,75.0,1944384.335149864
+2,immich-app/immich,34338.0,412.0,0.0,2115.0,react,616.0,25.0,45.0,1537138.3043478262
+3,Bin-Huang/chatbox,2822.0,16.0,11.0,207.0,react,280.0,9.0,50.0,2166705.667883212
+4,FlowiseAI/Flowise,14664.0,195.0,184.0,1577.0,react,85.0,17.0,68.0,450963.0240963855
+5,ixahmedxi/noodle,2323.0,14.0,0.0,44.0,react,13.0,15.0,48.0,372585.6666666667
+6,apitable/apitable,,,3142.0,,react,182.0,26.0,41.0,828606.314917127
+7,teaxyz/cli,655.0,20.0,4.0,175.0,No framework identified,146.0,13.0,77.0,1493786.2896551725
+8,yaklang/yakit,2988.0,69.0,1323.0,219.0,react,64.0,13.0,90.0,1333295.65625
+9,e2b-dev/e2b,9514.0,64.0,82.0,472.0,react,13.0,3.0,76.0,304246.53846153844
+10,lenstube-xyz/lenstube,49056.0,378.0,2217.0,1405.0,react,45.0,30.0,60.0,1885256.9069767443
+11,futantan/OpenGpt,2603.0,29.0,11.0,146.0,react,6.0,14.0,80.0,inf
+12,bluesky-social/social-app,46790.0,1747.0,151.0,3727.0,react,198.0,30.0,83.0,1241904.5279187816
+13,Lissy93/web-check,1268.0,14.0,109.0,80.0,react,3.0,7.0,60.0,inf
+14,liou666/polyglot,2587.0,29.0,12.0,148.0,,14.0,14.0,56.0,227607.2857142857
+15,Mayandev/notion-avatar,1410.0,11.0,5.0,36.0,react,2.0,23.0,58.0,inf
+16,gmpetrov/databerry,3200.0,100.0,286.0,112.0,react,4.0,30.0,89.0,inf
+17,rainbow-me/rainbowkit,1902.0,4.0,25.0,85.0,react,236.0,46.0,59.0,2322694.863829788
+18,cfortuner/promptable,4958.0,255.0,121.0,264.0,react,2.0,8.0,52.0,inf
+19,ballerine-io/ballerine,40586.0,209.0,0.0,1355.0,react,20.0,34.0,72.0,4503886.15
+20,OneKeyHQ/app-monorepo,,0.0,1347.0,,,42.0,76.0,94.0,953704.4761904762
+21,analogjs/analog,9051.0,56.0,73.0,472.0,,81.0,25.0,51.0,2369865.0
+22,running-elephant/datart,,0.0,948.0,,react,250.0,39.0,62.0,1617965.2943548388
+23,Mirrorful/mirrorful,17765.0,87.0,0.0,713.0,react,39.0,24.0,68.0,444048.1538461539
+24,lcomplete/huntly,,,10.0,,react,6.0,10.0,36.0,310536.5
+25,expo/router,19582.0,224.0,184.0,1708.0,react,143.0,28.0,51.0,1770880.147887324
+26,silverbulletmd/silverbullet,16843.0,299.0,290.0,2322.0,No framework identified,78.0,8.0,66.0,1621840.3717948718
+27,Privoce/vocechat-web,,,50.0,,react,28.0,20.0,85.0,920346.6428571428
+28,chronark/highstorm,8764.0,217.0,7.0,341.0,react,2.0,21.0,75.0,inf
+29,figment-networks/learn-web3-dapp,17151.0,350.0,52.0,1184.0,react,14.0,16.0,44.0,724062.2307692308
+30,cybersecsi/houdini,1181.0,9.0,0.0,70.0,react,2.0,13.0,38.0,inf
+31,kubero-dev/kubero,10325.0,158.0,103.0,606.0,vue,23.0,9.0,39.0,547365.6818181818
+32,opengs/uashield,3705.0,21.0,0.0,204.0,vue,21.0,15.0,55.0,780405.3157894737
+33,Shelf-nu/shelf.nu,14412.0,53.0,6.0,666.0,react,20.0,13.0,73.0,787793.8421052631
+34,jeremyckahn/chitchatter,5877.0,8.0,9.0,388.0,react,5.0,26.0,77.0,2415254.8
+35,vriteio/vrite,28978.0,232.0,53.0,2407.0,No framework identified,3.0,41.0,72.0,inf
+36,aeharding/voyager,17506.0,88.0,0.0,1340.0,react,61.0,7.0,69.0,192427.77049180327
+37,KnowledgeCanvas/knowledge,16876.0,155.0,294.0,1723.0,angular,16.0,11.0,65.0,3452303.9375
+38,getstation/desktop-app,42175.0,992.0,952.0,2244.0,react,63.0,20.0,50.0,4590857.542857143
+39,upupming/new-grad-positions,2428.0,2.0,4.0,78.0,react,1.0,8.0,57.0,inf
+40,42atomys/stud42,9312.0,53.0,16.0,382.0,react,24.0,23.0,38.0,2430898.0434782607
+41,clerkinc/t3-turbo-and-clerk,563.0,9.0,0.0,17.0,react,26.0,6.0,46.0,763125.56
+42,remix-run/indie-stack,1356.0,1.0,0.0,90.0,react,67.0,10.0,37.0,3277917.7164179105
+43,deiucanta/chatpad,2512.0,16.0,14.0,178.0,react,2.0,6.0,33.0,inf
+44,stonith404/pingvin-share,11366.0,44.0,9.0,466.0,react,57.0,31.0,64.0,856074.5892857143
+45,Kuingsmile/PicList,26702.0,191.0,368.0,3447.0,vue,25.0,17.0,52.0,116076.76
+46,dyrector-io/dyrectorio,49594.0,361.0,207.0,3454.0,react,8.0,31.0,56.0,1409360.375
+47,bamlab/flashlight,6850.0,45.0,2.0,377.0,react,16.0,23.0,44.0,4446721.8125
+48,skynexui/components,2370.0,18.0,0.0,57.0,react,5.0,16.0,35.0,inf
+49,juliusmarminge/acme-corp,8459.0,56.0,0.0,242.0,react,5.0,17.0,44.0,656506.0
+50,revoltchat/desktop,412.0,2.0,3.0,75.0,No framework identified,37.0,13.0,32.0,5146614.575757576
+51,dust-tt/dust,52492.0,481.0,105.0,5608.0,react,35.0,26.0,86.0,1141536.0
+52,leerob/on-demand-isr,514.0,3.0,5.0,7.0,react,229.0,10.0,50.0,875097.6282722513
+53,OrJDev/create-jd-app,2450.0,12.0,0.0,244.0,No framework identified,22.0,10.0,33.0,1017637.5454545454
+54,vendetta-mod/Vendetta,2242.0,41.0,85.0,307.0,react,8.0,16.0,91.0,748140.75
+55,nocode-js/sequential-workflow-designer,7668.0,30.0,0.0,528.0,,8.0,7.0,64.0,1003953.5
+56,cosmograph-org/cosmos,753.0,2.0,0.0,27.0,No framework identified,5.0,7.0,82.0,279381.0
+57,langchain-ai/auto-evaluator,2193.0,22.0,7.0,88.0,react,12.0,12.0,54.0,131440.66666666666
+58,Memmy-App/memmy,22295.0,96.0,121.0,1058.0,react,229.0,29.0,65.0,181808.5580357143
+59,burhan-syed/troddit,22671.0,784.0,229.0,4295.0,react,30.0,24.0,86.0,2387985.433333333
+60,divriots/jampack,2065.0,33.0,8.0,371.0,,4.0,8.0,37.0,inf
+61,antvis/G6VP,21171.0,212.0,749.0,1226.0,react,20.0,35.0,72.0,1279666.1666666667
+62,hadmean/hadmean,52332.0,123.0,59.0,1165.0,react,3.0,15.0,100.0,inf
+63,mirror-xyz/degen,6829.0,23.0,8.0,225.0,react,1.0,9.0,42.0,inf
+64,FightingDesign/fighting-design,18211.0,105.0,0.0,792.0,vue,8.0,18.0,73.0,2365499.25
+65,diego3g/rsxp-2023,1349.0,8.0,0.0,41.0,react,3.0,8.0,56.0,inf
+66,mui/mui-toolpad,25103.0,190.0,223.0,2347.0,react,151.0,3.0,41.0,1651020.8791946308
+67,different-ai/embedbase,,,78.0,,react,11.0,35.0,72.0,1027088.6363636364
+68,wslyvh/nexth,1830.0,13.0,4.0,131.0,,4.0,5.0,50.0,inf
+69,mdSilo/mdSilo-app,5263.0,74.0,0.0,625.0,react,12.0,7.0,60.0,3368098.1666666665
+70,nombersDev/casemove,16419.0,191.0,164.0,1562.0,react,14.0,13.0,56.0,1314238.8461538462
+71,adrianhajdin/project_nextjs13_flexibble,1551.0,15.0,2.0,62.0,react,5.0,12.0,97.0,148754.4
+72,benallfree/pockethost,6424.0,126.0,77.0,574.0,No framework identified,28.0,23.0,66.0,8134350.821428572
+73,pingcap/ossinsight-lite,10520.0,144.0,164.0,922.0,react,13.0,40.0,68.0,786189.5454545454
+74,mantou132/nesbox,17684.0,172.0,60.0,1726.0,No framework identified,19.0,1.0,87.0,904460.8333333334
+75,remix-run/grunge-stack,1263.0,0.0,2.0,77.0,react,15.0,13.0,43.0,4421491.692307692
+76,premAI-io/prem-app,6580.0,69.0,3.0,185.0,react,17.0,22.0,67.0,425210.82352941175
+77,kiliman/remix-typedjson,685.0,10.0,6.0,86.0,react,6.0,2.0,31.0,775449.4
+78,liaoliao666/v2ex,7447.0,33.0,40.0,450.0,react,2.0,27.0,86.0,inf
+79,LedgerHQ/ledger-live,,,1011.0,,,94.0,44.0,67.0,2763913.4782608696
+80,gemworks/gem-farm,17204.0,95.0,72.0,400.0,,23.0,18.0,59.0,880026.4347826086
+81,jycouet/kitql,2044.0,28.0,0.0,253.0,react,26.0,8.0,31.0,1450857.3846153845
+82,mlomb/chat-analytics,1740.0,42.0,36.0,228.0,react,13.0,13.0,87.0,1250447.6153846155
+83,Dun-sin/Code-Magic,2546.0,27.0,0.0,203.0,No framework identified,70.0,20.0,39.0,333463.3823529412
+84,pheralb/slug,1815.0,16.0,0.0,64.0,react,1.0,3.0,70.0,inf
+85,scale8/scale8-tag-manager-and-analytics,,,1093.0,,react,1.0,23.0,79.0,inf
+86,denoland/showcase_chat,1191.0,12.0,0.0,50.0,No framework identified,5.0,23.0,66.0,4195520.6
+87,AlexandroMtzG/remix-page-blocks,9024.0,76.0,14.0,652.0,react,1.0,5.0,42.0,inf
+88,priyankarpal/ProjectsHut,1675.0,30.0,7.0,72.0,react,20.0,28.0,40.0,30123.11111111111
+89,MananTank/cybertype,1508.0,8.0,0.0,144.0,react,1.0,9.0,45.0,inf
+90,calcom/synclinear.com,4890.0,35.0,14.0,775.0,react,43.0,16.0,89.0,2523626.214285714
+91,harlan-zw/nuxt-delay-hydration,904.0,13.0,1.0,106.0,No framework identified,15.0,18.0,36.0,4108051.0714285714
+92,FuelLabs/swayswap,10296.0,52.0,0.0,398.0,react,45.0,48.0,83.0,729269.3555555556
+93,ionic-team/trapeze,,,156.0,,react,54.0,7.0,33.0,1247184.6981132077
+94,jbilcke/latent-browser,1396.0,17.0,6.0,31.0,react,4.0,17.0,46.0,inf
+95,nrwl/monorepo.tools,4590.0,3.0,3.0,16.0,react,1.0,9.0,47.0,inf
+96,noahflk/railtrack,4253.0,12.0,0.0,242.0,react,6.0,5.0,68.0,260506.0
+97,danloh/mdSilo-web,8903.0,91.0,0.0,780.0,react,3.0,14.0,94.0,inf
+98,skillrecordings/products,8977.0,69.0,1276.0,407.0,,11.0,21.0,78.0,2172923.363636364
+99,FrontendMasters/remix-fundamentals,26571.0,117.0,0.0,1751.0,react,3.0,9.0,46.0,inf
+100,tastejs/angular-movies,5351.0,29.0,51.0,183.0,angular,4.0,10.0,31.0,inf
+101,zerforschung/schnelltesttest.de,1381.0,15.0,1.0,118.0,react,1.0,8.0,45.0,inf

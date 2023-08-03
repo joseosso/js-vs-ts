@@ -1,0 +1,15 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bamlab-flashlight/packages/android-performance-profiler/src/commands/shell.ts
+  7:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bamlab-flashlight/packages/appium-helper/AppiumDriver.ts
+  13:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bamlab-flashlight/packages/flipper-plugin-android-performance-profiler/src/__tests__/Plugin.test.ts
+  3:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+  5:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bamlab-flashlight/packages/measure/src/__tests__/measure.test.tsx
+  45:5  error  Definition for rule 'testing-library/render-result-naming-convention' was not found  testing-library/render-result-naming-convention
+
+✖ 5 problems (5 errors, 0 warnings)

@@ -1,0 +1,186 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Form/Row.tsx
+  66:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  98:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/CarbonFootprint.tsx
+  14:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/ContentLinks.tsx
+  45:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/Cookies.tsx
+   4:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   4:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/DnsRecords.tsx
+  13:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/DnsSec.tsx
+  151:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/DnsServer.tsx
+  16:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/DomainLookup.tsx
+  13:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/Headers.tsx
+  5:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/HostNames.tsx
+  35:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/Hsts.tsx
+  23:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/Lighthouse.tsx
+  27:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/MailConfig.tsx
+   9:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/OpenPorts.tsx
+   8:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/Redirects.tsx
+  22:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/RobotsTxt.tsx
+  13:93  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/Screenshot.tsx
+  14:106  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/SecurityTxt.tsx
+  34:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/ServerInfo.tsx
+  5:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/ServerLocation.tsx
+  29:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/ServerStatus.tsx
+  13:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/SiteFeatures.tsx
+  40:42   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:77   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:51   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:100  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:45   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/Sitemap.tsx
+  20:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/SocialTags.tsx
+  20:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/SslCert.tsx
+  80:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  80:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/TechStack.tsx
+  81:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  86:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/TraceRoute.tsx
+  35:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/TxtRecords.tsx
+  11:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/Results/WhoIs.tsx
+  56:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/misc/ActionButtons.tsx
+  41:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/misc/AdditionalResources.tsx
+  207:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/misc/FancyBackground.tsx
+   12:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   14:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   28:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/misc/LocationMap.tsx
+  35:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/components/misc/ViewRaw.tsx
+  42:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/hooks/motherOfAllHooks.ts
+   8:42   error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  14:92   error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  14:120  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  25:19   error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  27:52   error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  29:43   error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  40:17   error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  60:24   error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  92:3    error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/pages/Results.tsx
+   94:122  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:25   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:51   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:30   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:51   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Lissy93-web-check/src/utils/result-processor.ts
+   31:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 110 problems (110 errors, 0 warnings)

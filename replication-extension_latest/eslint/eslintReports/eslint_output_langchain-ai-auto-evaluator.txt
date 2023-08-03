@@ -1,0 +1,24 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/langchain-ai-auto-evaluator/nextjs/components/Demo.tsx
+  245:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/langchain-ai-auto-evaluator/nextjs/components/Playground.tsx
+  129:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  280:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/langchain-ai-auto-evaluator/nextjs/components/tables/ExperimentResultTable.tsx
+  9:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/langchain-ai-auto-evaluator/nextjs/components/tables/FilesTable.tsx
+  3:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/langchain-ai-auto-evaluator/nextjs/pages/_app.tsx
+  77:15  error  Definition for rule 'react/no-danger' was not found  react/no-danger
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/langchain-ai-auto-evaluator/nextjs/utils/renderPassFail.ts
+  1:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/langchain-ai-auto-evaluator/nextjs/utils/types.ts
+  13:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 8 problems (8 errors, 0 warnings)

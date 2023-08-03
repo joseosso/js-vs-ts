@@ -1,0 +1,21 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/jeremyckahn-chitchatter/src/Bootstrap.test.tsx
+  18:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/jeremyckahn-chitchatter/src/components/Room/useRoom.ts
+  308:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/jeremyckahn-chitchatter/src/components/Shell/Shell.tsx
+  201:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  219:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/jeremyckahn-chitchatter/src/services/PeerRoom/PeerRoom.ts
+  47:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/jeremyckahn-chitchatter/src/utils.ts
+   6:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   6:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 9 problems (9 errors, 0 warnings)

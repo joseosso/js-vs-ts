@@ -1,0 +1,40 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mirror-xyz-degen/components/src/components/FileInput/FileInput.tsx
+  160:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  171:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  174:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  183:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mirror-xyz-degen/components/src/components/Stack/utils.ts
+  37:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mirror-xyz-degen/components/src/css/responsiveStyle.ts
+  37:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mirror-xyz-degen/components/test/index.tsx
+  19:26  error  Unexpected any. Specify a different type           @typescript-eslint/no-explicit-any
+  19:68  error  Unexpected any. Specify a different type           @typescript-eslint/no-explicit-any
+  38:40  error  Unexpected any. Specify a different type           @typescript-eslint/no-explicit-any
+  56:1   error  Definition for rule 'import/export' was not found  import/export
+  58:1   error  Definition for rule 'import/export' was not found  import/export
+  63:1   error  Definition for rule 'import/export' was not found  import/export
+  65:1   error  Definition for rule 'import/export' was not found  import/export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mirror-xyz-degen/docs/src/components/CodeBlock.tsx
+   81:8  error  Definition for rule 'react/no-array-index-key' was not found  react/no-array-index-key
+  116:8  error  Definition for rule 'react/no-array-index-key' was not found  react/no-array-index-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mirror-xyz-degen/docs/src/components/Nav.tsx
+  34:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  42:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mirror-xyz-degen/docs/src/components/SearchIcons.tsx
+  63:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mirror-xyz-degen/docs/src/pages/components/[slug].tsx
+  32:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mirror-xyz-degen/docs/src/pages/guides/[slug].tsx
+  30:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 20 problems (20 errors, 0 warnings)

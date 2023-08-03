@@ -1,0 +1,119 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/cache/useRehydrate.ts
+  38:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/listener.middleware/handler.archive.msg.ts
+  4:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/listener.middleware/handler.channels.ts
+  7:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/listener.middleware/handler.dm.msg.ts
+  4:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/listener.middleware/handler.file.msg.ts
+  4:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/listener.middleware/handler.footprint.ts
+  6:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/listener.middleware/handler.message.ts
+  4:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/listener.middleware/handler.reaction.ts
+  4:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/listener.middleware/handler.server.ts
+  6:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/listener.middleware/handler.ui.ts
+  4:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/services/base.query.ts
+  48:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/slices/favorites.ts
+  5:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/slices/message.channel.ts
+  23:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/slices/message.ts
+  48:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/slices/message.user.ts
+  21:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/app/slices/ui.ts
+  17:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/components/ContextMenu.tsx
+  10:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/components/Electron.tsx
+  8:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/components/Message/PinMessageModal.tsx
+  29:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/components/Message/index.tsx
+  29:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/components/MixedInput/index.tsx
+   37:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/components/Send/UploadFileList/EditFileDetails.tsx
+  14:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/components/Send/index.tsx
+  79:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/components/TextInput/index.tsx
+  11:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/components/styled/Input.tsx
+  30:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/components/styled/Radio.tsx
+  7:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/react-app-env.d.ts
+  72:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/routes/chat/utils.tsx
+  130:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/routes/login/MetamaskLoginButton.tsx
+  31:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/routes/resources/Filter/index.tsx
+  31:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/routes/setting/License/UpdateLicenseModal.tsx
+  12:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/types/global.d.ts
+  47:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Privoce-vocechat-web/src/widget/Popup/MessageInput.tsx
+  57:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 51 problems (51 errors, 0 warnings)

@@ -1,0 +1,1305 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/AjustLayout/Component.tsx
+   44:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  212:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/AnalysisHistory/ConfigurePanel.tsx
+  23:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/AnalysisHistory/FlowGraph.tsx
+   40:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   92:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/AnalysisHistory/ParamterizePanel.tsx
+  41:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/AnalysisHistory/TemplateDrawer.tsx
+   15:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  229:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  234:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/AnalysisHistory/TemplateModal.tsx
+   74:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   75:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  178:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  201:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  201:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  202:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/AnalysisHistory/flowNodeRegistry.tsx
+  12:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/AnalysisHistory/type.tsx
+  16:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/AnalysisHistory/util.tsx
+    9:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   39:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   61:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  205:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  231:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  283:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  335:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  360:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  401:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  449:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/Assistant/Component.tsx
+  22:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/GraphAnnotation/Component.tsx
+  12:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  95:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/GremlinPathQuery/Component.tsx
+   16:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  356:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/JSONMode/Component.tsx
+  30:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/ModeSwitch/Component.tsx
+  62:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/PublishTemplate/index.tsx
+   46:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/SearchBar/Component.tsx
+   25:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/StyleSetting/Component.tsx
+  14:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/StyleSetting/StyleSettingPanel.tsx
+   8:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/SubGraphLayout/utils.ts
+  92:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/TableMode/Component.tsx
+  55:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/TableMode/utils/highlight.ts
+   2:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/TemplateQuery/Component.tsx
+   28:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  215:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/ThemeSetting/typing.ts
+  10:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/hooks/useRedoUndo.tsx
+   11:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   12:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   13:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   16:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  186:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  203:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/components/types/index.ts
+  2:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/CircleBar/registerTransform.ts
+  54:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ClusterNode/registerShape.ts
+    3:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  322:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  329:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/draw_bizIntervene.ts
+  4:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/draw_bizQuotas.ts
+   11:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   32:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:3   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  328:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/draw_button.ts
+  2:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/draw_contribution.ts
+  17:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/draw_empty.ts
+  4:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/draw_keyShape.ts
+  6:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/draw_rose.ts
+   16:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   24:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   87:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:3   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  231:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  234:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/draw_runningState.ts
+   8:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/draw_variability.ts
+   8:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/index.ts
+   14:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   15:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   16:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/interface.ts
+   57:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/preprocess.ts
+  68:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/tooltip.ts
+   83:92  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/elements/ReasonNode/reason_analysis_node/util.ts
+   4:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/services/CypherQuery.ts
+   7:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/services/GremlinQuery.ts
+   6:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/services/HistoryAnalyseService.ts
+  6:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/services/OpenAIQuery.ts
+  9:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-advance/src/services/TemplateService.ts
+  3:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/CommunityDetection/Component.tsx
+   39:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  319:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  359:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/NodeImportance/Component.tsx
+  344:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  345:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/NodeImportance/resultPlot.tsx
+  14:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  78:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/NodesClustering/Component.tsx
+  36:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/NodesSimilarity/Component.tsx
+   29:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/PatternMatch/AddRelation.tsx
+  13:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/PatternMatch/Component.tsx
+  489:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  502:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  503:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  504:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  547:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  724:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  725:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/PatternMatch/StyleConfigPropertyItem.tsx
+  18:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/PatternMatch/editDrawer.tsx
+   13:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   21:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  314:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  326:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  473:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/PatternMatch/patternEditor.tsx
+   45:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  114:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  360:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  363:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  367:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  370:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  514:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  619:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  695:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  752:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  803:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  842:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  873:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/PatternMatch/patternPane.tsx
+   29:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   50:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  132:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/PatternMatch/resultTable.tsx
+  8:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/PatternMatchSimple/Component.tsx
+  229:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  278:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/PatternMatchSimple/PatternGraph.tsx
+  4:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/types/index.ts
+  2:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/utils/debounce.ts
+  3:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/utils/graph.ts
+  102:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-algorithm/src/utils/index.ts
+  13:6  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/ActivateRelations/activate-relations-v2.ts
+   27:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  317:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/ChartAnalysis/Charts/ColumnChart.tsx
+  11:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/ChartAnalysis/Charts/LineChart.tsx
+  10:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/ChartAnalysis/Charts/index.tsx
+  123:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/ContextMenu/Container.tsx
+   1:1   error  Definition for rule 'react/require-default-props' was not found  react/require-default-props
+  19:19  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/ContextMenu/useContextMenu.tsx
+  22:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/Export/Component.tsx
+  19:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/FilterPanel/Charts/HistogramChart.tsx
+   90:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/FilterPanel/Charts/LineChart.tsx
+   7:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/FilterPanel/Charts/PieChart.tsx
+  59:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/FilterPanel/Component.tsx
+  203:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/ForceSimulation/Component.tsx
+  37:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/GrailLayout/Component.tsx
+  13:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/GrailLayout/Containers/BottomContainer.tsx
+  9:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/GrailLayout/Containers/LeftContainer.tsx
+  7:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/GrailLayout/Containers/RightContainer.tsx
+  7:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/GrailLayout/Containers/TopContainer.tsx
+  8:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/GrailLayout/useComponents.tsx
+  9:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/GroupBar/GroupContainer.tsx
+   66:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   74:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/GroupBar/OperatorItem/index.tsx
+  7:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/GroupBar/render.tsx
+   7:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/Initializer/Component.tsx
+    7:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/LassoSelect/Component.tsx
+  19:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/MiniMap/index.tsx
+  22:6  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/NeighborsQuery/Component.tsx
+  15:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/NeighborsQuery/registerMeta.ts
+  7:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/OperatorHeader/Component.tsx
+  51:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/OperatorHeader/WrapContainer.tsx
+  71:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/OverView/Interpretation.tsx
+  42:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/PathAnalysis/Component.tsx
+  95:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/PathAnalysis/FilterRule.tsx
+  13:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/PinNodeWithMenu/Component.tsx
+  10:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/PropertiesPanel/Properties.tsx
+  8:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/PropertiesPanel/PropertiesDetail.tsx
+   9:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:97  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/PropertiesPanel/Statistic/ChartCard.tsx
+  22:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/PropertiesPanel/Statistic/Charts/ColumnChart.tsx
+  8:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/PropertiesPanel/Statistic/Charts/LineChart.tsx
+  8:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/PropertiesPanel/Statistic/index.tsx
+  7:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/RemoveNodeWithMenu/Component.tsx
+  8:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/RemoveNodeWithMenu/useRemove.ts
+   6:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/SegmentedLayout/component.tsx
+   8:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/SegmentedLayout/useComponents.tsx
+  7:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/SelectExchangeMenuItem/Component.tsx
+  18:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/SideSelectTabs/Component.tsx
+  52:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/SideSelectTabs/QueryContainer.tsx
+  69:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  71:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/SideTabs/SideContainer.tsx
+  6:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/Toolbar/Component.tsx
+   9:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/UIComponents/DivContainer/index.tsx
+  20:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/UIComponents/Panel/index.tsx
+  12:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/UadLayout/component.tsx
+  37:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/UadLayout/useComponents.tsx
+  10:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/ZoomStatus/Component.tsx
+  13:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/types/index.ts
+  2:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/components/utils/index.ts
+  9:6  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/elements/SimpleEdge/registerTransform.ts
+   93:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/layouts/ClusteringDagre/registerLayout.ts
+   98:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  138:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/services/NeighborsQuery.ts
+   8:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-basic/src/services/PropertiesPanel.ts
+  4:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-galaxybase/src/components/DataManage/DataImport/index.tsx
+  159:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-galaxybase/src/components/DataManage/index.tsx
+  10:6  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-galaxybase/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-galaxybase/src/services/CypherQuery.ts
+  10:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-galaxybase/src/services/GraphService.ts
+  80:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-galaxybase/src/services/ServerComponent/Connect.tsx
+  12:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-galaxybase/src/services/ServerComponent/LoadGraph.tsx
+   33:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-galaxybase/src/services/ServerComponent/index.tsx
+  13:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-galaxybase/src/services/ServerComponent/utils.ts
+   65:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   99:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-galaxybase/src/services/index.tsx
+  18:6  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-graphscope/src/components/ExecAlgorithmPanel/AlgorithmResultPanel.tsx
+  9:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-graphscope/src/components/ServerComponent/Connect.tsx
+  11:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-graphscope/src/components/ServerComponent/LoadGraph.tsx
+   20:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  207:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-graphscope/src/components/ServerComponent/index.tsx
+  11:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-graphscope/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-graphscope/src/services/GremlinQuery.ts
+  7:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-hugegraph/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-hugegraph/src/services/ElementProperties.ts
+  8:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-hugegraph/src/services/GremlinQuery.ts
+  8:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-hugegraph/src/services/util.ts
+   9:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-janusgraph/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-neo4j/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-neo4j/src/services/CypherQuery.ts
+  7:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-neo4j/src/services/Driver.tsx
+    9:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   19:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   58:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  303:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  346:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/LargeGraph/ForceGraph/index.tsx
+   94:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  184:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/MapMode/L7Map/index.tsx
+  19:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/MapMode/PropertiesPanel/Component.tsx
+  10:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/MapMode/PropertiesPanel/Properties.tsx
+  6:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/Timebar/Component.tsx
+  72:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/Timebar/control/chart/index.tsx
+    7:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    8:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    8:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  181:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/Timebar/control/index.tsx
+  28:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/Timebar/control/panel/helper.ts
+  12:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/Timebar/control/panel/index.tsx
+  13:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/Timebar/control/utils.ts
+  36:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  85:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/Timebar/types.ts
+  11:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/Timeline/Component.tsx
+  13:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-scene/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-testing/src/TestSDK.tsx
+  23:37   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:52   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:111  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:26   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:28   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:30   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:22   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-testing/src/utils.ts
+   6:80   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:80   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:108  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-tugraph-analytics/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-tugraph/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-assets-tugraph/src/services/CypherQuery.ts
+  10:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-cli/templates/src/elements/ClusterNode/registerShape.ts
+  3:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-cli/templates/src/services/Initializer.tsx
+  38:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-cli/templates/src/services/Server.tsx
+  8:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/CommonStyleSetting/FormilyRenderForm.tsx
+   19:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   26:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/CommonStyleSetting/IconPicker/IconContent.tsx
+  10:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/CommonStyleSetting/IconSelector/index.tsx
+  123:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/CommonStyleSetting/index.tsx
+    7:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   10:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   10:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   12:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   17:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   18:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   74:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/CommonStyleSetting/typing.ts
+  8:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/FilterPanel/Charts/HistogramChart.tsx
+  68:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/FilterPanel/Charts/LineChart.tsx
+   7:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/FilterPanel/Charts/PieChart.tsx
+  59:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/FilterPanel/Component.tsx
+  17:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/FilterPanel/utils.ts
+  224:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  226:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/FormilyForm/AssetCollapse/index.tsx
+   7:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/FormilyForm/FormCollapse/index.tsx
+   37:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/GroupContainer/ExpressionGroup.tsx
+  25:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/GroupContainer/index.tsx
+   14:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   18:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   24:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   30:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   57:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/Handler/index.tsx
+  95:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  97:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/NodeSelectionWrap/index.tsx
+  20:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/SchemaField/index.tsx
+  43:7  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-common-components/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-httpservice/app/service/graphcompute.ts
+  250:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  343:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  832:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-httpservice/app/service/graphinsight/typing.ts
+  22:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-httpservice/app/service/graphscope.ts
+  169:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  271:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-httpservice/app/service/hugegraph.ts
+  120:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  258:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  296:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  365:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  366:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  412:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  413:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  416:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  430:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  435:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  450:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-httpservice/app/service/tugraph.ts
+  128:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  249:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  303:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  361:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-httpservice/app/tugraph.utils.ts
+    2:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    6:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   28:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   34:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   39:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   59:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:94  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   87:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  114:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  212:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  235:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-httpservice/app/util.ts
+   20:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-httpservice/config/config.default.d.ts
+  2:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-portal/src/components/Banner/index.tsx
+   6:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-portal/src/components/RoleSwitch/SwitchContainer.tsx
+  4:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-portal/src/components/RoleSwitch/index.tsx
+  4:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-portal/src/i18n/index.ts
+  47:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-portal/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/GISDK.tsx
+  153:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  370:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  371:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  394:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/Initializer.tsx
+  39:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/components/EngineServer/Connect.tsx
+  14:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/components/EngineServer/LoadGraph.tsx
+   46:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  185:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/components/EngineServer/index.tsx
+  23:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/context.tsx
+   7:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/i18n/strings/index.d.ts
+  1:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/process/common.ts
+   65:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   65:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   65:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   65:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/process/filterByRules.ts
+  23:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/process/getWeightedStrength.ts
+  88:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/process/loaderAssets.tsx
+  102:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/process/locale.ts
+  27:108  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/process/schema.ts
+   8:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:84  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/process/services.ts
+  3:83  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/process/transGraphDataBySchemaMate.ts
+   5:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-sdk/src/typing.ts
+    8:27   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    9:27   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   11:27   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   12:27   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   59:12   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:13   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:21   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:46   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:11   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:15   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:9    error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:24   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:11   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:16   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:9    error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:26   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:11   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:16   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  195:9    error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:25   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  205:103  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  219:22   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  219:38   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  285:22   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  291:21   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  297:18   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  329:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  347:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  426:18   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  431:27   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  432:27   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  434:27   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  435:27   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  447:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  462:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  471:25   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/AssetsCenter/AllAssets.tsx
+  15:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/AssetsCenter/Components.tsx
+  10:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/AssetsCenter/index.tsx
+  56:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/AssetsSelect/index.tsx
+  22:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/DataSource/List.tsx
+   8:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/FileServerEngine/ConfigData.tsx
+  15:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/FileServerEngine/UploadLocalFile.tsx
+   14:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/FileServerEngine/typing.ts
+   3:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   4:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/Navbar/DatasetInfo.tsx
+  8:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/Navbar/Preview.tsx
+  7:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/Navbar/Share.tsx
+  9:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/Navbar/UserInfo.tsx
+  7:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/ProjectCard/index.tsx
+  13:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/components/Sidebar/index.tsx
+  1:1  error  Definition for rule 'jsx-a11y/no-noninteractive-element-interactions' was not found  jsx-a11y/no-noninteractive-element-interactions
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/hooks/common.ts
+  31:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/hooks/useCodeSandbox.ts
+   8:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/hooks/useNodeModule.ts
+    9:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  232:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/loader.ts
+  196:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/DataServices/index.tsx
+  26:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/ComponentPanel/index.tsx
+  221:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/ContainerPanel/AssetsSelector.tsx
+  16:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/ContainerPanel/RenderForm.tsx
+  32:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/ContainerPanel/index.tsx
+   35:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/DataPanel/DataSchema.tsx
+  19:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/DataPanel/DataService.tsx
+  9:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/DataPanel/DataSource.tsx
+  10:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/DataPanel/SchemaEditor.tsx
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/LayoutPanel/index.tsx
+   30:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   32:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/StylesPanel/StyleSetting.tsx
+   4:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/MetaPanel/StylesPanel/index.tsx
+  11:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/getAssets/getComponentsByAssets.ts
+  51:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/hooks/useContext.ts
+  5:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/index.tsx
+  161:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/recommendTools/pipeline/data2dataprops.ts
+  23:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/recommendTools/rules/concepts/rule.ts
+  22:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/recommendTools/rules/index.ts
+  35:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/recommendTools/rules/pred-layout-cfg.ts
+  52:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/recommendTools/rules/pred-scale-type.ts
+  14:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Analysis/recommendTools/types.ts
+   16:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  146:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  192:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  211:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Assets/Cards.tsx
+  9:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/AssetsList/CartButton.tsx
+  7:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/AssetsList/CartContent.tsx
+   22:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  225:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/AssetsList/Detail.tsx
+  14:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/AssetsList/index.tsx
+  60:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Dataset/Delete.tsx
+  24:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Home/GuideCards.tsx
+  20:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/ServerCenter/Cards.tsx
+  6:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/ServerCenter/index.tsx
+  16:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Tab/TableMode/index.tsx
+  18:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Tab/index.tsx
+  4:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Workspace/Members.tsx
+  10:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/pages/Workspace/Recover.tsx
+  8:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/services/assets.ts
+  30:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  85:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  93:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/services/project.ts
+   44:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   79:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/services/template.ts
+   48:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-site/src/services/typing.ts
+  18:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/gi-theme-antd/src/components/index.tsx
+   9:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/my-custom-server/src/services/Initializer.tsx
+  81:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/antvis-G6VP/packages/my-custom-server/src/services/Server.tsx
+  19:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 751 problems (751 errors, 0 warnings)

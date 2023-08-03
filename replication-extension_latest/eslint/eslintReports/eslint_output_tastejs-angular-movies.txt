@@ -1,0 +1,138 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/cloudflare-worker/src/app/environment.token.ts
+  5:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/cloudflare-worker/src/index.ts
+  12:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/cloudflare-worker/user-flows/ci-flow.uf.ts
+  10:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/docs/tooling/bundle-stats/commands/update-docs.ts
+  23:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/docs/tooling/bundle-stats/utils.ts
+  9:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/firebase-function/src/index.ts
+  9:1  error  Definition for rule 'unicorn/prefer-module' was not found  unicorn/prefer-module
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/firebase-function/tooling/utils.ts
+   5:20  error  Unexpected any. Specify a different type                                    @typescript-eslint/no-explicit-any
+  21:1   error  Definition for rule 'unicorn/no-object-as-default-parameter' was not found  unicorn/no-object-as-default-parameter
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/firebase-function/user-flows/ci-flow.uf.ts
+  10:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/experiments/lcp-experiment.uf.ts
+  14:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/experiments/movie-detail-page-to-movie-detail-page-navigation--warm.uf.ts
+  10:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/src/internals/test-sets.ts
+  22:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/src/ufo/desktop/movie-list-page.ufo.ts
+  37:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/src/ufo/desktop/side-bar.ufo.ts
+  42:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/src/ufo/desktop/tmdb.ufo.ts
+  10:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/src/ufo/desktop/tool-bar.ufo.ts
+  37:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  78:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/src/ufo/desktop/ui-cast-list.ufo.ts
+  19:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/src/ufo/desktop/ui-movie-list.ufo.ts
+  19:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/src/ufo/mobile/side-bar.ufo.ts
+  31:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/src/ufo/typings/back-navigation.interface.ts
+  2:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies-user-flows/src/ufo/typings/cwv.interface.ts
+  2:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  3:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/src/app/pages/movie-detail-page/movie-detail-page.component.ts
+  103:7  error  Definition for rule '@rx-angular/prefer-no-layout-sensitive-apis' was not found  @rx-angular/prefer-no-layout-sensitive-apis
+  106:7  error  Definition for rule '@rx-angular/prefer-no-layout-sensitive-apis' was not found  @rx-angular/prefer-no-layout-sensitive-apis
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/src/app/shared/cdk/bypass-src.directive.ts
+  5:3  error  Definition for rule '@angular-eslint/directive-selector' was not found  @angular-eslint/directive-selector
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/src/app/shared/cdk/element-visibility/element-visibility.directive.ts
+  18:3  error  Definition for rule '@angular-eslint/directive-selector' was not found  @angular-eslint/directive-selector
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/src/app/shared/cdk/lazy/lazy.directive.ts
+  30:3  error  Definition for rule '@angular-eslint/directive-selector' was not found  @angular-eslint/directive-selector
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/src/app/ui/component/hamburger-button/hamburger-button.component.ts
+  14:3  error  Definition for rule '@angular-eslint/no-host-metadata-property' was not found  @angular-eslint/no-host-metadata-property
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/src/app/ui/component/search-bar/search-bar.component.ts
+   76:5  error  Definition for rule '@rx-angular/no-rxstate-subscriptions-outside-constructor' was not found  @rx-angular/no-rxstate-subscriptions-outside-constructor
+  134:5  error  Definition for rule '@rx-angular/prefer-no-layout-sensitive-apis' was not found               @rx-angular/prefer-no-layout-sensitive-apis
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/src/app/ui/pattern/movie-list/movie-list.component.ts
+  110:5  error  Definition for rule '@rx-angular/no-rxstate-subscriptions-outside-constructor' was not found  @rx-angular/no-rxstate-subscriptions-outside-constructor
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/src/env.token.ts
+  5:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/user-flows/account-feature.uf.ts
+  17:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/user-flows/ci-flow.uf.ts
+  16:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/movies/user-flows/navigation.uf.ts
+  17:6   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:6   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/ng-universal-express/src/app/utils.ts
+  6:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  6:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  6:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  6:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/ng-universal-express/tooling/generate-routes/generate-routes.impl.ts
+   45:5   error  Definition for rule 'unicorn/prefer-top-level-await' was not found          unicorn/prefer-top-level-await
+   84:5   error  Definition for rule 'unicorn/prefer-top-level-await' was not found          unicorn/prefer-top-level-await
+   92:1   error  Definition for rule 'unicorn/no-object-as-default-parameter' was not found  unicorn/no-object-as-default-parameter
+  112:76  error  Unexpected any. Specify a different type                                    @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/ng-universal-express/tooling/generate-routes/generate-routes.spec.ts
+  29:5   error  Definition for rule 'unicorn/prefer-module' was not found  unicorn/prefer-module
+  30:28  error  Unexpected any. Specify a different type                   @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/tastejs-angular-movies/projects/ng-universal-express/tooling/utils.ts
+  2:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 66 problems (66 errors, 0 warnings)

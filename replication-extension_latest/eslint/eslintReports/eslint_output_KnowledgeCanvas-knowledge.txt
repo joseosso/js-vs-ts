@@ -1,0 +1,438 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/app.component.ts
+  466:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/app.module.ts
+  327:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  328:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/chat-components/chat.view.component.ts
+  557:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/graph-components/graph-search.component.ts
+  216:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  246:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/graph-components/graph.canvas.component.ts
+  163:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  263:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  348:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  349:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  361:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  363:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  386:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  387:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  388:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  656:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  685:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  685:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  692:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  712:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  717:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  732:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  737:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  742:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  747:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  752:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  757:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  778:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  782:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/graph-components/graph.controls.component.ts
+  171:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/graph-components/graph.layouts.ts
+  37:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/graph-components/graph.styles.ts
+  57:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/graph.component.ts
+   92:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  178:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  209:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  245:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  304:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/home.component.ts
+  263:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  275:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  275:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  537:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  578:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  592:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  592:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/project-components/project-breadcrumb.component.ts
+  82:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/project-components/project-calendar.component.ts
+  57:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/project-components/project-creation-dialog.component.ts
+   85:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/project-components/project-details.component.ts
+  159:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  256:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/project-components/projects-tree.component.ts
+  164:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  257:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  284:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  314:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  329:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/search.component.ts
+  157:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  225:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/settings/chat-settings.component.ts
+  337:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  337:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/settings/display-settings.component.ts
+  219:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/settings/storage-settings.component.ts
+  92:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  93:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/shared/create.component.ts
+  143:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  185:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  299:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/shared/icon.component.ts
+  94:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/source-components/ks-actions.component.ts
+   99:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/source-components/ks-card-list.component.ts
+  424:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  504:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/source-components/ks-card.component.ts
+  392:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  423:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  423:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/source-components/ks-export.component.ts
+  170:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  178:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/source-components/ks-table.component.ts
+  399:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  401:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  405:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  535:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  595:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  610:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  650:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  650:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/source-components/ks-thumbnail.component.ts
+  75:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/source-components/ks-viewport/browser-view.component.ts
+  101:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  262:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/source-components/source.component.ts
+   48:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  228:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  324:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/source-components/source.details.component.ts
+  305:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  305:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  331:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/source-components/source.timeline.component.ts
+  68:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/components/table.component.ts
+  44:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/directives/recreate-view.directive.ts
+  31:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/models/cards.model.ts
+   50:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  181:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  205:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  217:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/models/knowledge.source.model.ts
+  74:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/pipes/countdown.pipe.ts
+  39:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/pipes/truncate.pipe.ts
+  23:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/chat-services/chat.service.ts
+   77:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  219:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  400:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/command-services/ks-command.service.ts
+  42:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/factory-services/ks-factory.service.ts
+   75:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  239:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  382:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/factory-services/project-tree-factory.service.ts
+   38:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/factory-services/sidebar.service.ts
+  23:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/ingest-services/autoscan.service.ts
+  49:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/ingest-services/drag-and-drop.service.ts
+  304:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  322:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  343:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  343:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/ingest-services/extension.service.ts
+  35:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/ingest-services/extractor.service.ts
+   64:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  265:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/ingest-services/favicon.service.ts
+  56:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/ipc-services/electron-ipc.service.ts
+   90:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  260:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  261:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  271:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/ipc-services/settings.service.ts
+  37:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/ipc-services/storage.service.ts
+  306:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/ipc-services/uuid.service.ts
+  23:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/user-services/data.service.ts
+  50:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/user-services/notifications.service.ts
+  71:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/services/user-services/search.service.ts
+  126:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_angular/src/app/workers/graph.worker.ts
+  24:4   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/app/ipc/ipc-auto-update.ts
+  17:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/app/ipc/ipc-browser.ts
+   36:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  192:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  225:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  234:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  273:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  274:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  356:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  356:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  369:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  369:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  439:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  439:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  443:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  534:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/app/ipc/ipc-files.ts
+   25:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   26:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   28:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   30:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   32:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   50:7   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  223:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  255:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  255:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  298:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  310:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/app/ipc/ipc-misc.ts
+  21:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/app/services/auto.update.service.ts
+  17:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  71:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  90:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/app/services/autoscan.service.ts
+   33:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   75:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   79:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  132:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  378:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/app/services/extension.service.ts
+  60:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/app/services/settings.service.ts
+   90:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  249:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  332:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/app/services/window.service.ts
+  17:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/local/constants/source.prompts.ts
+  20:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/local/controllers/source.controller.ts
+  42:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/local/middleware/ErrorHandler.ts
+  21:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/local/utils/response.util.ts
+  25:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_electron/src/main.ts
+   52:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  207:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_shared/models/electron.ipc.model.ts
+  20:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/KnowledgeCanvas-knowledge/src/kc_shared/models/web.source.model.ts
+  34:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 294 problems (294 errors, 0 warnings)

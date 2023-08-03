@@ -1,0 +1,9 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/revoltchat-desktop/src/app.ts
+  21:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/revoltchat-desktop/src/lib/config.ts
+  33:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 3 problems (3 errors, 0 warnings)

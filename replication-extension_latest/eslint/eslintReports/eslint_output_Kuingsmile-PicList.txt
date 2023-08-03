@@ -1,0 +1,466 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/apis/app/system/index.ts
+  195:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/apis/app/uploader/index.ts
+   52:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/apis/app/window/windowList.ts
+  23:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/apis/core/datastore/index.ts
+  49:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/apis/core/utils/localLogger.ts
+  62:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/events/busEventList.ts
+  23:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/events/picgoCoreIPC.ts
+   54:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  287:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/events/rpc/index.ts
+  11:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/lifeCycle/errorHandler.ts
+  20:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/apis/aliyun.ts
+   51:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  215:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  228:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  262:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  275:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  277:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  328:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  332:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  334:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  347:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  380:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  382:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  401:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  415:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  416:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  424:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  438:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  467:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  470:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  513:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  548:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  567:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  589:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  600:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  631:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/apis/github.ts
+   20:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   58:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  151:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  178:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  181:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  202:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  215:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  275:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  283:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  295:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  301:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  313:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  325:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  335:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  363:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  398:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  401:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  447:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/apis/imgur.ts
+   19:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   22:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   23:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   26:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   57:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   65:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   90:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  129:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  223:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/apis/qiniu.ts
+   51:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  250:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  253:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  262:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  264:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  276:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  276:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  276:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  288:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  306:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  309:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  320:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  333:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  333:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  333:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  345:99  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  348:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  381:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  386:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  388:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  417:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  452:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  471:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  489:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  502:89  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  516:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  551:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  583:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  673:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  688:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/apis/s3plist.ts
+   52:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   99:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  184:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  242:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  257:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  304:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  309:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  429:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  430:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  570:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  651:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/apis/smms.ts
+   36:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   53:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   90:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  232:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/apis/tcyun.ts
+   31:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   63:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  184:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  231:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  241:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  324:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  325:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  347:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  366:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  378:84  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  383:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  430:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  454:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  463:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  463:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  540:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  547:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  555:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/apis/upyun.ts
+   37:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   52:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  114:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  160:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  206:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  210:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  212:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  291:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  292:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  351:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  417:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/apis/webdavplist.ts
+   52:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   89:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  138:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  151:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  286:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  316:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/datastore/upDownTaskQueue.ts
+  35:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/events/manageCoreIPC.ts
+  18:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/manageApi.ts
+   50:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  207:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  209:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  235:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  288:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  320:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  361:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  363:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  391:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  407:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  431:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  434:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  456:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  458:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  479:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  481:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  505:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  508:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  537:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  563:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  565:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  586:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  588:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/utils/common.ts
+   43:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  151:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  187:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  228:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  255:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  301:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  303:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  332:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  334:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  343:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  351:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  351:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  351:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  358:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/manage/utils/threadPool.ts
+   4:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   6:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/server/index.ts
+  68:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/server/routerManager.ts
+   63:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/server/utils.ts
+  19:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/utils/common.ts
+   47:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/main/utils/syncSettings.ts
+   80:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  208:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  241:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/apis/aliyun.ts
+  36:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/apis/qiniu.ts
+  33:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/manage/store/bucketFileDb.ts
+  15:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/manage/utils/common.ts
+  103:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/manage/utils/constants.ts
+   25:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  472:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  472:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  472:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  726:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  726:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  726:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/manage/utils/dataSender.ts
+  20:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/manage/utils/newBucketConfig.ts
+   23:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   23:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   23:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/utils/LS.ts
+  7:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/utils/common.ts
+   6:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   6:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/utils/dataSender.ts
+   7:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/renderer/utils/db.ts
+  45:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/universal/types/electron.d.ts
+  21:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/universal/types/extra-vue.d.ts
+  25:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/universal/types/manage.d.ts
+   65:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/universal/types/rpc.d.ts
+  19:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/universal/types/shims-module.d.ts
+  3:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/universal/types/shims-tsx.d.ts
+  10:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/universal/types/types.d.ts
+    3:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  151:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  160:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  348:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  395:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/universal/types/view.d.ts
+  40:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Kuingsmile-PicList/src/universal/utils/common.ts
+  36:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 368 problems (368 errors, 0 warnings)

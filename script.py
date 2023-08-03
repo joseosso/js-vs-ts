@@ -442,7 +442,7 @@ class Sampling:
         Returns:
             boolean: If the text contains a bug.
         """
-        bugWords = ["bug", "fix"]
+        bugWords = ["bug", "fix", "fault", "error", "flaw", "defect", "issue"]
 
         if any(bug in text for bug in bugWords):
             return True
@@ -2568,13 +2568,19 @@ class PrintDiagramms:
         print(f"TypeScript {metric} mean: {np.mean(vals[1])}")
 
 
-language = Language("TypeScript")
+language = Language("JavaScript")
 
 fileClass = File()
 
 sampling = Sampling()
 
-sampling.request_repos(5)
+sampling.checkRepoByCharacteristics(1, 400)
+
+#sampling.request_repos(5)
+
+#sampling.sortVueProjectsLanguage()
+
+#sampling.sortReposByStars()
 
 # sonarQubeDance = SonarQubeDance()
 #

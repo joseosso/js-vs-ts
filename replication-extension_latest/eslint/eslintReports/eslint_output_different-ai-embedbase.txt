@@ -1,0 +1,158 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/app/datasets/[id]/page.tsx
+  27:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/app/datasets/[id]/store.ts
+   7:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/app/datasets/page.tsx
+  23:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/components/DatasetList.tsx
+  47:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/components/Input.tsx
+   6:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/components/PricingSection.tsx
+  58:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/components/TextField.tsx
+   5:18  error  Unexpected any. Specify a different type                @typescript-eslint/no-explicit-any
+  12:1   error  Definition for rule 'react/display-name' was not found  react/display-name
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/hooks/useDatasets.ts
+  28:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/lib/cache.ts
+  21:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/lib/upstash.ts
+  35:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/lib/utils.ts
+  84:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/api/checkGithub.ts
+  6:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  6:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/api/create-checkout-session.ts
+  44:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/api/createContext.ts
+  30:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/api/createContextWithBingSearch.ts
+  13:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/api/publicCreateContext.ts
+  45:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/api/search.ts
+  13:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/api/syncGithub.ts
+  49:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/api/uploadFile.ts
+   50:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   50:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/api/webhooks.ts
+  58:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/dashboard/explorer/[datasetId].tsx
+  369:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  404:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  464:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  466:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/dashboard/index.tsx
+   48:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   89:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/dashboard/playground.tsx
+  121:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/pages/onboarding/create-dataset.tsx
+  23:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/utils/OpenAIStream.ts
+  66:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/utils/helpers.ts
+  52:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/dashboard/utils/vectors.ts
+   23:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   30:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/docs/components/Search.tsx
+   69:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/docs/lib/upstash.ts
+  35:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/docs/scripts/sync.ts
+  8:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/docs/utils/OpenAIStream.ts
+  66:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/sdk/embedbase-js/src/EmbedbaseClient.ts
+   53:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  223:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  759:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/sdk/embedbase-js/src/types.ts
+   25:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/sdk/embedbase-js/src/utils.ts
+    6:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   15:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  186:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/sdk/embedbase-js/test/client.test.ts
+  401:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/sdk/embedbase-js/test/samples/sample.ts
+  149:0  error  Parsing error: Declaration or statement expected
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/supabase/functions/consumeApi/index.ts
+  9:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/different-ai-embedbase/supabase/functions/sendgrid/index.ts
+  8:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 80 problems (80 errors, 0 warnings)

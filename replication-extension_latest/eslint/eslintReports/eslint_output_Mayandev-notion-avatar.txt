@@ -1,0 +1,15 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Mayandev-notion-avatar/src/pages/_app.tsx
+  12:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Mayandev-notion-avatar/src/pages/api/img/[params].ts
+  67:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Mayandev-notion-avatar/src/pages/api/svg/[params].ts
+  62:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Mayandev-notion-avatar/src/pages/components/Modal/Common/index.tsx
+  5:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 5 problems (5 errors, 0 warnings)

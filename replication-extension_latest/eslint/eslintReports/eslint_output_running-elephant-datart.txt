@@ -1,0 +1,1536 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/Avatar.tsx
+  8:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartEditor.tsx
+  214:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicAreaChart/BasicAreaChart.tsx
+  27:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicBarChart/BasicBarChart.tsx
+   64:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  686:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicBarChart/types.ts
+  45:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicDoubleYChart/BasicDoubleYChart.tsx
+  59:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicDoubleYChart/__tests__/utils.test.ts
+   53:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   54:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   57:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   61:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   99:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  146:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  153:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  192:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  195:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  237:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  238:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  241:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  245:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  283:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  284:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  287:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  291:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  328:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  329:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  332:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  336:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicDoubleYChart/types.ts
+  69:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicFunnelChart/BasicFunnelChart.tsx
+   56:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicFunnelChart/types.ts
+  12:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicGaugeChart/BasicGaugeChart.tsx
+   52:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicGaugeChart/types.ts
+  71:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicLineChart/BasicLineChart.tsx
+  65:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  71:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicLineChart/types.ts
+  9:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicOutlineMapChart/BasicOutlineMapChart.tsx
+   55:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   56:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  200:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicOutlineMapChart/types.ts
+  15:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  87:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicPieChart/BasicPieChart.tsx
+  55:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicPieChart/types.ts
+  27:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicRadarChart/BasicRadarChart.tsx
+  28:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicRichText/BasicRichText.tsx
+  144:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicRichText/ChartRichTextAdapter.tsx
+   69:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicRichText/RichTextPluginLoader/CustomColor.tsx
+  117:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicRichText/RichTextPluginLoader/TagBlot.ts
+   9:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicScatterChart/BasicScatterChart.tsx
+   55:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  293:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicScatterChart/types.ts
+  6:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicTableChart/BasicTableChart.tsx
+    79:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    81:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   160:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   180:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   208:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   270:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   292:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   379:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   388:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   519:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   566:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   573:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   851:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1175:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1201:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1203:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicTableChart/TableComponents.tsx
+  12:4   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  86:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicTableChart/conditionalStyle.ts
+  103:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/BasicTableChart/types.ts
+  28:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/ClusterBarChart/ClusterBarChart.tsx
+  23:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/ClusterColumnChart/ClusterColumnChart.tsx
+  23:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/DoughnutChart/DoughnutChart.tsx
+  22:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/PercentageStackColumnChart/PercentageStackColumnChart.tsx
+  23:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/PieChart/PieChart.tsx
+  22:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/PivotSheetChart/AntVS2Wrapper.tsx
+  28:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/PivotSheetChart/PivotSheetChart.tsx
+  74:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/PivotSheetChart/types.ts
+  20:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/RoseChart/RoseChart.tsx
+  22:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/Scorecard/Scorecard.tsx
+  45:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/Scorecard/conditionalStyle.ts
+  103:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/Scorecard/types.ts
+  32:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/StackBarChart/StackBarChart.tsx
+  23:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/StackColumnChart/StackColumnChart.tsx
+  23:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/WaterfallChart/WaterfallChart.tsx
+   60:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  324:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  324:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/WordCloudChart/WordCloudChart.tsx
+  44:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartGraph/WordCloudChart/types.ts
+  27:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartIFrameContainer/ChartIFrameContainer.tsx
+   36:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  132:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartIFrameContainer/ChartIFrameContainerDispatcher.tsx
+  36:7   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:7   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartIFrameContainer/ChartIFrameEventBroker.ts
+  130:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartIFrameContainer/ChartIFrameLifecycleAdapter.tsx
+   49:12  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   56:25  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  150:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  175:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  211:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartIFrameContainer/ChartIFrameResourceLoader.ts
+  24:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ChartMockDataPanel/ChartMockDataPanel.tsx
+  36:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/ColorPicker/ChromeColorPicker.tsx
+  39:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/DragSortEditTable.tsx
+  40:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Basic/BasicSelector.tsx
+  48:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/CheckboxModal.tsx
+  50:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/ConditionalStyle/add.tsx
+   33:13  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   34:41  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  219:24  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  240:24  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  249:7   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/ConditionalStyle/types.ts
+  23:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/Interaction/ControllerList.tsx
+  57:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/Interaction/CrossFilteringPanel.tsx
+  47:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/Interaction/DrillThroughPanel.tsx
+  50:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/Interaction/RuleList.tsx
+  134:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/Interaction/types.ts
+  35:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  93:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/ListTemplatePanel.tsx
+   62:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/ScorecardConditionalStyle/add.tsx
+   34:13  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   35:14  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   36:41  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  230:24  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  251:24  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  260:7   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/ScorecardConditionalStyle/types.ts
+  22:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/TimerFormat/TimerFormat.tsx
+  77:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Customize/UnControlledTableHeaderPanel.tsx
+  298:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/Layout/ItemLayout.tsx
+  116:7  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/__tests__/BasicFont.test.tsx
+  100:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/__tests__/utils.test.tsx
+  45:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  95:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/FormGenerator/types.ts
+   7:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/Split.tsx
+   77:7   error  Definition for rule 'react/destructuring-assignment' was not found  react/destructuring-assignment
+  103:35  error  Unexpected any. Specify a different type                            @typescript-eslint/no-explicit-any
+  116:9   error  Definition for rule 'react/destructuring-assignment' was not found  react/destructuring-assignment
+  163:35  error  Unexpected any. Specify a different type                            @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/VirtualTable.tsx
+  37:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/VizHeader/VizHeader.tsx
+  59:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/VizOperationMenu/VizOperationMenu.tsx
+  64:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/components/VizOperationMenu/components/ShareManageModal.tsx
+  46:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/contexts/ChartDrillContext.ts
+  34:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/hooks/useChartInteractions.ts
+  229:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  257:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  281:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  390:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/hooks/useComputedState.ts
+  33:15  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  35:6   error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  45:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/hooks/useDebouncedLoadingStatus.ts
+  31:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/hooks/useI18NPrefix.ts
+  39:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/hooks/useMount.ts
+  27:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/hooks/useStateModal.tsx
+   24:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/hooks/useUpdateEffect.ts
+  30:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/BoardConfig/migrateBoardConfig.ts
+  79:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/BoardConfig/migrateWidgetConfig.ts
+  27:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/BoardConfig/migrateWidgets.ts
+   79:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/BoardConfig/types.ts
+  64:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/BoardConfig/utils/beta4utils.ts
+   52:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/__tests__/MigrationEventDispatcher.test.ts
+   43:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   50:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   59:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   94:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  184:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  192:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  202:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/__tests__/alpha3.test.ts
+   24:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   52:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   59:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/__tests__/index.test.ts
+  30:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/__tests__/migrateChartConfig.test.ts
+   30:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   50:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   58:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   59:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   65:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  146:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  160:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/__tests__/migrateWidgetChartConfig.test.ts
+  31:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/__tests__/migrateWidgetConfig.test.ts
+   25:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/migration/__tests__/migrateWidgets.test.ts
+   62:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  129:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/Chart.ts
+  62:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/ChartDataRequestBuilder.ts
+   79:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  331:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/ChartDataSet.ts
+   39:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/ChartDrillOption.ts
+  109:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/ChartFilterCondition.ts
+   28:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/ChartSelectionManager.ts
+  106:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/ReactLifecycleAdapter.ts
+  23:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/__tests__/Chart.test.ts
+   26:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   54:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   54:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   57:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   57:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  160:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  200:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  240:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/__tests__/ChartDataRequestBuilder.test.ts
+    33:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    65:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    75:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    81:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    97:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   108:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   119:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   124:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   135:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   169:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   179:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   185:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   201:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   212:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   223:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   228:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   239:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   281:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   291:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   315:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   325:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   337:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   367:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   377:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   389:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   419:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   432:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   443:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   454:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   459:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   509:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   522:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   533:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   544:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   549:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   600:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   613:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   634:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   649:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   662:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   675:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   689:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   702:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   719:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   733:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   747:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   761:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   775:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   788:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   902:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   915:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   936:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   951:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   964:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   977:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   991:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1004:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1021:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1035:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1049:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1063:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1077:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1090:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1193:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1207:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1221:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1229:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1237:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1251:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1258:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1296:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1310:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1324:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1332:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1340:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1354:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1361:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1404:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1414:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1428:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1436:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1444:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1458:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1465:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1473:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1499:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1513:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1559:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1566:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1598:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1604:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1634:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1700:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1779:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1815:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1894:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1921:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2016:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/__tests__/ChartDataSet.test.ts
+   29:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   62:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   74:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/models/__tests__/ChartSelectionManager.test.ts
+   47:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   58:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  178:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  208:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  225:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  240:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  257:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  275:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  291:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  302:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  314:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  322:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  339:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  347:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  362:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  370:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  381:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  389:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  406:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  414:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartConfigPanel/ChartStyleConfigPanel.tsx
+  31:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartDataConfigSection/utils.ts
+  37:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartDataViewPanel/ChartDataViewPanel.tsx
+  201:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  273:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  274:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartDataViewPanel/components/ChartComputedFieldSettingPanel.tsx
+  161:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartDraggable/ChartDataConfigSectionReplaceMenu.tsx
+  46:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartDraggable/ChartDraggableElement.tsx
+  86:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartDraggable/ChartDraggableElementField.tsx
+  129:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartDraggable/ChartDraggableSourceContainer.tsx
+  252:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartDraggable/ChartDraggableSourceGroupContainer.tsx
+  52:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartDraggable/ChartDraggableTargetContainer.tsx
+  167:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartDraggable/DateLevelFieldContainer.tsx
+  17:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartFieldAction/AggregationColorizeAction.tsx
+  81:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartFieldAction/AliasAction.tsx
+  33:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartFieldAction/FilterControlPanel/CategoryConditionEditableTable.tsx
+  219:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartFieldAction/FilterControlPanel/FilterFacadeConfiguration.tsx
+  140:7  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartFieldAction/NumberFormatAction.tsx
+  81:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartFieldAction/SortAction/DraggableList/DraggableItem.tsx
+   33:7   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartGraphIcon.tsx
+  183:8  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  184:8  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartPresentWrapper.tsx
+  59:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartTimeSelector/ManualRangeTimeSelector.tsx
+  74:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartOperationPanel/components/ChartTimeSelector/RelativeTimeSelector.tsx
+  34:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/components/ChartWorkbench/ChartWorkbench.tsx
+  63:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/slice/index.ts
+  206:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  250:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/slice/thunks.ts
+   77:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  200:3   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  211:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/ChartWorkbenchPage/slice/types.ts
+  28:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/actions/widgetAction.ts
+  111:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  262:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  445:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  458:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/ActionProvider/BoardActionProvider.tsx
+  44:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/ActionProvider/WidgetActionProvider.tsx
+   76:32  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  296:7   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  331:21  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/MockDataPanel/MockDataEditor.tsx
+  28:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/MockDataPanel/MockDataPanel.tsx
+  40:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/MockDataPanel/MockDataTab.tsx
+  33:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/MockDataPanel/utils.ts
+  53:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  80:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/SaveToStoryBoard.tsx
+  53:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/WidgetManager/utils/init.ts
+  492:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/ControllerWidget/Controller/NumberController.tsx
+  24:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/ControllerWidget/Controller/RadioGroupController.tsx
+  24:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/ControllerWidget/Controller/RangeNumberController.tsx
+  26:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/ControllerWidget/Controller/RangeTimeController.tsx
+  27:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  85:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  95:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/ControllerWidget/Controller/SliderController.tsx
+  27:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/ControllerWidget/Controller/TextController.tsx
+  24:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/ControllerWidget/Controller/TimeController.tsx
+  26:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  84:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/DataChartWidget/DataChartWidgetCore.tsx
+  455:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/DataChartWidget/config.ts
+  41:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/GroupWidget/__tests__/utils.test.ts
+  38:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/RichTextWidget/RichTextWidgetCore.tsx
+   72:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/components/Widgets/TabWidget/TabWidgetCore.tsx
+   67:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/hooks/useWidgetAction.ts
+  57:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  89:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/Board/slice/index.ts
+  395:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/Board/slice/thunk.ts
+  119:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  228:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  277:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/Board/slice/types.ts
+   69:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  178:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  250:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  378:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  379:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  385:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  386:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  449:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/BoardToolBar/AddControler/AddControler.tsx
+   34:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   47:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ChartSelectModal.tsx
+  92:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/OtherSetter/RadioStyle/RadioStyleSet.tsx
+  20:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/OtherSetter/SqlOperator/SqlOperatorForm.tsx
+  21:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/OtherSetter/SqlOperator/SqlOperatorSet.tsx
+  21:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/OtherSetter/SqlOperator/index.tsx
+  39:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/MaxAndMinSetter/index.tsx
+  28:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/NumberSetter/NumberSetFrom.tsx
+  20:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/NumberSetter/index.tsx
+  27:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/RangeNumberSetter/RangeNumberSet.tsx
+  27:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/SliderSetter/SliderSet.tsx
+   23:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   75:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/TextSetter/TextSetForm.tsx
+  20:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/TextSetter/index.tsx
+  27:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/TimeSetter/RelativeTimeSetter.tsx
+  26:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/TimeSetter/SingleTimeSet.tsx
+  23:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/TimeSetter/TimeSetter.tsx
+  161:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/ValuesOptionsSetter/CustomOptions.tsx
+  185:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/ControllerConfig/ValuesSetter/ValuesOptionsSetter/ValuesOptionsSetter.tsx
+  450:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/index.tsx
+  235:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/types.ts
+  31:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/ControllerWidgetPanel/utils.ts
+  298:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  345:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/LayerPanel/LayerTreeItem.tsx
+  34:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/SlideSetting/SettingItem/BasicSet/ImageUpload.tsx
+  30:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/SlideSetting/SettingItem/BasicSet/NumberSet.tsx
+  21:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/SlideSetting/SettingItem/BasicSet/SelectSet.tsx
+  22:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/components/SlideSetting/WidgetConfigPanel.tsx
+  40:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/index.tsx
+  120:49  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  162:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/slice/actions/controlActions.ts
+  27:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/pages/BoardEditor/slice/thunk.ts
+  161:3   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  456:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  503:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  626:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  626:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/types/widgetTypes.ts
+  50:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  98:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/utils/__tests__/board.test.ts
+  52:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/utils/__tests__/index.test.tsx
+   326:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   437:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   802:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   936:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1865:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/utils/index.ts
+  139:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  274:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  553:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/DashBoardPage/utils/widget.ts
+  600:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  603:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  633:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  805:4   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  809:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  810:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/Navbar/DownloadListPopup/index.tsx
+  32:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/Navbar/DownloadListPopup/types.ts
+  26:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/Navbar/Profile.tsx
+  95:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ConfirmInvitePage/index.tsx
+  46:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/MemberPage/pages/RoleDetailPage/MemberForm.tsx
+  60:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ResourceMigrationPage/FileUpload.tsx
+  25:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ResourceMigrationPage/utils.ts
+  26:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/SchedulePage/EditorPage/ScheduleErrorLog/index.tsx
+  32:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/SchedulePage/EditorPage/index.tsx
+  172:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  182:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  300:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/SchedulePage/utils.ts
+  128:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/SourcePage/SourceDetailPage/ConfigComponent/ArrayConfig.tsx
+  98:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/SourcePage/slice/thunks.ts
+  129:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VariablePage/DefaultValue.tsx
+  42:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VariablePage/index.tsx
+  187:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VariablePage/slice/types.ts
+  74:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VariablePage/types.ts
+  23:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/Main/Editor/SQLEditor.tsx
+  170:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/Main/Editor/Toolbar.tsx
+  79:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/Main/Outputs/index.tsx
+  67:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/Main/Properties/DataModelTree/DataModelTree.tsx
+  105:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  567:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/Main/Properties/DataModelTree/__tests__/utils.test.ts
+  116:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/Main/Properties/Variables.tsx
+  182:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/Main/StructView/components/SelectDataSource.tsx
+   60:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   79:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  210:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/Main/StructView/components/SelectJoinColumns.tsx
+   63:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/Main/StructView/index.tsx
+  100:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  271:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/Main/Tabs.tsx
+  124:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/__tests__/utils.test.ts
+  111:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  208:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  249:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  255:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  283:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  299:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  315:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  330:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  355:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  380:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  399:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  418:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  435:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/slice/thunks.ts
+  131:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  418:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/slice/types.ts
+  109:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/ViewPage/utils.tsx
+  115:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  470:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  484:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  488:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/ChartPreview/ChartPreviewBoard.tsx
+  162:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/ChartPreview/components/ControllerPanel/components/DropdownListFilter.tsx
+  41:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/ChartPreview/components/ControllerPanel/components/MultiDropdownListFilter.tsx
+  42:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/ChartPreview/components/ControllerPanel/components/RadioGroupFilter.tsx
+  41:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/ChartPreview/components/ControllerPanel/components/RangeTimeFilter.tsx
+  53:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/ChartPreview/components/ControllerPanel/components/RangeTimePickerFilter.tsx
+  68:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/ChartPreview/components/ControllerPanel/components/TreeFilter.tsx
+  75:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/ChartPreview/components/ControllerPanel/components/index.ts
+  40:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/Main/index.tsx
+  161:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/hooks/useAddViz.ts
+  33:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/hooks/useDisplayJumpVizDialog.tsx
+  31:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/hooks/useDisplayViewDetail.tsx
+   58:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/hooks/useSaveAsViz.ts
+  37:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/slice/index.ts
+  136:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/slice/thunks.ts
+  264:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  331:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  348:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  379:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/pages/VizPage/slice/utils.ts
+  75:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/MainPage/slice/types.ts
+   90:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/SharePage/StoryPlayer/StoryPlayerForShare/StoryPlayerForShare.tsx
+  55:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/SharePage/slice/index.ts
+  187:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/SharePage/slice/thunks.ts
+  153:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  181:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/StoryBoardPage/Editor/index.tsx
+  74:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  76:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/StoryBoardPage/Player/index.tsx
+  61:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/StoryBoardPage/components/StoryHeader.tsx
+  76:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/StoryBoardPage/components/ThumbnailItem.tsx
+  153:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/pages/StoryBoardPage/slice/types.ts
+  29:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/types/Chart.ts
+   51:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/types/ChartConfig.ts
+  128:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  215:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  260:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  264:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  265:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  266:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  351:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  354:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  440:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  442:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/types/ChartConfigDTO.ts
+  25:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/types/ChartDataRequest.ts
+  50:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/types/ChartDrillOption.ts
+  36:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/types/ChartLifecycleBroker.ts
+  32:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/ChartEventListenerHelper.ts
+  69:8  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/__tests__/ChartEventListenerHelper.test.ts
+  81:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  94:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/__tests__/chartDtoHelper.test.ts
+  176:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  187:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/__tests__/chartHelper.test.ts
+   181:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   286:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   298:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   306:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   317:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   331:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   334:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   346:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   359:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   371:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   393:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   405:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   427:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   461:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   468:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   508:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   511:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   514:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   532:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   538:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   544:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   564:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1769:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1845:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1972:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2052:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2064:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2076:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2091:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2102:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2601:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2658:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/__tests__/internalChartHelper.test.ts
+   445:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   485:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   517:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   523:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   535:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   567:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   573:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   579:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   585:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   591:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   604:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   613:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   619:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   669:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   681:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   693:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   705:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   717:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   729:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   766:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   772:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   778:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   784:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   790:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   808:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   814:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   827:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   856:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   862:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   874:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   880:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   898:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   904:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   910:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   945:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   951:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   963:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   969:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   987:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1000:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1006:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1049:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1056:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1069:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1076:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1096:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1110:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1124:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1131:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1271:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/__tests__/number.test.ts
+  28:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/__tests__/overflowFuncs.test.ts
+   51:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/__tests__/time.test.ts
+  101:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/chartHelper.ts
+   202:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   344:4   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1070:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1072:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1128:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1190:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1205:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1225:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1235:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1334:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1335:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1445:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1590:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1633:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1712:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1713:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1799:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/fetch.ts
+  213:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  247:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  296:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/internalChartHelper.ts
+   437:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   437:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   483:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   707:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   765:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   812:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   913:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   983:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1006:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1031:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/mutation.ts
+  35:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  69:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/app/utils/number.ts
+  24:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  69:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/entryPointFactory.tsx
+  64:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/locales/translations.ts
+   8:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/locales/types.ts
+  4:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/redux/__tests__/reducer.test.ts
+   7:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:7   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:7   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/styles/media.ts
+  30:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/styles/theme/__tests__/ThemeProvider.test.tsx
+  34:16  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+  36:7   error  Definition for rule 'react-hooks/rules-of-hooks' was not found  react-hooks/rules-of-hooks
+  41:56  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/styles/theme/utils.ts
+  58:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/utils/@reduxjs/injectReducer/index.tsx
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/utils/@reduxjs/rejectedErrorHandlerMiddleware.ts
+  26:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/utils/loadable.tsx
+  10:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/utils/object.ts
+   39:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  187:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/utils/persistence.ts
+  31:1  error  Definition for rule 'import/no-anonymous-default-export' was not found  import/no-anonymous-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/utils/request.ts
+  69:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  90:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  92:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/utils/urlSearchTransfer.ts
+  22:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/running-elephant-datart/frontend/src/utils/utils.ts
+   71:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  228:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 972 problems (972 errors, 0 warnings)

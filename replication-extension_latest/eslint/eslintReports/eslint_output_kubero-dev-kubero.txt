@@ -1,0 +1,167 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/kuberoCouchDB.ts
+  93:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  97:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/kuberoElasticsearch.ts
+  93:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  97:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/kuberoKafka.ts
+  45:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/kuberoMail.ts
+  53:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/kuberoMongoDB.ts
+  101:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/kuberoMysql.ts
+  85:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  89:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/kuberoPostgresql.ts
+  77:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/kuberoRedis.ts
+  69:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/minio.ts
+   37:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  202:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/mongoDB.ts
+  53:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  78:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/mongoDBCluster.ts
+  45:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/plugin.ts
+   26:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   58:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/postgresCluster.ts
+   61:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  185:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/redis.ts
+  72:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  76:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/addons/redisCluster.ts
+  79:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/git/bitbucket.ts
+   66:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  306:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/git/gitea.ts
+   12:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   39:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  192:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/git/github.ts
+   12:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/git/gitlab.ts
+   47:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  129:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  212:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  278:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  298:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  299:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/git/gogs.ts
+   12:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   39:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/git/repo.ts
+  118:93  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/git/types.ts
+  6:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/kubero.ts
+  426:112  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  677:38   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  722:70   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  895:34   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  912:39   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  914:55   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/modules/addons.ts
+  69:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/modules/auth.ts
+   21:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:84  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:95  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  181:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  186:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  186:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/modules/kubectl.ts
+  325:42   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  344:42   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  362:25   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  403:77   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  456:25   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  546:75   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  557:110  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  609:106  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  682:87   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  693:82   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  726:164  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/modules/settings.ts
+  17:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/routes/apps.ts
+  157:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  181:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  237:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/routes/auth.ts
+  101:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/routes/config.ts
+  18:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/kubero-dev-kubero/src/routes/pipelines.ts
+   32:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 103 problems (103 errors, 0 warnings)

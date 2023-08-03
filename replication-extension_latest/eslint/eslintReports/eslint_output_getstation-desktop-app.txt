@@ -1,0 +1,1516 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/about-window/components/AboutWindowVersions.tsx
+  20:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/abstract-application/helpers.ts
+  131:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/abstract-application/resolvers.ts
+  91:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/api/logger.ts
+  2:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/api/websocket.ts
+  5:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/app-store/AppStore.tsx
+  14:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/app-store/sagas.ts
+  69:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/app-store/selectors.ts
+  13:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/app-worker.ts
+  360:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  391:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/application-settings/duck.ts
+  58:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  71:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/Application.tsx
+  126:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  259:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  282:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  309:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  315:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  323:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  355:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  359:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  388:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  389:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  390:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  524:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/components/Application.tsx
+   18:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   18:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   47:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/components/ApplicationBasicAuth.tsx
+  20:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/components/ApplicationContainer.tsx
+  30:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/components/ApplicationError.tsx
+  17:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/duck.ts
+  149:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  360:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/manifest-provider/cache-fetcher.ts
+  10:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/manifest-provider/distant-fetcher.ts
+  40:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/multi-instance-configuration/webui/components/ChooseCommonForm.tsx
+  8:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/sagas/helpers.ts
+  146:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/applications/selectors.ts
+   78:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/auto-update/AutoUpdateDockNotification.tsx
+  22:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/auto-update/components/AutoUpdateSubdock.tsx
+  24:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/bang/components/BangInsert.tsx
+  20:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/bang/duck.ts
+  191:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/bang/helpers/fuse.ts
+  15:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/bang/sagas.ts
+  139:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/bang/search/loggers.ts
+  4:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/bang/search/score/frecency.ts
+  24:92  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/bang/selectors.ts
+  20:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/chrome-extensions/types.ts
+  30:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/cli.ts
+  7:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/common/components/ElectronWebview.tsx
+  213:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  215:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  217:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  218:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  219:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  266:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  286:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/common/components/ListItem.tsx
+  27:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/common/components/ReactInterval.tsx
+   4:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/common/containers/DockApplicationSubdock.tsx
+  26:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/common/containers/NotificationBadge.tsx
+  21:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/common/containers/Popover.tsx
+  12:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/components/TransparentTitleBar.tsx
+  4:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/context-menu.ts
+  50:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/database/cli.ts
+  26:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dialogs/components/DialogItem.tsx
+  146:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dialogs/sagas.ts
+  21:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dialogs/selectors.ts
+  32:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dl-toaster/DownloadToaster.tsx
+  110:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dl-toaster/components/DownloadToast.tsx
+  41:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock-navigation/DockNavigationContainer.tsx
+  15:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock-navigation/components/DockNavigationButtons.tsx
+  18:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock/components/AppIcon.tsx
+  7:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock/components/DockTopSection.tsx
+  24:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock/components/DraggableAppDockIcon.tsx
+  15:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  71:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  71:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock/components/KeyboardShortcuts.ts
+  10:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock/components/NativeAppDockIcon.tsx
+   29:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   30:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock/components/RecentDockIcon.tsx
+  18:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock/components/TrafficLights.tsx
+  18:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock/components/TrafficLightsContainer.tsx
+  6:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/dock/duck.ts
+  43:83  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/downloads/duck.ts
+  76:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/favorites/selectors.ts
+  61:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/lib/ipc-broadcast.ts
+   6:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/lib/ipc-renderer-internal.ts
+  10:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:83  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/main.ts
+   41:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/nav/duck.ts
+  27:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/FocusModeDockContainer.tsx
+  50:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/NotificationCenterBody/index.tsx
+  12:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  71:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/NotificationCenterDockIcon.tsx
+  37:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/NotificationCenterSubdockContent.tsx
+  79:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/components/NotificationCenterHeader.tsx
+  22:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/components/NotificationItem.tsx
+  25:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/components/NotiticationCenterSnoozePanel.tsx
+  14:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/components/NotiticationCenterSnoozePanelItem.tsx
+   5:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   6:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/duck.ts
+  163:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/lib/ElectronNotificationStatePoller.ts
+  7:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/sagas.ts
+  234:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  237:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  251:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/selectors.ts
+  53:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notification-center/webview-preload.ts
+   35:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notifications/AskAuthorizeNotificationsApplication/container.tsx
+  12:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  80:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  80:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  84:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notifications/duck.ts
+  11:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notifications/get.ts
+  28:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/notifications/selectors.ts
+  13:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/onboarding/Onboarding.tsx
+   46:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  240:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/onboarding/Presenter.tsx
+   41:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   47:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   53:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  132:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/onboarding/components/OnboardingDockIcon.tsx
+  24:8  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/onboarding/components/OnboardingStepAppStore.tsx
+  27:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/onboarding/components/stories.tsx
+  49:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/onboarding/duck.ts
+  61:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/onboarding/selectors.ts
+  11:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/ordered-favorites/duck.ts
+  49:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:83  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/ordered-favorites/selectors.ts
+  13:83  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/ordered-tabs/duck.ts
+  50:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  76:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/ordered-tabs/selectors.ts
+   8:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/os-bar/OSBar.tsx
+  17:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/PasswordManager.tsx
+   46:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   50:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   62:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   62:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  204:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  204:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/PasswordManagerSubdock.tsx
+  27:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  89:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/components/AttachPasswordManagerItem.tsx
+   27:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   28:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/components/ConfigurePasswordManager.tsx
+  15:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/components/ListPasswordManagers.tsx
+  11:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/components/LoadCredentials.tsx
+  43:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/components/Unlock.tsx
+  14:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/duck.ts
+   80:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  151:89  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/persistence/passwordManagerLinks.ts
+   6:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/persistence/passwordManagers.ts
+  10:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/providers/onePassword/form.tsx
+   21:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   22:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   35:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   75:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   89:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   94:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  178:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/providers/onePassword/model.ts
+  4:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/providers/onePassword/persistence.ts
+   9:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/providers/onePassword/runtime.ts
+  25:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/sagas.ts
+  200:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  301:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/password-managers/selectors.ts
+   14:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   53:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   62:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:7   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/persistence/backend.ts
+   27:38   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   55:28   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:63   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:52   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:102  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:50   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:48   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  129:58   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:45   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:88   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:37   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:41   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:57   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:52   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:102  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:50   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:42   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:48   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:41   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  269:62   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:52   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  270:102  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  285:44   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  299:48   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/persistence/index.ts
+  18:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/persistence/local.backend.ts
+   28:61   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:37   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:73   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   63:16   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:57   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  129:35   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  243:63   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  243:104  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:63   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:108  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  295:62   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  295:99   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  356:50   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  360:48   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/persistence/mixins.ts
+   10:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   15:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   16:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   16:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   18:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   18:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   22:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   30:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   30:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   34:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   34:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   54:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   75:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  114:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  114:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  184:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  206:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  217:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  218:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  228:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  232:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  246:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  256:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  263:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  263:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  265:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  266:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  274:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  281:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  296:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  313:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  317:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/plugins/api.ts
+  10:118  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/plugins/bxapi.d.ts
+   58:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/plugins/duck.ts
+  23:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  69:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  86:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/plugins/notifications/NotificationsSDKConsumer.ts
+   6:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/plugins/notifications/NotificationsSDKProvider.ts
+  15:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/plugins/observers.renderer.ts
+  11:61   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:69   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:56   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:101  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/plugins/persistence.ts
+  11:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/plugins/selectors.ts
+  12:125  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:83   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:98   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:50   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/plugins/slack/SlackSDKProvider.ts
+  14:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/plugins/snooze/SnoozeSDKConsumer.ts
+   9:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/reducers/api.ts
+  1:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/resources/utils.ts
+  50:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/sagas.ts
+   4:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/sdk/activity/ActivityProvider.ts
+  48:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/sdk/activity/createActivityObservable.ts
+  76:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/sdk/index.ts
+  49:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/sdk/ipc/IpcProvider.ts
+  11:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/sdk/ipc/types.ts
+  4:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/sdk/session/SessionProvider.ts
+  40:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/sdk/storage/StorageProvider.ts
+  32:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/sdk/tabs/TabsProvider.ts
+  142:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/api/helpers.ts
+  15:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/api/lazyduplex.ts
+  18:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/lib/class.ts
+  121:28   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:57   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:62   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:54   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:105  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/lib/decorator.ts
+   7:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/lib/getNode.ts
+  61:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  69:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  69:98  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/lib/helpers.ts
+  27:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:95  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:92  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/lib/registry.ts
+   5:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/lib/serialization.ts
+   9:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  98:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  98:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/lib/types.ts
+  41:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/main/index.ts
+  37:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/renderer/index.ts
+  48:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/apollo-link/interface.ts
+  10:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/authentication/oauthPKCE.ts
+  65:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/authentication/types.ts
+  45:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/authentication/utils.ts
+   1:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/browser-window/main.ts
+  128:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/download/main.ts
+  130:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/ecx/main.ts
+  20:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/menu/interface.ts
+  24:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/menu/main.ts
+  114:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/os-notification/utils.ts
+  14:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/sdkipc/main.ts
+   9:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/sdkv2/interface.ts
+  29:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/sdkv2/worker.ts
+   98:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  160:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:95  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/tab-webcontents/api.ts
+  147:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/tab-webcontents/interface.ts
+  31:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/tab-webcontents/main.ts
+  53:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/services/url-router-helper/lib.ts
+  46:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/servicesManager.ts
+   10:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   11:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   11:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   12:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   56:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/services/worker/index.ts
+  20:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/session.ts
+  36:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/settings/applications/App.tsx
+   67:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   87:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  416:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/settings/applications/SettingsMyApps.tsx
+  105:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/settings/applications/components/ApplicationExtensions.tsx
+  14:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/settings/applications/components/ListInstances.tsx
+  21:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/settings/components/SettingsAutoLaunch/SettingsAutoLaunch.tsx
+  20:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/settings/components/SettingsQuickSwitch/FindBoostedAppsButton.tsx
+  11:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/settings/components/SettingsUpdatesButton/SettingsUpdatesButton.tsx
+  23:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/state.ts
+  41:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/static/preload/window-open/index.ts
+  4:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/store/actionsBus/context.tsx
+  14:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/store/actionsBus/middleware.ts
+  12:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/store/configureStore.worker.ts
+   27:78   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:119  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:85   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/store/storage.ts
+   7:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/store/utils.ts
+  3:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/subdock/Container.tsx
+  51:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/subdock/components/DraggableSubdockItem.tsx
+   12:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   13:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   21:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   28:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   28:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/subdock/components/Subdock.tsx
+  18:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/subdock/components/SubdockItem.tsx
+  134:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  138:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/subdock/components/SubdockPanel/index.tsx
+  33:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/subdock/components/SubdockPanel/types.ts
+  11:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/subdock/duck.ts
+  17:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/subdock/hoc/withApplication.ts
+  30:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/subwindows/observers.ts
+  11:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/tab-webcontents/api.ts
+  31:41   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:49   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:119  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:45   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:50   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/tab-webcontents/basicAuthDetailsProvider.ts
+  27:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/tab-webcontents/duck.ts
+  163:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/tab-webcontents/overrideProvider.ts
+  29:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/tab-webcontents/sagas/index.ts
+  162:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  197:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  272:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/tab-webcontents/selectors.ts
+   5:79   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:95   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:117  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:68   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:71   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:68   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:73   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:76   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:75   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:80   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:74   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:72   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:75   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:82   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:75   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:74   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/tabs/duck.ts
+   52:104  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:75   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:79   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/tabs/get.ts
+  22:109  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/tabs/selectors.ts
+   60:72   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:93   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:103  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/theme/ReduxBasedGradientProvider.tsx
+  14:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/theme/api.ts
+   91:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/theme/duck.ts
+  65:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/theme/sagas.ts
+  23:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/theme/selectors.ts
+  5:112  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/types.ts
+   76:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  206:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  208:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  210:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  250:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  251:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/ui/duck.ts
+  34:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/ui/persistence/proxy.ts
+  6:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/ui/sagas.ts
+  95:98  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/urlrouter/URLRouter.ts
+   39:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  284:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/urlrouter/sagas.ts
+  89:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/user-activities/selectors.ts
+  3:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  6:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/user-identities/api.ts
+  38:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/user-identities/duck.ts
+   41:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:95  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   47:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:92  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/user-identities/sagas.ts
+  48:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/utils/AppData.ts
+  17:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/utils/fp.ts
+  36:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/utils/hooks/useOnListChanged.ts
+  10:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/utils/sagas/index.ts
+   29:47   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:57   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   32:45   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:97   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:97   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   53:98   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   62:99   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   74:24   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   75:12   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:108  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:12   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:36   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:71   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:58   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:68   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:45   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:97   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:33   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  181:33   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  181:59   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  181:92   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  205:103  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  208:28   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:50   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:60   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  253:57   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  254:22   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  265:94   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  265:102  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  284:41   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  286:37   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  287:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/utils/sagas/observe.ts
+   8:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:93  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/utils/sagasWebRequestHelper.ts
+  37:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/webui/WebUIGradientProvider.tsx
+  6:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/windows/observers.ts
+  13:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/windows/utils/GenericWindowManager.ts
+  29:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/app/windows/utils/SubWindowManager.ts
+  61:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/HOC/withCustomApplications.tsx
+   9:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/app.tsx
+  34:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreAside/AppStoreAside.tsx
+  15:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreAside/AppStoreSearchSection/AppStoreSearchInput/AppStoreSearchInput.tsx
+  49:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreAllApps/AppStoreAllApps.tsx
+  18:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreAllAppsList/AppStoreAllAppsList.tsx
+  26:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreAllExtensions/AppStoreAllExtensions.tsx
+  16:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreApplicationItem/AppStoreApplication.tsx
+  33:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreApplicationItem/AppStoreApplicationLogo/AppStoreApplicationLogo.tsx
+  26:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreBoostedApps/AppStoreBoostedApps.tsx
+  19:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreMostPopularApps/AppStoreMostPopularApps.tsx
+  18:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreMyCustomApps/AppStoreMyCustomApps.tsx
+   40:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreMyCustomApps/AppStoreMyCustomAppsList/AppStoreMyCustomAppsList.tsx
+  21:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreRequest/AppRequestButton/AppRequestButton.tsx
+  86:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreRequest/AppRequestStepsChooserItem/AppRequestStepsChooserItem.tsx
+  12:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreRequest/AppRequestStepsInput/AppRequestStepsInput.tsx
+  12:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreRequest/AppRequestStepsInput/styles.ts
+  12:89  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStoreContent/AppStoreSearchResults/AppStoreSearchResults.tsx
+  19:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/AppStorePane.tsx
+  41:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/common/Search/Search.tsx
+  46:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/components/common/Textarea/Textarea.tsx
+  41:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/graphql/resolvers/setActiveScreenName.ts
+  5:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/graphql/resolvers/setAppModalStatus.ts
+  5:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/graphql/resolvers/setAppRequestMode.ts
+  6:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  6:96  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/graphql/resolvers/setBurgerStatus.ts
+  5:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/graphql/resolvers/setSearchString.ts
+  9:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:125  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/graphql/resolvers/setSelecteCustomApp.ts
+  7:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/appstore/src/types.d.ts
+  4:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/common/activity/resource.ts
+  5:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/gdrive/components/GDriveSearchSettings.tsx
+  134:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/gdrive/main.ts
+  233:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  253:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  253:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/notion/gateway/api.ts
+  47:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/notion/gateway/transformer.ts
+  16:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/notion/helpers.ts
+  18:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/notion/search.ts
+  137:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/slack/main.ts
+  16:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/slack/notification.ts
+  10:7   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/slack/search/slack-team.ts
+   38:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  195:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  258:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/slack/sync-snooze.ts
+  10:7   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/manifests/runtime/utils/websocket.ts
+  5:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/scripts/lib/links-cli/utils.ts
+  17:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/stories/components/dialog-item.tsx
+  35:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/stories/screens/multi-account-configurator.tsx
+   9:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/electron-mocha/sdk/ipc/main-require.ts
+  7:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/electron-mocha/sdk/ipc/test-renderer.ts
+  54:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/electron-mocha/services/test-renderer.ts
+  49:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/electron-mocha/ts-helpers.ts
+  18:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/electron-mocha/urlrouter/data-mock.ts
+  303:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/electron-mocha/urlrouter/server-mock.ts
+   6:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   6:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/jest/bang/search/fixtures/index.ts
+  8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/jest/persistence/test-activity.ts
+  11:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/jest/persistence/test-app.ts
+  44:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  68:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  76:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/jest/persistence/test-applications.ts
+  103:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  151:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/jest/persistence/test-dock.ts
+  25:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/jest/persistence/test-ordered-favorites.ts
+  45:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  71:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  90:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  98:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/jest/persistence/test-ordered-tabs.ts
+  45:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  71:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  90:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  98:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/jest/persistence/test-services.ts
+  31:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/jest/sdk/test-storage.ts
+  24:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/jest/services/test-serialization.ts
+   93:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   99:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/getstation-desktop-app/test/tsc/state.ts
+  6:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 952 problems (952 errors, 0 warnings)

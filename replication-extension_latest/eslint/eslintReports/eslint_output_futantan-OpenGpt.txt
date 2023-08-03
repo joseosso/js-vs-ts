@@ -1,0 +1,32 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/futantan-OpenGpt/src/components/Button.tsx
+  35:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/futantan-OpenGpt/src/components/LanguageSelector.tsx
+  35:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/futantan-OpenGpt/src/components/Purchase.tsx
+  42:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/futantan-OpenGpt/src/components/SearchInput.tsx
+  23:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/futantan-OpenGpt/src/pages/api/generate.ts
+  59:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/futantan-OpenGpt/src/pages/app/[id].tsx
+  44:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  78:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/futantan-OpenGpt/src/pages/app/new.tsx
+  37:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/futantan-OpenGpt/src/utils/OpenAIStream.ts
+  94:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/futantan-OpenGpt/src/utils/randomChooseFromApiToken.ts
+  8:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 12 problems (12 errors, 0 warnings)

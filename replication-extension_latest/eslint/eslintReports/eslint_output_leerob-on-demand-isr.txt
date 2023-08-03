@@ -1,0 +1,13 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/leerob-on-demand-isr/app/[id]/page.tsx
+  69:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/leerob-on-demand-isr/app/page.tsx
+  51:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/leerob-on-demand-isr/lib/github.ts
+  38:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 5 problems (5 errors, 0 warnings)

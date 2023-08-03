@@ -1,0 +1,1854 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/NewApp.tsx
+   67:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  238:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/base-table/html-table.d.ts
+  5:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/base-table/styles.d.ts
+  75:96  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/base-table/table.d.ts
+    8:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   13:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   15:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   90:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/common-views.d.ts
+   2:89  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   3:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/interfaces.d.ts
+  23:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/internals.d.ts
+  4:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  6:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pipeline/features/multiSelect.d.ts
+  21:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pipeline/features/rowDetail.d.ts
+  13:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pipeline/features/singleSelect.d.ts
+  13:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pipeline/features/treeMode.d.ts
+  11:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pipeline/features/treeSelect.d.ts
+   5:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pipeline/pipeline.d.ts
+  13:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pivot/cross-table/cross-table.d.ts
+   6:26   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:109  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:26   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pivot/cross-table/interfaces.d.ts
+  17:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pivot/cross-tree-table/buildCrossTreeTable.d.ts
+  8:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pivot/cross-tree-table/cross-tree-table.d.ts
+   7:26   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:23   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:109  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:26   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pivot/pivot-utils/buildDrillTree.d.ts
+  16:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pivot/pivot-utils/builders.d.ts
+   8:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/pivot/pivot-utils/interfaces.d.ts
+  4:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/transforms/autoWidth.d.ts
+  25:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/transforms/tips.d.ts
+  4:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/transforms/treeMode.d.ts
+  7:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/utils/exportTableAsExcel.d.ts
+  4:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/utils/others.d.ts
+   2:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/utils/proto.d.ts
+   2:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/utils/smartCompare.d.ts
+  9:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/alibaba/ali-react-table-dist/dist/utils/traverseColumn.d.ts
+  9:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/assets/icon/outline.tsx
+  7:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/assets/icons.tsx
+   16:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   74:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  197:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  215:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  248:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  274:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  347:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  413:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/CVXterm.tsx
+  11:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/ConfigPrivateDomain/ConfigPrivateDomain.tsx
+  145:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/DataExport/DataExport.tsx
+  12:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  89:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/FuzzableParamList.tsx
+  11:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/HTTPFlowDetail.tsx
+   47:71   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   52:21   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   58:38   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:22   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  332:135  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  360:137  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  548:24   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  785:117  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  834:119  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/HTTPFlowExtractedDataTable.tsx
+  35:113  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/HTTPFlowMiniTable.tsx
+   18:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   20:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   21:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   54:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  146:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/HTTPFlowRiskViewer.tsx
+  32:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/HTTPFlowTable/HTTPFlowTable.tsx
+   139:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   140:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   143:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   144:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   154:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   155:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   162:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   163:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   380:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   393:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   399:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   754:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   841:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   926:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   962:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   978:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1030:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1360:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1361:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1418:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1442:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1543:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1551:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1578:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1994:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2545:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2546:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2547:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2720:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/HTTPHistory.tsx
+  13:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/NewEditorSelectRange.tsx
+   41:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  203:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/PluginList.tsx
+   22:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   24:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   26:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   39:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  313:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  314:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/ResizeBox.tsx
+  13:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/ResizeLine.tsx
+   10:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   11:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/RollingLoadList/RollingLoadList.tsx
+   34:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   56:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   57:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  205:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/SimplePluginList.tsx
+   21:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   22:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/SyncCloudButton/SyncCloudButton.tsx
+  65:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/TabBarMenu.tsx
+  10:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/TableResizableColumn/index.tsx
+   7:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/TableVirtualResize/TableVirtualResize.tsx
+    71:99  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    72:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    88:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   149:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   150:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   152:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   666:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   667:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   849:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   951:89  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   996:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1042:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1050:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1051:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1053:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1059:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1062:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1250:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1253:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1254:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1254:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1255:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1256:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1257:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1258:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1260:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1375:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1380:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1381:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1382:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1385:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1386:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1387:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1536:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1591:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1766:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1767:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/TableVirtualResize/TableVirtualResizeType.d.ts
+   42:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   59:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   59:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/WebsiteTree.tsx
+  17:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/YakitCombinationSearch/YakitCombinationSearchType.d.ts
+  31:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/baseConsole/BaseConsole.tsx
+   36:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  339:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/baseTemplate/BaseMenu.tsx
+  13:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/baseTemplate/BaseTags.tsx
+   20:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   21:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/baseTemplate/DropdownMenu.tsx
+  17:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/baseTemplate/FormItemUtil.tsx
+   21:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   28:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/basics/YakitLoading.tsx
+   71:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   79:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   90:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  644:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  645:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  713:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  748:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  776:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  794:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  815:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  941:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/businessTemplate/yakitPlugin.tsx
+  12:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/functionTemplate/ContentUploadTextArea.tsx
+  14:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/functionTemplate/SecondConfirm.tsx
+  8:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/AllKillEngineConfirm.tsx
+  16:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/EngineLog.tsx
+  14:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/FuncDomain.tsx
+   136:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   237:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   238:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   789:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   790:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1184:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1189:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1492:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1498:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1540:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1546:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1560:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1587:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1593:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1612:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1618:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1632:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1682:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1957:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/GlobalState.tsx
+   74:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  269:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  272:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  274:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/MacUIOp.tsx
+  20:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/PerformanceDisplay.tsx
+   22:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   30:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  299:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/UILayout.tsx
+    78:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   519:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   656:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   674:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   966:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1382:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1383:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1385:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1702:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1703:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1784:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1844:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1850:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1861:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1895:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1910:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2030:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2033:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2139:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2140:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/WelcomeConsoleUtil.tsx
+   5:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/WinUIOp.tsx
+  19:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/YakitGlobalHost.tsx
+  17:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/YaklangEngineWatchDog.tsx
+  32:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/update/InstallEngine.tsx
+   29:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   30:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  422:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  425:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  573:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/layout/update/UpdateYakitAndYaklang.tsx
+   22:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  242:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  265:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakChat/ChatMarkdown.tsx
+  45:9   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  72:36  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakChat/chatCS.tsx
+    67:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   109:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   183:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   454:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   517:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   963:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1005:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1006:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1007:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1131:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1133:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1136:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1137:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1138:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1220:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1222:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1223:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1276:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1278:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1280:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitLogSchema.tsx
+   7:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitAutoComplete/YakitAutoCompleteType.d.ts
+  15:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitCVXterm/YakitCVXterm.tsx
+  14:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitDrawer/YakitDrawer.tsx
+  70:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitEditor/EditorMenu.tsx
+  57:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitEditor/YakitEditor.tsx
+  282:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  518:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  619:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitEditor/YakitEditorType.ts
+  28:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitEditor/contextMenus.tsx
+  167:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  185:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitEditor/editorUtils.ts
+   89:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitEditor/extraYakitEditor.tsx
+   27:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:98  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitForm/YakitForm.tsx
+  134:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitHint/YakitHintType.d.ts
+  36:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitInputNumber/YakitInputNumberType.d.ts
+  17:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitMenu/YakitMenu.tsx
+  54:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitMenu/showByRightContext.tsx
+  96:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitModal/YakitModalConfirm.tsx
+   15:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   16:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   17:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  197:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitResizeBox/YakitResizeBox.tsx
+   12:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   13:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   50:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   53:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   58:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  187:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitSelect/YakitSelect.tsx
+  86:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitSelect/YakitSelectType.d.ts
+  14:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/components/yakitUI/YakitSpin/YakitSpinType.d.ts
+  9:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/hook/useHoldingIPCRStream.ts
+   37:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   50:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/Login.tsx
+  18:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/MainOperator.tsx
+  104:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  303:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  344:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  415:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/MainTabs.tsx
+   39:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  257:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/SetPassword.tsx
+  14:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/analyzer/AnalyzerPage.tsx
+  14:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/assetViewer/DomainAssetPage.tsx
+   82:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  252:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  255:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/assetViewer/PortAssetPage.tsx
+   79:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  218:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  232:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  265:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  398:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  414:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  456:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  489:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  492:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/assetViewer/ReportViewer.tsx
+   35:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/assetViewer/ReportViewerPage.tsx
+  37:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/brute/BrutePage.tsx
+  104:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  197:92  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  349:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/chaosmaker/ChaosMakerOperators.tsx
+   19:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   21:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  215:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/chaosmaker/ChaosMakerRuleImport.tsx
+  11:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/chaosmaker/ChaosMakerRuleTable.tsx
+  19:21   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:113  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/codec/CodecPage.tsx
+  287:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/compare/DataCompare.tsx
+  22:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/customizeMenu/CustomizeMenu.tsx
+   471:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1202:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/cve/CVETable.tsx
+  197:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  322:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/cve/CVEViewer.tsx
+  78:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/debugMonaco/monaco_WebfuzzerRequestTokenProvider.tsx
+   9:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/dynamicControl/DynamicControl.tsx
+  110:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  234:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  280:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/dynamicControl/VirtualTable.tsx
+   62:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/engineConsole/EngineConsole.tsx
+  16:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/FuzzerResponseTable.tsx
+   15:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   15:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   17:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   18:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   99:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   99:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  187:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  187:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  219:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  219:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/HTTPFuzzerEditorMenu.tsx
+   32:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  407:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  621:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/HTTPFuzzerHistory.tsx
+  23:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/HTTPFuzzerHosts.tsx
+   9:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:95  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/HTTPFuzzerHotPatch.tsx
+  21:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/HTTPFuzzerPage.tsx
+   106:56   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   250:56   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   463:30   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   493:59   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   539:30   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   647:38   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   828:39   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   828:50   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   888:56   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1562:51   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1567:99   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1597:111  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1721:34   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2081:11   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2234:111  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/HTTPFuzzerPageExport.tsx
+  17:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/HTTPFuzzerResultsCard.tsx
+  12:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/HttpQueryAdvancedConfig/HttpQueryAdvancedConfig.tsx
+  1117:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1118:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/InsertFileFuzzTag.tsx
+   10:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/MatcherAndExtractionCard/MatcherAndExtractionCard.tsx
+  183:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/MatcherAndExtractionCard/MatcherAndExtractionCardType.d.ts
+  11:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  94:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/StringFuzzer.tsx
+  35:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/components/AutoTextarea/AutoTextarea.tsx
+  14:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/components/HTTPFuzzerPageTable/HTTPFuzzerPageTable.tsx
+   36:64   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:34   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:29   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  396:99   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  396:112  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  602:107  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  622:11   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/components/ShareData/shareDataType.d.ts
+  3:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/fuzzerTemplates.tsx
+   39:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   74:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  153:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/fuzzer/templates/Rand.tsx
+  8:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/graph/PieGraph.tsx
+   9:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:96  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/graph/base.tsx
+  3:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/hacker/HackerPlugin.tsx
+  303:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  304:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/hacker/httpHacker.tsx
+  17:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/httpRequestBuilder/HTTPRequestBuilder.tsx
+   16:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/icmpsizelog/ICMPSizeLoggerPage.tsx
+  49:89   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:115  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/Terminal.tsx
+  55:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/YakExecutor.tsx
+    75:9    error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   139:26   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   152:80   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   154:44   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   169:57   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   195:62   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   232:19   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   233:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   237:27   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   291:42   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   580:35   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   609:54   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   626:53   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   643:26   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   643:46   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1154:21   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1156:22   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1190:100  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/YakExecutorHistoryTable.tsx
+  108:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/YakExecutorParams.tsx
+   11:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   15:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/YakScriptCreator.tsx
+    37:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    39:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    43:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   201:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   370:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   404:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   622:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   869:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   882:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   932:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   948:95  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1145:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1146:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1182:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1206:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/YakScriptManager.tsx
+  34:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/YakScriptParamsSetter.tsx
+   32:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   34:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   56:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   94:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  258:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  661:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  662:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/YakitLogFormatter.tsx
+  38:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/batch/BatchExecuteByFilter.tsx
+   36:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/batch/BatchExecutorPage.tsx
+   143:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   183:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   247:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   411:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   412:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   466:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   467:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   529:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   532:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   535:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   744:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   964:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1022:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1051:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1051:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1187:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1187:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1210:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1211:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/batch/ExecMessageViewer.tsx
+  25:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/batch/QueryYakScriptParam.tsx
+   23:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   26:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   28:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  329:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  332:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  333:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/batch/ReadOnlyBatchExecutorByMenuItem.tsx
+  117:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/batch/SaveConfig.tsx
+  14:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/batch/UnfinishedBatchTaskList.tsx
+   12:42   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:54   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:82   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:101  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/batch/YakBatchExecutorLegacy.tsx
+  128:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/batch/YakBatchExecutors.tsx
+  136:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  160:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  186:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  264:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  362:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  566:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  619:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  649:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  649:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  652:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  652:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  704:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  704:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  723:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  723:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  781:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/fromPacketToYakCode.ts
+  12:105  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:87   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/invoker/schema.ts
+  76:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/layout/HeardMenu/HeardMenu.tsx
+  118:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  323:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  433:94  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  464:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  515:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  533:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  556:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  625:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/layout/mainOperatorContent/MainOperatorContent.tsx
+   325:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   376:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   405:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   418:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   431:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   436:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   459:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   518:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   522:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   535:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   538:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   569:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   588:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   785:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   882:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   991:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1169:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1505:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1506:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1534:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2802:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/layout/mainOperatorContent/MainOperatorContentType.d.ts
+   61:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/layout/publicMenu/MenuPlugin.tsx
+  24:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/layout/publicMenu/PublicMenu.tsx
+  260:24   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  301:41   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:110  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/loginOperationMenu/AccountAdminPage.tsx
+   205:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   499:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   527:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   785:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1035:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1077:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1216:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/loginOperationMenu/HoleCollectPage.tsx
+   65:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   87:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  287:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  303:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/loginOperationMenu/LicenseAdminPage.tsx
+  217:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/loginOperationMenu/PlugInAdminPage.tsx
+   22:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   34:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   55:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  281:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  307:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/loginOperationMenu/RoleAdminPage.tsx
+  45:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/loginOperationMenu/TrustListPage.tsx
+   82:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/matcherextractor/ExtractorForm.tsx
+    9:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   10:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/matcherextractor/MatcherForm.tsx
+   16:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMContentReplacerHeaderOperator.tsx
+   26:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMHTTPFlowMiniTableCard.tsx
+  63:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMPage.tsx
+  152:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  235:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  276:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  348:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  353:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  445:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  458:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  837:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMRule/MITMRule.tsx
+  194:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMRule/MITMRuleFromModal.tsx
+  48:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMRule/MITMRuleType.ts
+   61:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   62:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerHijacking/MITMHijackedContent.tsx
+   24:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   75:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerHijacking/MITMLog.tsx
+  157:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  260:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  285:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  493:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerHijacking/MITMManual.tsx
+  284:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerHijacking/MITMPluginHijackContent.tsx
+   38:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerHijacking/MITMPluginLocalList.tsx
+  48:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerHijacking/MITMServerHijacking.tsx
+  31:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  69:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerStartForm/MITMAddTLS.tsx
+  19:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerStartForm/MITMFilters.tsx
+  13:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerStartForm/MITMFiltersModal.tsx
+  28:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerStartForm/MITMFormAdvancedConfiguration.tsx
+   31:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   61:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  249:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  438:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMServerStartForm/MITMServerStartForm.tsx
+  36:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/mitm/MITMYakScriptLoader.tsx
+   52:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  138:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/newHome/NewHome.tsx
+  216:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  218:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  232:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  324:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  431:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  457:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  468:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/payloadGenerater/FacadesOptions.tsx
+  21:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/payloadGenerater/NewJavaPayloadPage.tsx
+   312:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   354:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   606:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   609:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   612:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   613:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   614:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   744:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   746:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   777:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   783:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   826:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   963:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   976:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   979:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1111:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1195:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1210:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1227:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1250:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/payloadGenerater/ReverseNotificationTable.tsx
+   8:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/payloadManager/PayloadManager.tsx
+   40:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  304:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  374:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  528:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  529:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  530:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  531:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  557:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  568:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  608:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  677:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  686:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  697:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  798:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  834:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  876:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/pluginDebugger/PluginDebuggerExec.tsx
+  20:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/pluginDebugger/PluginDebuggerPage.tsx
+   37:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:94  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/portscan/PortScanPage.tsx
+  121:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  266:89  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  516:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  533:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/reverse/StartFacadeServerForm.tsx
+  29:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/reverseServer/FacadesOptions.tsx
+  21:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/reverseServer/NewReverseServerPage.tsx
+   63:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:83  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/reverseServer/ReverseNotificationTable.tsx
+  17:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/reverseServer/ReverseServer_New.tsx
+   41:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:96  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   99:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  286:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  306:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  315:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  436:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/reverseServer/ReverseTable.tsx
+  47:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/risks/RiskTable.tsx
+  170:25   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  200:88   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  212:48   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  480:50   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  483:37   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  630:60   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  699:27   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  702:15   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  703:46   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  704:93   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  704:101  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  778:20   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/risks/RisksViewer.tsx
+  37:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  76:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  85:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  94:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/screenRecorder/ReactPlayerVideo/ReactPlayerVideo.tsx
+  33:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/screenRecorder/ScreenRecorderList.tsx
+  130:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  185:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/shellReceiver/CreateShellReceiver.tsx
+  8:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/shellReceiver/ShellReceiverPage.tsx
+  53:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  95:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  95:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/simpleDetect/SimpleDetect.tsx
+   198:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   235:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   516:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   724:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   800:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   819:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   819:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   822:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   822:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1206:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1211:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1247:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1290:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1297:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/softwareSettings/ProjectManage.tsx
+    54:75   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    55:21   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   175:33   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   176:31   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   711:77   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   769:76   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1206:59   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1207:61   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1385:36   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1387:36   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1388:111  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1778:102  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1844:59   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1894:102  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1928:47   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1947:36   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1948:34   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1981:65   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1992:65   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/softwareSettings/SoftwareSettings.tsx
+  64:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/vulinbox/VulinboxManager.tsx
+  160:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/websocket/WebsocketClientOperator.tsx
+  19:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/websocket/WebsocketFrameHistory.tsx
+  48:113  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/DocumentEditor.tsx
+  12:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/PluginExecutor.tsx
+  15:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/PluginHistory.tsx
+  18:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/PluginOperator.tsx
+    64:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    64:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   111:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   133:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   154:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   359:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   359:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   628:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   629:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   696:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   747:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   777:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   779:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   782:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   782:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   840:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   856:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   934:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1024:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1047:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/YakitPluginInfoOnline/YakitPluginInfoOnline.tsx
+   807:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   808:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   809:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   810:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   874:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   901:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   903:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   904:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   943:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   981:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1005:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1006:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1049:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/YakitPluginOnlineJournal/YakitPluginJournalDetails.tsx
+  287:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  333:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/YakitStorePage.tsx
+  1084:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1247:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1539:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1543:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1554:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1666:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1910:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1915:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1918:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1919:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1992:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2244:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2246:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2248:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2249:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2251:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2252:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2521:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2624:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2716:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2744:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4149:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4150:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4151:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4152:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4156:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4315:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4435:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4579:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4614:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/local/PluginLocal.tsx
+   741:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   905:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1195:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1199:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1210:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1322:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1566:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1571:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1574:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1575:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1648:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1900:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1902:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1904:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1905:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1907:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1908:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2176:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2279:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2371:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2399:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2446:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/network.tsx
+   9:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/owner/PluginOwner.tsx
+   785:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   790:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   793:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   794:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   867:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1876:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1877:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1878:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1879:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1883:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2034:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/store/PluginStore.tsx
+   931:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   936:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   939:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   940:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1013:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2442:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2443:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2444:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2445:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2449:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2600:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/viewers/BasicTable.tsx
+  29:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/viewers/WebsiteTree.tsx
+   42:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  383:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/pages/yakitStore/viewers/base.tsx
+   63:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   63:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  407:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  412:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  458:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  461:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  464:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  465:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  466:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  467:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  478:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  567:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  605:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  605:84  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  631:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/routes/newRoute.tsx
+  366:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/routes/routeSpec.tsx
+  318:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/services/axios.d.ts
+   10:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   10:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   14:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   14:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  148:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  192:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  192:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  195:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  195:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  197:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  197:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/services/fetch.ts
+  19:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/ConfigMenuItems.tsx
+  33:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/ConfigPcapPermission.tsx
+  9:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/ConfigYaklangEnvironment.tsx
+  29:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/RiskStatsTag.tsx
+  43:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/SelectItem/index.tsx
+   8:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/basic.tsx
+   52:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/codeViewer.tsx
+   26:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/deleteTool.tsx
+  13:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/editors.tsx
+    55:31   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    57:49   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    72:17   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   102:46   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   193:63   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   346:81   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   398:31   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   402:43   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   403:71   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   409:32   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   422:38   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   425:42   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   495:70   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   893:103  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1020:69   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1021:43   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1026:31   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1030:43   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1036:32   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1047:42   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1086:70   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/encodec.tsx
+   14:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   87:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  254:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/envfile.tsx
+  114:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/inputUtil.tsx
+   53:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  339:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  346:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  350:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  353:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  353:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  415:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  416:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  424:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  435:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  442:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  444:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  479:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  532:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  553:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  560:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  562:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  583:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  591:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  636:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  637:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  650:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  651:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  652:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  658:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  669:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  761:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  762:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/kv.tsx
+  3:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/monacoSpec/fuzzHTTP.ts
+  328:6  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/monacoSpec/html.ts
+  159:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/monacoSpec/javascriptLang.ts
+  156:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/monacoSpec/yakCompletionSchema.ts
+  310:176  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  481:10   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/monacoSpec/yakEditor.ts
+  215:95  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/showByCursor.tsx
+  57:98  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/showModal.tsx
+    9:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   10:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   10:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   47:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  153:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/str.ts
+  1:89  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/timeInterval.tsx
+  9:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/timeRange.tsx
+  10:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/windowResizer.tsx
+  3:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/xtermUtils.ts
+   3:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/yaklang-yakit/app/renderer/src/main/src/utils/yakQueryHTTPFlow.tsx
+  40:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 1324 problems (1324 errors, 0 warnings)

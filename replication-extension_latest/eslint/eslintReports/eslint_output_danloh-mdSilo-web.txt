@@ -1,0 +1,14 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/danloh-mdSilo-web/components/note/NoteSumList.tsx
+  52:1  error  Definition for rule 'react/display-name' was not found  react/display-name
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/danloh-mdSilo-web/components/note/backlinks/Backlinks.tsx
+  71:1  error  Definition for rule 'react/display-name' was not found  react/display-name
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/danloh-mdSilo-web/pages/index.tsx
+  1:1  error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/danloh-mdSilo-web/pages/playground.tsx
+  1:1  error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+
+✖ 4 problems (4 errors, 0 warnings)

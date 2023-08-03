@@ -1,0 +1,9 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/premAI-io-prem-app/src/modules/service/api/downloadServiceStream.ts
+   9:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/premAI-io-prem-app/src/shared/components/LeftArrowIcon.tsx
+  1:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 3 problems (3 errors, 0 warnings)

@@ -1,0 +1,48 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/__mocks__/framerMotionMock.tsx
+  7:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/components/ClusterMap/ClusterContainer.tsx
+  76:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/components/Search/types.d.ts
+  6:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/components/UserPopup/types.d.ts
+  16:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/contexts/types.d.ts
+  22:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/lib/GraphqlAdapter/graphql-adapter.ts
+  93:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/lib/apollo.ts
+   31:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  153:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/lib/auth.ts
+  141:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/lib/useLocalStorage.ts
+  81:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/lib/useSessionStorage.ts
+  77:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/pages/_app.tsx
+  15:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/types/next-auth.d.ts
+  19:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/42atomys-stud42/web/ui/src/types/next.d.ts
+  20:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 20 problems (20 errors, 0 warnings)

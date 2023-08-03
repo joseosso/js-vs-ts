@@ -1,0 +1,5 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FuelLabs-swayswap/packages/app/jest.config.ts
+  1:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+
+✖ 1 problem (1 error, 0 warnings)

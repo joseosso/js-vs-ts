@@ -1,0 +1,175 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/AgentChallengeTagButton.tsx
+  11:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/AgentChallengeTagModal.tsx
+  10:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/AgentLogFilesList/Upload.tsx
+  40:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/AgentLogFilesList/UploadFiletree.tsx
+  24:118  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/AgentPromptLogDetail.tsx
+  80:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/AgentRunLogContent.tsx
+   41:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/AgentRunLogDetail.tsx
+  4:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/ChooseOpenAIKey.tsx
+  15:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/ConfigureGitHubButton.tsx
+  6:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/DashboardHome.tsx
+  29:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/DeployAgent.tsx
+  16:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/DeploymentTree.tsx
+  15:84  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/Feedback/FeedbackModal.tsx
+  12:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/Filesystem/Dir.tsx
+  43:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  80:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/Filesystem/File.tsx
+  24:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/Filesystem/index.tsx
+  33:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/GitHubButton.tsx
+  13:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/LogFolderUploadButton.tsx
+  7:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/OpenAIKeyInput.tsx
+  3:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/RenameLogUploadButton.tsx
+  10:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/SelectRepository/ExistingRepositories/index.tsx
+  12:34   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:87   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:138  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/SelectRepository/NewRepository/index.tsx
+  30:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/SelectRepository/NewRepository/newRepoState.ts
+  53:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/Text.tsx
+  9:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/components/Textarea.tsx
+  8:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/db/prisma.ts
+  11:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/filesystem/filesystem.ts
+  11:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/filesystem/index.ts
+  26:1  error  Definition for rule 'import/no-anonymous-default-export' was not found  import/no-anonymous-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/filesystem/node.ts
+  11:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/github/pullRequest.ts
+   28:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  302:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  303:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  306:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  308:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/github/webhooks.ts
+   73:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   87:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/hooks/useDeploymentRunLog.ts
+  9:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/hooks/useListenOnMessage.ts
+  5:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/hooks/useOnClickOutside.ts
+  7:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/pages/agent/smol-developer/setup.tsx
+  184:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  186:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  200:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  234:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  235:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/pages/api/agent/index.ts
+  156:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  201:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  202:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  262:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/pages/api/agent/run.ts
+  100:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/pages/api/feedback.ts
+  36:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/pages/api/github/webhook.ts
+  22:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/pages/api/log_upload/index.ts
+   75:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  231:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/pages/api/log_upload/tag.ts
+  45:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  92:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  97:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/pages/logs/[slug].tsx
+  110:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/utils/agentLogs.ts
+   4:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/utils/gtag.ts
+   6:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/e2b-dev-e2b/utils/logger.ts
+  2:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 83 problems (83 errors, 0 warnings)

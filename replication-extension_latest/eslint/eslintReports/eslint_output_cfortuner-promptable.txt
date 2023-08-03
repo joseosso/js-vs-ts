@@ -1,0 +1,199 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/apps/gpt-prisma-seed/prisma/seed.ts
+  18:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/apps/hub/src/pages/hub/index.tsx
+  25:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/apps/web/src/components/Content.tsx
+  12:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/apps/web/src/server/api/routers/traces.ts
+  8:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/examples/src/advanced.ts
+  1:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/examples/src/basic.ts
+  3:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/old-examples/src/stream-completions-fetch.ts
+  12:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/old-examples/src/stream-completions.ts
+  35:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/old-examples/src/web-search-and-generate.ts
+  36:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/documents/AudioDocument.ts
+  23:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/documents/Document.ts
+  4:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/documents/ImageDocument.ts
+  23:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/documents/TextDocument.ts
+  23:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/loaders/GithubLoader.ts
+  21:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/loaders/GmailLoader.ts
+   6:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/loaders/GoogleDriveLoader.ts
+   8:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/loaders/HtmlLoader.ts
+  6:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/loaders/Loader.ts
+  4:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/loaders/MarkdownLoader.ts
+  16:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/loaders/SlackLoader.ts
+  19:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/ArrayParser.ts
+   3:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/BabelParser.ts
+   7:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/CSSParser.ts
+   4:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/CSVParser.ts
+   3:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/HTMLParser.ts
+   4:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/JSONParser.ts
+  18:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/MapParser.ts
+   3:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   3:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/Parser.ts
+  13:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/SQLParser.ts
+   16:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   17:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   18:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   92:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   99:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/XMLParser.ts
+   3:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/parsers/YAMLParser.ts
+   4:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/providers/ModelProvider.ts
+  25:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  78:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  94:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  95:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/providers/OpenAI.ts
+  171:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  246:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/splitters/TextSplitter.ts
+   9:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/utils/Logger.ts
+   2:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   2:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   3:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   3:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   4:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   4:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   6:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   6:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/utils/inject-variables.ts
+  3:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/promptable/src/utils/merge-documents.ts
+  5:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/cfortuner-promptable/packages/tracing/src/tracing.ts
+  44:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  86:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 121 problems (121 errors, 0 warnings)

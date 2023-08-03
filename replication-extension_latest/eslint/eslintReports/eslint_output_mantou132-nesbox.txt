@@ -1,0 +1,114 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/games/tetris/env.d.ts
+  9:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/ecs/src/components.ts
+  14:93  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/ecs/src/entities.ts
+   91:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/ecs/src/world.ts
+   16:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  429:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/mtapp/index.ts
+   1:113  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:58   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:12   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:21   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:66   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:63   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:70   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:73   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  68:83   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/sandbox/env.d.ts
+  2:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/sandbox/src/index.ts
+  118:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:93  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/sandbox/src/preload.ts
+  11:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/sandbox/src/vm.ts
+   78:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/sandbox/types.d.ts
+  12:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/toolbox/src/utils.ts
+  17:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/toolbox/vite-env.d.ts
+  4:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/src/constants.ts
+  67:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  85:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/src/drop.ts
+   8:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/src/index.ts
+  27:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/src/logger.ts
+   9:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/src/modules/friend-list.ts
+  60:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/src/modules/sound-settings.ts
+  55:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/src/pages/login.ts
+  179:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/src/pages/room.ts
+  136:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/src/services/index.ts
+  18:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  94:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/vite-env.d.ts
+  17:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/webapp/vite.config.ts
+  6:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/zombie/image.ts
+  20:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/zombie/list.ts
+  25:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mantou132-nesbox/packages/zombie/play.ts
+  21:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 60 problems (60 errors, 0 warnings)

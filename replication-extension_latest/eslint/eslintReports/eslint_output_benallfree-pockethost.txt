@@ -1,0 +1,125 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/attic/js-cloud-funcs/src/FunctionMarshaler.ts
+  15:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/attic/js-cloud-funcs/src/types/ConsoleApi.ts
+  2:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/attic/js-cloud-funcs/src/types/GoApi.ts
+  10:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/attic/js-cloud-funcs/src/util/event.ts
+   5:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/attic/js-cloud-funcs/src/util/isFunction.ts
+  1:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/cli/src/helpers/mergeDeep.ts
+  3:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/cli/src/index.ts
+  4:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/common/src/Logger.ts
+   16:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   65:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/common/src/TimerManager.ts
+  16:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/common/src/asyncExecutionGuard.ts
+   8:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/common/src/events.ts
+  26:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/common/src/safeCatch.ts
+  8:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/common/src/schema/Rpc/index.ts
+  47:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/daemon/src/services/FtpService/PhFs.ts
+  308:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  342:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  343:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/daemon/src/services/RealtimeLog.ts
+  39:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/daemon/src/services/RpcService/RpcService.ts
+  45:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/daemon/src/services/SqliteService/SqliteService.ts
+  78:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  94:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/daemon/src/services/clientService/RpcHelper.ts
+  26:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/daemon/src/stresser/commands/cleanup/deleteInstance.ts
+  57:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/deno-worker/dom-monkeypatch.d.ts
+  46:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/deno-worker/index.d.ts
+  31:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/pockethost.io/src/util/database.ts
+   68:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   87:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  244:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  254:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/benallfree-pockethost/packages/pockethost.io/src/util/events.ts
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 77 problems (77 errors, 0 warnings)
