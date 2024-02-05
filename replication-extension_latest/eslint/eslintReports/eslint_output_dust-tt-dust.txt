@@ -1,0 +1,214 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/admin/cli.ts
+  153:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  238:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/Button.tsx
+  10:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  92:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/DatasetView.tsx
+  172:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  264:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  294:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  306:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  311:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/Deploy.tsx
+  26:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/ModelPicker.tsx
+  43:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/Block.tsx
+  43:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/Browser.tsx
+  36:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/Chat.tsx
+  42:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/Code.tsx
+  39:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/Curl.tsx
+  42:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/Data.tsx
+  31:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/DataSource.tsx
+  44:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/Input.tsx
+  31:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/LLM.tsx
+  43:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/MapReduce.tsx
+   30:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/Output.tsx
+   22:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  275:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  365:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  401:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/Search.tsx
+  36:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/app/blocks/WhileEnd.tsx
+   39:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/components/providers/AnthropicSetup.tsx
+   36:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  174:64  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/actions/registry.ts
+  244:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/actions/server.ts
+  20:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/api/workspace.ts
+  99:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/auth.ts
+   54:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  247:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  257:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  393:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  395:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/config.ts
+  4:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/connectors_api.ts
+  36:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/core_api.ts
+   34:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/datasets.ts
+   3:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   3:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/dust_api.ts
+  334:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/extract_events.ts
+  201:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/http_utils.ts
+  19:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/models.ts
+  1109:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/providers.ts
+  122:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/lib/utils.ts
+  24:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/logger/slack_debug_logger.ts
+  28:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/logger/withlogging.ts
+  10:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/migrations/20230413_objects_workspaces.ts
+  41:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/migrations/20230413_runs.ts
+  21:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/migrations/20230427_runs_creation_time.ts
+  26:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/migrations/20230601_fix_dangling_running_runs.ts
+  17:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/api/v1/w/[wId]/apps/[aId]/runs/index.ts
+   28:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  326:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  329:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/api/w/[wId]/apps/[aId]/datasets/[name]/index.ts
+  109:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/api/w/[wId]/apps/[aId]/datasets/index.ts
+  131:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/api/w/[wId]/apps/[aId]/runs/index.ts
+  201:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  202:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/api/w/[wId]/providers/[pId]/models.ts
+   70:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/api/w/[wId]/use/actions/[action]/index.ts
+  85:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/w/[wId]/a/[aId]/execute/index.tsx
+  246:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  380:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/w/[wId]/a/index.tsx
+  224:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/w/[wId]/ds/[name]/upsert.tsx
+  119:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/w/[wId]/u/chat/[cId]/index.tsx
+  1071:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/pages/w/[wId]/u/gens/index.tsx
+  281:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  348:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/tests/lib/datasets.test.ts
+  12:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/types/app.ts
+   7:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dust-tt-dust/front/types/dataset.ts
+  2:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 106 problems (106 errors, 0 warnings)

@@ -1,0 +1,16 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/jbilcke-latent-browser/src/pages/api/mocker/[filename].ts
+  24:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/jbilcke-latent-browser/src/pages/content.tsx
+  58:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/jbilcke-latent-browser/src/types/index.ts
+  29:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/jbilcke-latent-browser/src/utils/event.ts
+  1:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 6 problems (6 errors, 0 warnings)

@@ -1,0 +1,5 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/noahflk-railtrack/src/components/ErrorPage.tsx
+  4:6  error  Definition for rule '@next/next/no-html-link-for-pages' was not found  @next/next/no-html-link-for-pages
+
+✖ 1 problem (1 error, 0 warnings)

@@ -1,0 +1,370 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/Stack.tsx
+  1:1  error  Definition for rule 'react/no-unstable-nested-components' was not found  react/no-unstable-nested-components
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/Start.tsx
+  155:10  error  Definition for rule 'react/style-prop-object' was not found  react/style-prop-object
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/LemmyInstance.ts
+   9:1  error  Definition for rule 'import/no-mutable-exports' was not found  import/no-mutable-exports
+  11:1  error  Definition for rule 'import/no-mutable-exports' was not found  import/no-mutable-exports
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Button.tsx
+  10:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Buttons/CTablerButton.tsx
+  4:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+  7:9  error  Unexpected any. Specify a different type                               @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Buttons/Link.tsx
+  14:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Buttons/LinkButton.tsx
+   3:1   error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+  20:62  error  Unexpected any. Specify a different type                               @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Buttons/UserLink.tsx
+  15:5  error  Definition for rule 'jsx-a11y/anchor-is-valid' was not found  jsx-a11y/anchor-is-valid
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Buttons/WebLink.tsx
+  14:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Chip.tsx
+  39:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Comments/ShowMoreButton.tsx
+  25:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/CommunityLink.tsx
+  19:5  error  Definition for rule 'jsx-a11y/anchor-is-valid' was not found  jsx-a11y/anchor-is-valid
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/ContextMenu/AccountsContextMenu.tsx
+  15:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Gluestack/core/GluestackUIProvider/index.tsx
+  12:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Gluestack/core/Icons/index.tsx
+  5:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Gluestack/core/Icons/styled-components/Root.tsx
+  4:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Gluestack/core/styled/index.tsx
+  17:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/ImageViewer/ImageViewer.tsx
+  523:75  error  Unexpected any. Specify a different type                     @typescript-eslint/no-explicit-any
+  633:10  error  Definition for rule 'react/style-prop-object' was not found  react/style-prop-object
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Loading/NotFoundView.tsx
+  10:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Markdown/RenderMarkdown.tsx
+   1:1   error  Definition for rule 'react/no-unstable-nested-components' was not found  react/no-unstable-nested-components
+  43:62  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Markdown/SpoilerContainer.tsx
+  7:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Navigation/CustomTabBar.tsx
+  22:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Navigation/TabBarGestureHandler.tsx
+  18:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Search/SearchBox.tsx
+  35:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Search/SearchCommunityItem.tsx
+  17:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Search/SearchUserItem.tsx
+  16:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/SwipeableRow/SwipeableRow.tsx
+  39:3  error  Definition for rule 'react/no-unused-prop-types' was not found  react/no-unused-prop-types
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Table/CTable.tsx
+  7:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/Table/MCell.tsx
+  16:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/icons/IconBookCheck.tsx
+  5:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/icons/IconCalendarWeek.tsx
+  5:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/common/icons/index.ts
+  1:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Comments/EditCommentScreen.tsx
+  13:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Comments/NewCommentScreen.tsx
+  22:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Feed/CommunityAboutScreen.tsx
+  42:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Feed/CommunityFeedScreen.tsx
+  24:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Feed/FeedsIndexScreen.tsx
+  24:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Feed/components/Community/CommunityHeader.tsx
+  34:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Feed/components/CompactFeedItem/CompactFeedItemThumbnail.tsx
+  38:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Feed/components/FeedItem/FeedItem.tsx
+  4:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Feed/components/FeedView.tsx
+   65:25  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+  113:41  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+  116:38  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+  127:7   error  Definition for rule 'react/no-unstable-nested-components' was not found  react/no-unstable-nested-components
+  138:9   error  Definition for rule 'react/no-unstable-nested-components' was not found  react/no-unstable-nested-components
+  140:9   error  Definition for rule 'react/no-unstable-nested-components' was not found  react/no-unstable-nested-components
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/HubDiscovery/InstanceScreen.tsx
+  29:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/HubDiscovery/components/InstanceItem.tsx
+  30:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Inbox/InboxScreen.tsx
+  26:41  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+  42:7   error  Definition for rule 'react/no-unstable-nested-components' was not found  react/no-unstable-nested-components
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Inbox/components/InboxReplyItem.tsx
+  18:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/AddAccountScreen.tsx
+  30:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/CreateAccountScreen.tsx
+  41:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/HubDiscovery/HubDiscoveryScreen.tsx
+  13:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/InfoScreens/OnboardingInfoScreenFive.tsx
+  10:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/InfoScreens/OnboardingInfoScreenFour.tsx
+  10:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/InfoScreens/OnboardingInfoScreenOne.tsx
+  16:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/InfoScreens/OnboardingInfoScreenSeven.tsx
+  10:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/InfoScreens/OnboardingInfoScreenSix.tsx
+  10:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/InfoScreens/OnboardingInfoScreenThree.tsx
+  10:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/InfoScreens/OnboardingInfoScreenTwo.tsx
+  10:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Onboarding/OnboardingIndexScreen.tsx
+  13:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Post/NewPostBodyScreen.tsx
+  11:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Post/NewPostScreen.tsx
+  20:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Post/PostScreen.tsx
+   46:25  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+   64:41  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+   68:32  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+   92:41  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+  143:7   error  Definition for rule 'react/no-unstable-nested-components' was not found  react/no-unstable-nested-components
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Post/components/PostActionBar.tsx
+   3:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+  46:5  error  Definition for rule 'jsx-a11y/anchor-is-valid' was not found           jsx-a11y/anchor-is-valid
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Post/components/PostCommentItem.tsx
+  23:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Post/components/PostContentView.tsx
+  16:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Post/components/PostFooter.tsx
+  14:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Post/components/PostHeader.tsx
+  26:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Post/components/PostOptionsButton.tsx
+  21:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Post/components/PostTitle.tsx
+  17:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Search/SearchResultsScreen.tsx
+  24:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Search/SearchScreen.tsx
+  15:41  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+  24:7   error  Definition for rule 'react/no-unstable-nested-components' was not found  react/no-unstable-nested-components
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/About/AboutScreen.tsx
+  18:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/Account/EditAccountScreen.tsx
+  29:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/Account/ViewAccountsScreen.tsx
+  27:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/Appearance/AppearanceScreen.tsx
+  29:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/Appearance/ThemeSelectionScreen.tsx
+  52:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/Content/ContentScreen.tsx
+  23:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/Content/ReadSettingsScreen.tsx
+  20:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/Filters/FilterScreen.tsx
+  41:7  error  Definition for rule 'react/no-unstable-nested-components' was not found  react/no-unstable-nested-components
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/Filters/FiltersScreen.tsx
+  12:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/General/GeneralSettingsScreen.tsx
+  23:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Settings/SettingsIndexScreen.tsx
+  57:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/Traverse/components/TraverseItem.tsx
+  32:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/UserProfile/UserCommentsScreen.tsx
+  15:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/UserProfile/UserProfileScreen.tsx
+  23:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/UserProfile/components/ProfileCommentItem.tsx
+  17:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/components/screens/ViewerScreen.tsx
+  9:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/helpers/GeneralHelper.ts
+  15:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/helpers/ImageHelper.ts
+  1:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+  3:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+  5:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/helpers/ImgurHelper.ts
+  31:8  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/helpers/LinkHelper.ts
+  133:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/helpers/MarkdownHelper.ts
+  1:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/helpers/ShareHelper.ts
+  12:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/animations/useSwipeAnimation.ts
+  18:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/comments/useComment.ts
+  39:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/comments/useEditComment.ts
+  25:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/comments/useNewComment.ts
+  14:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/communities/useCommunity.ts
+  17:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/feeds/useCommunityFeed.ts
+  23:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/feeds/useFeedItem.ts
+  57:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/inbox/useInbox.ts
+  34:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/post/useDeletePost.ts
+  15:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/post/useNewPost.ts
+  45:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/post/usePost.ts
+  23:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/post/usePostActionBar.ts
+  30:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/post/useReportPost.ts
+  12:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/search/useSearchResult.ts
+  16:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/hooks/user/useBlockUser.ts
+  11:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:6   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/slices/post/postActions.ts
+  7:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/theme/lightColors.ts
+  3:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/Memmy-App-memmy/src/types/AppIconType.ts
+  20:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 152 problems (152 errors, 0 warnings)

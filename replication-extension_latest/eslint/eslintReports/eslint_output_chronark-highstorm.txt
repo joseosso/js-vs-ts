@@ -1,0 +1,21 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/chronark-highstorm/apps/web/app/(authenticated)/(app)/channels/[channelName]/createReportButton.tsx
+  43:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/chronark-highstorm/apps/web/app/(authenticated)/(app)/channels/[channelName]/createWebhookButton.tsx
+  48:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/chronark-highstorm/apps/web/components/landing/particles.tsx
+  45:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/chronark-highstorm/apps/web/lib/flatten.ts
+   8:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/chronark-highstorm/apps/web/lib/trpc/routers/apikey.ts
+  56:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/chronark-highstorm/apps/web/pages/api/v1/clerk/index.ts
+  71:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 7 problems (7 errors, 0 warnings)

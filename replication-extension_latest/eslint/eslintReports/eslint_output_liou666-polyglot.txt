@@ -1,0 +1,24 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liou666-polyglot/src/server/api.ts
+  64:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  89:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liou666-polyglot/src/shima.d.ts
+  3:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  6:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liou666-polyglot/src/types..d.ts
+  22:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liou666-polyglot/src/utils/openAi.ts
+   43:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   57:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liou666-polyglot/src/vite-env.d.ts
+  5:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 12 problems (12 errors, 0 warnings)

@@ -1,0 +1,28 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mdSilo-mdSilo-app/src/components/feed/ArticleView.tsx
+  89:11  error  Definition for rule 'react/no-danger' was not found  react/no-danger
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mdSilo-mdSilo-app/src/components/md/ReactCodeMirror.tsx
+    1:1  error  Definition for rule 'react/prop-types' was not found             react/prop-types
+  103:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mdSilo-mdSilo-app/src/components/md/useCodeMirror.ts
+  123:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  155:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mdSilo-mdSilo-app/src/components/note/NoteSumList.tsx
+  48:1  error  Definition for rule 'react/display-name' was not found  react/display-name
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mdSilo-mdSilo-app/src/components/note/backlinks/Backlinks.tsx
+  71:1  error  Definition for rule 'react/display-name' was not found  react/display-name
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mdSilo-mdSilo-app/src/components/sidebar/SidebarHistory.tsx
+  36:7  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mdSilo-mdSilo-app/src/file/storage.ts
+  52:1  error  Definition for rule 'import/no-anonymous-default-export' was not found  import/no-anonymous-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/mdSilo-mdSilo-app/src/index.tsx
+  6:1  error  Definition for rule 'import/no-named-as-default-member' was not found  import/no-named-as-default-member
+
+✖ 10 problems (10 errors, 0 warnings)

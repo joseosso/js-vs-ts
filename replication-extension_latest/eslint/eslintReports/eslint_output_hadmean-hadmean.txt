@@ -1,0 +1,277 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/jest.config.ts
+  43:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/__tests__/_/lib/renderHook.tsx
+  12:62  error  Unexpected any. Specify a different type                                             @typescript-eslint/no-explicit-any
+  19:5   error  Definition for rule 'testing-library/render-result-naming-convention' was not found  testing-library/render-result-naming-convention
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/__tests__/_app.spec.tsx
+  18:5  error  Definition for rule 'react/jsx-no-bind' was not found  react/jsx-no-bind
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/__tests__/api/_test-utils/_authenticatedMock.ts
+  20:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/__tests__/dashboard/manage__order.spec.tsx
+   1:1  error  Definition for rule 'testing-library/no-node-access' was not found           testing-library/no-node-access
+  32:5  error  Definition for rule 'jsx-a11y/click-events-have-key-events' was not found    jsx-a11y/click-events-have-key-events
+  32:5  error  Definition for rule 'jsx-a11y/no-static-element-interactions' was not found  jsx-a11y/no-static-element-interactions
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/__tests__/integrations/variables__credentials--non-admin.spec.tsx
+  1:1  error  Definition for rule 'prettier/prettier' was not found  prettier/prettier
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/__tests__/integrations/variables__credentials.spec.tsx
+  1:1  error  Definition for rule 'prettier/prettier' was not found  prettier/prettier
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/__tests__/setup/credentials.spec.tsx
+  1:1  error  Definition for rule 'testing-library/no-node-access' was not found  testing-library/no-node-access
+  2:1  error  Definition for rule 'testing-library/no-container' was not found    testing-library/no-container
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/__tests__/users/[username]/index.spec.tsx
+  1:1  error  Definition for rule 'testing-library/no-node-access' was not found  testing-library/no-node-access
+  2:1  error  Definition for rule 'testing-library/no-container' was not found    testing-library/no-container
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/backend/lib/config-persistence/MemoryConfigDataPersistenceAdaptor.ts
+  9:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/backend/lib/connection/_manager.ts
+  1:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/backend/lib/connection/db.ts
+  12:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/backend/lib/errors/validate-schema-request-input.ts
+  6:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/backend/lib/request/index.ts
+  30:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/backend/lib/request/validations/implementations/index.ts
+  25:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/backend/lib/request/validations/implementations/request-body.ts
+  8:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/backend/storage/integrations/index.ts
+  11:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/_layouts/app/IsSignedIn.tsx
+  37:3  error  Definition for rule 'react/jsx-no-useless-fragment' was not found  react/jsx-no-useless-fragment
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/_layouts/scripts/GoogleTagManager/GoogleTagManager.spec.tsx
+  1:1  error  Definition for rule 'testing-library/no-container' was not found    testing-library/no-container
+  2:1  error  Definition for rule 'testing-library/no-node-access' was not found  testing-library/no-node-access
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/components/FEPaginationTable/useFEPagination.ts
+  27:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/components/SchemaForm/index.tsx
+  81:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/components/ViewStateMachine/index.tsx
+  1:1  error  Definition for rule 'react/jsx-no-useless-fragment' was not found  react/jsx-no-useless-fragment
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Alert/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Badge/BadgePill.Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Badge/Bagde.Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Breadcrumbs/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Button/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/ConfirmAlert/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Dropdown/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Dropdown/index.tsx
+  1:1  error  Definition for rule 'jsx-a11y/no-static-element-interactions' was not found  jsx-a11y/no-static-element-interactions
+  2:1  error  Definition for rule 'jsx-a11y/click-events-have-key-events' was not found    jsx-a11y/click-events-have-key-events
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/DropdownMenu/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/EmptyWrapper/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Form/FormDateInput/index.tsx
+  51:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Form/FormFileInput/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Form/FormSelect/Async/index.tsx
+   35:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Form/FormSelect/index.tsx
+   41:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   79:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Form/FormSwitch/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Form/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Form/_types.ts
+  4:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Form/_wrapForm.tsx
+  16:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  85:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/IntermediateCheckBox/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/OffCanvas/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/RenderCode/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/RenderList/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Section/MenuSection/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Section/SectionBox/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Section/SectionDivider/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Section/SectionDivider/index.tsx
+  26:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Section/SectionList/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Skeleton/Base/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Skeleton/Form/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Skeleton/List/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Skeleton/Table/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/SortList/SortList.spec.tsx
+   1:1  error  Definition for rule 'jsx-a11y/no-static-element-interactions' was not found  jsx-a11y/no-static-element-interactions
+  17:5  error  Definition for rule 'jsx-a11y/click-events-have-key-events' was not found    jsx-a11y/click-events-have-key-events
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/SortList/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Table/Stories.tsx
+   1:1   error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+  37:25  error  Unexpected any. Specify a different type                                 @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Table/filters/_FilterWrapper.tsx
+  1:1  error  Definition for rule 'jsx-a11y/no-static-element-interactions' was not found  jsx-a11y/no-static-element-interactions
+  2:1  error  Definition for rule 'jsx-a11y/click-events-have-key-events' was not found    jsx-a11y/click-events-have-key-events
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Table/filters/config.tsx
+  17:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Table/filters/index.tsx
+  19:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Tabs/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Toasts/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Tooltip/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/components/Widgets/Summary/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/layouts/DynamicLayout/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/design-system/layouts/GuestLayout/Stories.tsx
+  1:1  error  Definition for rule 'react/function-component-definition' was not found  react/function-component-definition
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/lib/data/QueryClient.tsx
+  9:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/lib/data/types.ts
+  9:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/lib/validations/index.ts
+  21:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/views/Dashboard/Widget/_manage/Form.tsx
+  112:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/views/data/Table/hooks/useCurrentTableState.store.ts
+  6:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/views/data/Table/hooks/useEntityContextState.ts
+  13:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/views/data/Table/hooks/useTableState.ts
+  43:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/views/data/buildAppliedSchemaFormConfig.ts
+  34:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/views/entity/Actions/Form.tsx
+  79:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/frontend/views/settings/Variables/ManageCredentialGroup.tsx
+  151:7  error  Definition for rule 'react/no-unstable-nested-components' was not found  react/no-unstable-nested-components
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/pages/_app.tsx
+  1:1  error  Definition for rule 'react/prop-types' was not found  react/prop-types
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/pages/api/upload/index.ts
+  44:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/shared/types/actions.ts
+  39:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/shared/types/data-sources.ts
+  38:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/hadmean-hadmean/src/shared/validations/run.ts
+  7:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 115 problems (115 errors, 0 warnings)

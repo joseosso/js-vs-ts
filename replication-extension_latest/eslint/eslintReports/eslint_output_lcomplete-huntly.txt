@@ -1,0 +1,22 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/lcomplete-huntly/app/client/src/components/MagazineItem.tsx
+  26:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/lcomplete-huntly/app/client/src/domain/index.ts
+  23:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/lcomplete-huntly/app/electron/src/main/index.ts
+  49:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/lcomplete-huntly/app/extension/src/globals.d.ts
+  5:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/lcomplete-huntly/app/extension/src/logger.ts
+   3:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 10 problems (10 errors, 0 warnings)

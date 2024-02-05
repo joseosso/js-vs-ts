@@ -1,0 +1,24 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/skynexui-components/docs/pages/_app.tsx
+  2:1  error  Definition for rule 'react/jsx-filename-extension' was not found  react/jsx-filename-extension
+  3:1  error  Definition for rule 'react/prop-types' was not found              react/prop-types
+  4:1  error  Definition for rule 'import/no-unresolved' was not found          import/no-unresolved
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/skynexui-components/docs/scripts/docs/_app.tsx
+  2:1  error  Definition for rule 'react/jsx-filename-extension' was not found  react/jsx-filename-extension
+  3:1  error  Definition for rule 'react/prop-types' was not found              react/prop-types
+  4:1  error  Definition for rule 'import/no-unresolved' was not found          import/no-unresolved
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/skynexui-components/lib/components/box/box-base.tsx
+  2:1  error  Definition for rule 'react/require-default-props' was not found  react/require-default-props
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/skynexui-components/lib/components/button/button.tsx
+  1:1  error  Definition for rule 'react/button-has-type' was not found  react/button-has-type
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/skynexui-components/lib/components/image/image.tsx
+  1:1  error  Definition for rule 'react/button-has-type' was not found  react/button-has-type
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/skynexui-components/lib/core/theme/generator/generator.tsx
+  1:1  error  Definition for rule 'react/no-array-index-key' was not found  react/no-array-index-key
+
+✖ 10 problems (10 errors, 0 warnings)

@@ -1,0 +1,108 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/App.tsx
+  103:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/Html/CodeRenderer.tsx
+  133:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/Html/ImageRenderer.tsx
+  20:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/Html/helper.ts
+  18:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/Html/index.tsx
+  23:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/IconButton.tsx
+  56:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/ParallaxScrollView.tsx
+  72:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/StyledBlurView.tsx
+  21:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/StyledImage.tsx
+   57:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/StyledImageViewer.tsx
+  167:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/StyledToast.tsx
+  19:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/V2exWebview/index.tsx
+  122:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/components/V2exWebview/v2exMessage.ts
+  14:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/jotai/topicDraftAtom.ts
+  14:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/jotai/utils/atomWithAsyncStorage.ts
+  4:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/navigation/navigationRef.tsx
+  22:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/screens/MyNodesScreen.tsx
+  99:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/screens/SearchNodeScreen.tsx
+  50:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/screens/SearchScreen.tsx
+  81:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/screens/SettingScreen.tsx
+  45:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/servicies/authentication.ts
+  67:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/servicies/notice.ts
+  43:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/servicies/topic.ts
+  67:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/servicies/types.ts
+  143:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/utils/cookie.ts
+  43:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/utils/query.ts
+  33:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/utils/request/index.ts
+  45:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/utils/useEffectOnce.ts
+  4:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/utils/useUnmount.ts
+  5:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/liaoliao666-v2ex/utils/useUpdateEffect.ts
+  12:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+✖ 46 problems (46 errors, 0 warnings)

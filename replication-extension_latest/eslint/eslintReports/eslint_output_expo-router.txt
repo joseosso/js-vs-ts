@@ -1,0 +1,340 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/apps/demo/etc/button.tsx
+  25:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/apps/sandbox/etc/auth/createAuthSessionContextProvider.ts
+  108:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-head/src/ExpoHead.ios.tsx
+   28:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   35:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  282:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  282:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-head/src/ExpoHead.tsx
+  6:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-head/src/ExpoHeadModule.native.ts
+  4:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-head/src/url.tsx
+   7:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/HMRClient.ts
+   32:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   53:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/async-require/__tests__/buildAsyncRequire.test.ts
+  4:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/async-require/__tests__/buildUrlForBundle.test.native.ts
+  4:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/async-require/__tests__/fetchAsync.test.web.ts
+  4:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/async-require/__tests__/loadBundle.test.ios.ts
+  35:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  69:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/async-require/fetchAsync.native.ts
+  28:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/async-require/fetchThenEval.ts
+  10:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/effects.ts
+  8:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/Data/LogBoxData.tsx
+   33:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  386:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/Data/LogBoxSymbolication.tsx
+  13:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/Data/LogContext.tsx
+  29:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/Data/parseLogBoxLog.tsx
+   15:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   26:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   34:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   56:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  311:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  317:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/ErrorOverlay.tsx
+  168:11  error  Definition for rule 'react/jsx-no-bind' was not found  react/jsx-no-bind
+  174:13  error  Definition for rule 'react/jsx-no-bind' was not found  react/jsx-no-bind
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/LogBox.web.ts
+   84:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/UI/LogBoxButton.tsx
+  25:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/index.tsx
+   6:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/modules/ExceptionsManager/index.ts
+  11:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/modules/openFileInEditor/index.ts
+  1:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/modules/stringifySafe/index.ts
+  18:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/modules/symbolicateStackTrace/index.ts
+  16:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/overlay/LogBoxInspectorCodeFrame.tsx
+  20:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/overlay/LogBoxInspectorSection.tsx
+  16:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/overlay/LogBoxInspectorStackFrame.tsx
+  17:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/error-overlay/overlay/LogBoxInspectorStackFrames.tsx
+  118:5  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/location/Location.native.ts
+  187:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-metro-runtime/src/location/install.native.ts
+  12:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/_entry.tsx
+  20:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/e2e/__tests__/utils.ts
+  38:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/head.ts
+  5:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/ExpoRoot.tsx
+  28:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/LocationProvider.tsx
+  16:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/Route.tsx
+  10:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/__tests__/Route.test.node.ts
+  8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/__tests__/getRoutes.test.node.ts
+  13:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/__tests__/loadStaticParamsAsync.test.node.ts
+  7:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/fork/NavigationContainer.native.tsx
+  31:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/fork/__tests__/getPathFromState-upstream.test.node.ts
+  241:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  329:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/fork/__tests__/getStateFromPath-upstream.test.node.ts
+  2516:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2545:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2565:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2565:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/fork/__tests__/getStateFromPath.test.node.ts
+  48:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/fork/expo/registerRootComponent.tsx
+  18:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/fork/getPathFromState.ts
+   28:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  241:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  243:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  365:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  431:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  450:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  564:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  570:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/fork/getStateFromPath.ts
+   21:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  401:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  423:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  460:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  509:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  608:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  759:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/fork/validatePathConfig.ts
+  4:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/getLinkingConfig.ts
+  55:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/global-state/routing.ts
+   52:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  211:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/hooks.ts
+  119:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/layouts/withLayoutContext.tsx
+  20:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/link/Link.tsx
+  99:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/link/href.ts
+   7:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/link/stateOperations.ts
+   93:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/loadStaticParamsAsync.ts
+    6:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/primitives.tsx
+  5:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/renderRootComponent.tsx
+   7:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/static/renderStaticContent.tsx
+  27:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/testing-library/context-stubs.ts
+  5:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  5:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/testing-library/index.tsx
+  24:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/testing-library/mocks.ts
+  31:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/types.ts
+  7:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/useFocusEffect.tsx
+  58:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/useNavigation.ts
+  18:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/useScreens.tsx
+   18:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   18:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  160:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  160:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  235:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/utils/mockState.ts
+   6:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/views/Navigator.tsx
+  22:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/views/Screen.tsx
+   7:35  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+   7:57  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+  21:36  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+  48:5   error  Definition for rule 'react-hooks/rules-of-hooks' was not found  react-hooks/rules-of-hooks
+  56:5   error  Definition for rule 'react-hooks/rules-of-hooks' was not found  react-hooks/rules-of-hooks
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/src/views/Splash.tsx
+   90:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/types/expect.d.ts
+  2:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/types/metro-require.d.ts
+  11:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/packages/expo-router/types/react-native-web.d.ts
+   24:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/expo-router/ts-declarations/react-native-web/index.d.ts
+  2:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 188 problems (188 errors, 0 warnings)

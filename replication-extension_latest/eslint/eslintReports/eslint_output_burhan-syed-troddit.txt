@@ -1,0 +1,422 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/lib/utils.ts
+   37:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  567:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  746:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  755:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/MainContext.tsx
+  18:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/MySubs.tsx
+   24:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   32:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  940:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/PremiumAuthContext.tsx
+  29:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/Awardings.tsx
+  10:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/ChildComments.tsx
+   26:18  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+   36:45  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+  108:54  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+  109:46  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+  132:29  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+  190:3   error  Definition for rule 'react-hooks/rules-of-hooks' was not found  react-hooks/rules-of-hooks
+  454:32  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+  675:55  error  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/CommentReply.tsx
+  12:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/CommentSort.tsx
+  27:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/Comments.tsx
+  20:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/DropDownItems.tsx
+   28:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   55:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   56:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  404:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  479:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/DropdownPane.tsx
+  20:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/FavoriteButton.tsx
+  6:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/Feed.tsx
+  16:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/FeedMasonry.tsx
+   27:14  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   28:11  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   31:17  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   32:14  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   33:14  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   34:18  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   47:18  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  116:52  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  147:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  156:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/FilterMenu.tsx
+  10:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/FilterModal.tsx
+  14:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/Gallery.tsx
+   1:1   error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+  36:18  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/GalleryCarousel.tsx
+   1:1   error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+  15:10  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/HideButton.tsx
+  20:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/Login.tsx
+  9:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/LoginModal.tsx
+  12:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/LoginProfile.tsx
+  9:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/Media.tsx
+   1:1   error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+  31:21  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+  31:29  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+  49:18  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/MediaModal.tsx
+  62:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  84:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/MediaWrapper.tsx
+  21:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/MultiManageModal.tsx
+  11:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/NavBar.tsx
+  23:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/NavMenu.tsx
+   19:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  339:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  358:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  377:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/ParseATag.tsx
+  1:1  error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/ParseBodyHTML.tsx
+   1:1   error  Definition for rule 'react/display-name' was not found  react/display-name
+  27:22  error  Unexpected any. Specify a different type                @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/PostModal.tsx
+   23:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   92:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  256:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/PostOptButton.tsx
+  31:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/PremiumModal.tsx
+  11:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/SaveButton.tsx
+  21:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/Search.tsx
+   27:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   32:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  151:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/SearchPage.tsx
+  16:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/SortMenu.tsx
+  20:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/SubButton.tsx
+  16:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/SubIcon.tsx
+   8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/SubOptButton.tsx
+  20:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/SubPills.tsx
+  13:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/SubredditBanner.tsx
+   23:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  153:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/SubredditsPage.tsx
+   18:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   24:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  185:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  372:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  432:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/Thread.tsx
+   74:18  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   91:44  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   94:36  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  100:52  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  107:46  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  114:33  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  136:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  150:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  164:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  204:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/TitleFlair.tsx
+  8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/ToggleFilters.tsx
+  8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/Vote.tsx
+  20:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/cards/Card1.tsx
+  49:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/cards/Card2.tsx
+  44:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/cards/CommentCard.tsx
+  10:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/cards/Row1.tsx
+  42:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/cards/SubCard.tsx
+  28:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/collections/Collection.tsx
+  52:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/collections/CollectionContext.tsx
+   3:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/collections/CollectionOptions.tsx
+  18:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/collections/MyMultiCollections.tsx
+  6:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/collections/SelectedSubs.tsx
+  9:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/media/video/VideoHandler.tsx
+    1:1   error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+   35:18  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+   43:23  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+   44:18  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+  216:9   error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+  431:48  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+  476:26  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+  516:29  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+  810:30  error  Unexpected any. Specify a different type                       @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/settings/CardStyleDemo.tsx
+  5:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/settings/ColumnCardOptions.tsx
+  14:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/settings/DefaultSortSelector.tsx
+  8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/settings/IntInput.tsx
+  15:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/settings/Settings.tsx
+   65:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  205:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  218:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/settings/Toggles.tsx
+  73:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/ui/LoaderPuff.tsx
+  1:1  error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/ui/Modal.tsx
+  15:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/components/ui/SimpleDropDownSelector.tsx
+  13:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/KeyPress.ts
+  5:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useDuplicates.ts
+  12:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useFeed.ts
+   18:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useFeedPosts.tsx
+   13:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   14:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   15:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   16:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   26:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   53:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useFilterSubs.tsx
+  7:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useGlobalState.ts
+   7:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useHeightMap.ts
+  78:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useHistory.ts
+  6:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useLocation.ts
+   12:18  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   70:3   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  167:3   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  171:34  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  291:3   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useMutate.ts
+   25:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   26:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   39:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  212:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  219:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  237:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  249:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  291:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  294:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  351:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  365:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  408:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  412:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  415:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  432:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  437:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  452:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  463:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  470:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  471:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  515:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  528:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useParseBodyHTML.tsx
+   1:1   error  Definition for rule 'react/display-name' was not found  react/display-name
+  39:43  error  Unexpected any. Specify a different type                @typescript-eslint/no-explicit-any
+  57:46  error  Unexpected any. Specify a different type                @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useRead.ts
+  10:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useRefresh.ts
+  8:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/hooks/useThread.tsx
+   17:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  192:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/pages/about.tsx
+  1:1  error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/pages/api/auth/[...nextauth].ts
+  139:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  146:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/pages/changelog.tsx
+  1:1  error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/burhan-syed-troddit/src/pages/index.tsx
+  1:1  error  Definition for rule 'react-hooks/rules-of-hooks' was not found  react-hooks/rules-of-hooks
+
+✖ 250 problems (250 errors, 0 warnings)

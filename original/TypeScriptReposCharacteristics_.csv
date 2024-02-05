@@ -1,0 +1,306 @@
+index,repo_name,ncloc,code_smells,any-type_count,cognitive_complexity,framework,bug_issues_count,bug-fix_commits_count,commits_count
+1,storybookjs/storybook,102502.0,617.0,1109.0,5668.0,react,2013,1296,9623
+2,cdr/code-server,264414.0,3620.0,5132.0,41763.0,ember,820,152,1248
+3,grafana/grafana,328232.0,3047.0,5326.0,26886.0,angular,5729,2725,12382
+4,vercel/hyper,8322.0,75.0,153.0,1010.0,react,460,16,144
+5,facebook/docusaurus,37654.0,269.0,22.0,2232.0,react,865,462,812
+6,excalidraw/excalidraw,32333.0,273.0,122.0,3218.0,react,332,323,1116
+7,balena-io/etcher,10730.0,57.0,34.0,741.0,react,302,10,352
+8,railsware/upterm,10309.0,118.0,71.0,794.0,react,165,64,1862
+9,felixrieseberg/windows95,1175.0,9.0,9.0,83.0,react,9,3,15
+10,Eugeny/terminus,17127.0,102.0,153.0,2410.0,angular,397,555,1330
+11,lensapp/lens,56462.0,331.0,364.0,4120.0,react,715,170,1054
+12,wulkano/Kap,8777.0,117.0,100.0,701.0,react,165,0,6
+13,backstage/backstage,190831.0,1240.0,1060.0,8559.0,react,579,1495,9783
+14,onivim/oni,58428.0,633.0,633.0,3711.0,No framework identified,366,294,1226
+15,directus/directus,67732.0,1304.0,593.0,9475.0,vue,763,427,4012
+16,signalapp/Signal-Desktop,159198.0,603.0,27.0,14957.0,react,1657,84,1679
+17,pavlobu/deskreen,10631.0,152.0,23.0,379.0,react,19,12,77
+18,tensorflow/playground,1853.0,42.0,17.0,345.0,No framework identified,4,5,71
+19,Chocobozzz/PeerTube,130488.0,596.0,865.0,9104.0,angular,816,191,4050
+20,botpress/botpress,70455.0,908.0,703.0,7363.0,react,413,2549,6637
+21,benawad/dogehouse,35057.0,508.0,142.0,2512.0,react,455,796,3367
+22,facebook/flipper,74339.0,1022.0,842.0,6958.0,react,278,319,1955
+23,react-page/react-page,18719.0,185.0,3.0,1169.0,react,197,261,513
+24,cs01/gdbgui,7326.0,373.0,413.0,994.0,react,67,2,8
+25,howtographql/howtographql,8256.0,26.0,62.0,276.0,react,49,79,488
+26,devhubapp/devhub,53375.0,1041.0,404.0,10760.0,react,38,90,1775
+27,Raathigesh/majestic,3653.0,46.0,87.0,286.0,react,42,53,332
+28,microsoft/azuredatastudio,60946.0,1024.0,5125.0,9248.0,angular,4744,1383,4794
+29,uw-labs/bloomrpc,3331.0,31.0,44.0,307.0,react,26,5,60
+30,sindresorhus/caprine,3361.0,67.0,19.0,445.0,No framework identified,208,6,137
+31,HospitalRun/hospitalrun-frontend,27383.0,53.0,190.0,735.0,react,195,399,1589
+32,nteract/nteract,38473.0,486.0,429.0,1699.0,react,228,288,2620
+33,tensorflow/tensorboard,128409.0,1274.0,656.0,7069.0,angular,256,366,1765
+34,este/este,5306.0,215.0,35.0,212.0,react,190,6,76
+35,graphql-editor/graphql-editor,36009.0,72.0,22.0,683.0,react,45,101,317
+36,taniarascia/takenote,7402.0,53.0,25.0,389.0,react,73,59,326
+37,clintonwoo/hackernews-react-graphql,5746.0,22.0,12.0,227.0,react,2,6,38
+38,johannesjo/super-productivity,51109.0,706.0,865.0,4150.0,angular,381,1024,4101
+39,alexjlockwood/ShapeShifter,20050.0,462.0,157.0,3043.0,angular,20,478,2023
+40,hygieia/hygieia,25678.0,186.0,406.0,979.0,angular,271,2,4
+41,buttercup/buttercup-desktop,6165.0,49.0,18.0,440.0,react,199,15,228
+42,michaelgrosner/tribeca,7056.0,98.0,66.0,901.0,angular,7,48,754
+43,altair-graphql/altair,21202.0,429.0,442.0,1687.0,angular,211,58,1049
+44,compodoc/compodoc,16390.0,210.0,399.0,4508.0,angular,586,770,1303
+45,ionic-team/ionic-conference-app,1720.0,10.0,50.0,87.0,angular,101,85,237
+46,microsoft/VoTT,27927.0,306.0,212.0,1331.0,react,68,137,459
+47,danvk/source-map-explorer,2739.0,17.0,0.0,241.0,No framework identified,20,6,49
+48,bitpay/wallet,64350.0,683.0,617.0,6622.0,angular,513,1509,5619
+49,alm-tools/alm,29872.0,1011.0,1764.0,4308.0,react,31,193,2091
+50,butlerx/wetty,1316.0,16.0,2.0,134.0,express,33,6,81
+51,jlfwong/speedscope,14156.0,165.0,107.0,2197.0,preact,21,33,253
+52,bitwarden/desktop,4338.0,48.0,38.0,493.0,angular,198,60,663
+53,qawolf/qawolf,63896.0,304.0,58.0,3176.0,react,86,641,3540
+54,wasdk/WebAssemblyStudio,18594.0,348.0,771.0,817.0,react,16,28,482
+55,concrete-utopia/utopia,240908.0,2225.0,911.0,15239.0,react,134,564,927
+56,JordanKnott/taskcafe,24184.0,352.0,122.0,1384.0,react,25,55,137
+57,BoostIO/BoostNote.next,92698.0,762.0,312.0,6354.0,react,92,319,3045
+58,vuesion/vuesion,11964.0,31.0,173.0,278.0,vue,59,113,520
+59,ritz078/transform,5461.0,73.0,38.0,157.0,react,15,41,72
+60,wexond/browser-base,18251.0,353.0,172.0,1893.0,react,87,866,2665
+61,premieroctet/openchakra,10764.0,37.0,49.0,382.0,react,5,17,157
+62,garden-io/garden,99349.0,870.0,404.0,6404.0,react,333,1123,2289
+63,rolling-scopes/rsschool-app,34860.0,368.0,504.0,2447.0,react,115,684,1337
+64,jakubroztocil/rrule,8460.0,60.0,18.0,977.0,No framework identified,54,53,252
+65,ijjk/notion-blog,1748.0,22.0,25.0,249.0,react,4,3,67
+66,hedgedoc/hedgedoc,11167.0,121.0,0.0,697.0,No framework identified,127,85,750
+67,getmeli/meli,27399.0,177.0,250.0,964.0,react,12,69,144
+68,Uniswap/uniswap-interface,33743.0,573.0,77.0,4511.0,react,343,387,911
+69,Flaque/quirk,12649.0,61.0,43.0,437.0,react,24,52,262
+70,bitwarden/web,15427.0,113.0,282.0,1944.0,angular,124,67,740
+71,dendronhq/dendron,74821.0,1391.0,445.0,4495.0,react,228,663,2466
+72,SkalskiP/make-sense,10864.0,114.0,97.0,894.0,react,15,43,290
+73,sedwards2009/extraterm,50337.0,720.0,385.0,6506.0,vue,114,224,2758
+74,samuelmaddock/metastream,16625.0,284.0,233.0,1972.0,react,33,114,1387
+75,kubernetes-sigs/kui,65637.0,1245.0,97.0,12664.0,react,975,1750,2571
+76,erxes/erxes,216219.0,700.0,1550.0,12727.0,react,307,839,4263
+77,freeCodeCamp/chapter,7741.0,73.0,64.0,377.0,react,22,58,133
+78,lewish/asciiflow,3934.0,80.0,38.0,717.0,react,29,1,7
+79,fossasia/loklak_search,10760.0,157.0,98.0,614.0,angular,220,27,364
+80,diego3g/rocketredis,2717.0,28.0,0.0,91.0,react,3,12,61
+81,yang991178/fluent-reader,8890.0,135.0,20.0,1503.0,react,32,20,180
+82,thecodingmachine/workadventure,19218.0,528.0,0.0,2448.0,No framework identified,76,216,2003
+83,itchio/itch,32254.0,309.0,668.0,2570.0,react,454,160,1974
+84,AdaptiveConsulting/ReactiveTraderCloud,44312.0,371.0,277.0,2161.0,react,77,812,3438
+85,trungk18/jira-clone-angular,3359.0,26.0,30.0,52.0,angular,3,13,173
+86,home-assistant/frontend,156766.0,3843.0,538.0,14161.0,vue,1895,290,3859
+87,ever-co/ever-traduora,14650.0,192.0,78.0,605.0,angular,24,39,239
+88,Yqnn/svg-path-editor,1451.0,12.0,6.0,227.0,angular,3,5,34
+89,superpowers/superpowers-core,6119.0,200.0,350.0,2135.0,express,28,47,680
+90,kactus-io/kactus,81876.0,446.0,138.0,7833.0,react,41,916,22654
+91,colmena/colmena,12467.0,345.0,1325.0,455.0,angular,28,24,227
+92,mattermost/desktop,9271.0,97.0,12.0,1217.0,react,227,6,26
+93,DestinyItemManager/DIM,59016.0,782.0,100.0,7547.0,react,843,648,8292
+94,cloudhut/kowl,19095.0,505.0,174.0,2239.0,react,30,181,985
+95,djyde/cusdis,4012.0,94.0,2.0,171.0,react,5,28,171
+96,Figma-Linux/figma-linux,6910.0,77.0,94.0,841.0,react,74,50,234
+97,Physiix/topsi-project-manager,3500.0,97.0,87.0,202.0,vue,4,10,173
+98,thomasnordquist/MQTT-Explorer,11688.0,108.0,301.0,847.0,react,21,14,553
+99,benawad/fullstack-graphql-airbnb-clone,4059.0,41.0,70.0,145.0,react,1,5,86
+100,housseindjirdeh/angular2-hn,647.0,16.0,3.0,18.0,angular,4,11,61
+101,FiretableProject/firetable,25441.0,496.0,372.0,1993.0,react,34,345,1790
+102,sorry-cypress/sorry-cypress,11377.0,32.0,101.0,520.0,react,35,47,269
+103,primer/components,16220.0,120.0,0.0,1146.0,react,76,136,1252
+104,standardnotes/desktop,4899.0,42.0,61.0,488.0,No framework identified,49,67,166
+105,jasperapp/jasper,15543.0,233.0,41.0,2024.0,react,18,294,879
+106,ParabolInc/parabol,164310.0,1147.0,2657.0,9456.0,react,1229,1170,5192
+107,react-native-elements/react-native-elements-app,5676.0,25.0,1.0,82.0,react,25,19,53
+108,stuffmatic/fSpy,7785.0,49.0,35.0,626.0,react,1,54,379
+109,deckgo/deckdeckgo,44636.0,469.0,228.0,6341.0,react,93,656,3892
+110,RocketChat/Rocket.Chat.Electron,15030.0,163.0,13.0,936.0,react,330,48,81
+111,veloce/lichobile,36013.0,391.0,191.0,6022.0,No framework identified,433,174,2271
+112,prymitive/karma,28465.0,253.0,92.0,1026.0,No framework identified,44,118,189
+113,GoogleChromeLabs/proxx,5663.0,87.0,17.0,568.0,preact,26,27,376
+114,emqx/MQTTX,7993.0,131.0,37.0,902.0,vue,26,195,562
+115,martpie/museeks,5773.0,90.0,25.0,458.0,react,93,12,244
+116,ever-co/ever-demand,97015.0,910.0,775.0,3884.0,angular,98,257,647
+117,crowi/crowi,21173.0,435.0,921.0,2099.0,react,18,85,513
+118,brimdata/brim,40552.0,329.0,283.0,2465.0,react,146,48,211
+119,huggingface/Mongoku,2099.0,33.0,52.0,361.0,angular,1,10,75
+120,microsoft/TypeScript-Website,19122.0,335.0,235.0,2026.0,react,129,275,2225
+121,padloc/padloc,27368.0,621.0,173.0,2739.0,No framework identified,49,43,847
+122,kubenav/kubenav,21921.0,371.0,0.0,3823.0,No framework identified,56,67,510
+123,wireapp/wire-webapp,65599.0,499.0,248.0,6201.0,react,148,654,1551
+124,mitre-attack/attack-navigator,4469.0,158.0,86.0,1292.0,angular,48,98,495
+125,wireapp/wire-desktop,6017.0,35.0,17.0,705.0,react,208,206,450
+126,vega/lyra,13477.0,333.0,138.0,1940.0,No framework identified,89,79,542
+127,MyCryptoHQ/MyCrypto,74710.0,779.0,365.0,2955.0,react,114,588,3898
+128,QingWei-Li/notea,6397.0,89.0,20.0,451.0,react,10,103,218
+129,sagemathinc/cocalc,190429.0,2606.0,2484.0,27242.0,react,1252,1491,7819
+130,opstrace/opstrace,124473.0,1343.0,138.0,8559.0,react,77,363,1646
+131,vladimiry/ElectronMail,22812.0,398.0,0.0,2258.0,angular,59,74,958
+132,SnosMe/awakened-poe-trade,10108.0,147.0,19.0,1770.0,vue,62,128,546
+133,pinterest/querybook,48941.0,355.0,459.0,4111.0,react,20,65,294
+134,naveedgol/music-web-player,1664.0,22.0,45.0,137.0,angular,6,10,80
+135,Snowtrack/SnowFS,7890.0,114.0,58.0,1466.0,No framework identified,30,45,137
+136,PuruVJ/macos-web,741.0,1.0,2.0,15.0,No framework identified,0,0,14
+137,roldanjr/pomatez,12249.0,90.0,22.0,795.0,react,14,26,136
+138,cds-snc/covid-alert-app,18115.0,143.0,151.0,951.0,react,98,275,2083
+139,Tzahi12345/YoutubeDL-Material,7341.0,145.0,60.0,905.0,angular,76,76,336
+140,ProbableTrain/MapGenerator,3650.0,99.0,39.0,604.0,No framework identified,2,1,85
+141,Xmader/musescore-downloader,1727.0,20.0,19.0,233.0,No framework identified,17,120,301
+142,antfu/icones,1181.0,17.0,12.0,128.0,vue,3,30,98
+143,samuelmeuli/mini-diary,6183.0,40.0,3.0,214.0,react,17,7,129
+144,Heroic-Games-Launcher/HeroicGamesLauncher,8485.0,142.0,0.0,896.0,react,119,110,301
+145,felixmosh/bull-board,2920.0,38.0,43.0,161.0,react,19,37,145
+146,DimensionDev/Maskbook,91682.0,1174.0,264.0,8505.0,react,639,1666,4035
+147,threema-ch/threema-web,17740.0,169.0,161.0,2257.0,angular,269,58,775
+148,online-go/online-go.com,57420.0,1259.0,565.0,8742.0,react,299,329,2487
+149,sct/overseerr,40216.0,396.0,5.0,4256.0,react,158,432,734
+150,eugeneration/HappyIslandDesigner,7751.0,103.0,13.0,915.0,react,1,18,91
+151,opensheetmusicdisplay/opensheetmusicdisplay,28618.0,694.0,151.0,8158.0,No framework identified,128,478,1320
+152,FarmBot/Farmbot-Web-App,110240.0,288.0,0.0,4576.0,react,56,655,5005
+153,xlayers/xlayers,13633.0,98.0,182.0,561.0,angular,40,158,358
+154,denoland/deno_website2,8212.0,138.0,19.0,954.0,preact,27,91,368
+155,rhysd/Shiba,3421.0,13.0,53.0,274.0,No framework identified,15,55,228
+156,standardnotes/mobile,12003.0,233.0,34.0,1546.0,react,42,267,481
+157,poulainv/tottem,16637.0,53.0,88.0,328.0,react,6,10,565
+158,seokju-na/geeks-diary,28180.0,164.0,326.0,1403.0,angular,9,13,496
+159,Superjo149/auryo,14277.0,107.0,430.0,1649.0,react,77,84,153
+160,Graviton-Code-Editor/Graviton-App,13065.0,329.0,185.0,1346.0,No framework identified,23,127,475
+161,baku89/glisp,11207.0,316.0,121.0,2123.0,vue,2,39,1305
+162,bpatrik/pigallery2,23288.0,253.0,483.0,2880.0,angular,85,197,807
+163,BlokDust/BlokDust,18673.0,730.0,1018.0,3025.0,No framework identified,122,191,1150
+164,bytedance/debugtron,950.0,18.0,14.0,118.0,react,3,38,101
+165,q-nick/npm-gui,3803.0,59.0,5.0,367.0,react,4,15,71
+166,govizlora/optical-breacher,1353.0,13.0,1.0,136.0,react,1,4,58
+167,doZennn/steam-rom-manager,12354.0,363.0,147.0,3240.0,angular,21,83,421
+168,ever-co/ever-gauzy,224504.0,1725.0,1758.0,10087.0,angular,273,2849,6263
+169,Nexus-Mods/Vortex,69916.0,838.0,1424.0,14056.0,react,3423,2155,4597
+170,julianoappelklein/hokus,12150.0,182.0,563.0,1372.0,react,3,19,98
+171,automerge/pushpin,7725.0,112.0,75.0,771.0,react,8,78,831
+172,Noovolari/leapp,6324.0,90.0,203.0,430.0,angular,62,118,532
+173,gilmarsquinelato/i18n-manager,3597.0,35.0,89.0,255.0,vue,14,10,126
+174,nusmodifications/nusmods,35298.0,169.0,83.0,1872.0,react,145,32,234
+175,njbrown/texturelab,15731.0,613.0,66.0,1232.0,vue,1,29,466
+176,Ride-The-Lightning/RTL,27868.0,394.0,555.0,4562.0,angular,153,63,268
+177,szTheory/exifcleaner,1289.0,22.0,11.0,81.0,No framework identified,26,10,79
+178,awehook/blink-mind-desktop,12483.0,152.0,99.0,1627.0,react,4,16,95
+179,amborle/featmap,10397.0,278.0,21.0,1263.0,react,5,3,53
+180,mmazzarolo/ordinary-puzzles-app,3425.0,27.0,20.0,409.0,react,2,4,44
+181,WoWAnalyzer/WoWAnalyzer,146390.0,886.0,204.0,7121.0,react,114,408,4218
+182,AiursoftWeb/Kahla.App,5419.0,35.0,13.0,880.0,angular,90,265,1243
+183,jhipster/jdl-studio,2732.0,25.0,5.0,249.0,react,11,8,43
+184,timche/gmail-desktop,1463.0,9.0,1.0,197.0,No framework identified,58,16,87
+185,ffxiv-teamcraft/ffxiv-teamcraft,90917.0,643.0,1046.0,6650.0,angular,289,2077,5012
+186,ionic-team/ionic-react-conference-app,2358.0,55.0,33.0,133.0,react,2,7,71
+187,viktorgullmark/exilence-next,13373.0,339.0,68.0,819.0,react,121,99,1009
+188,mmazzarolo/breathly-app,3250.0,19.0,14.0,217.0,react,4,0,21
+189,paritytech/parity-signer,13433.0,97.0,73.0,912.0,react,60,53,72
+190,undergroundwires/privacy.sexy,12462.0,39.0,25.0,628.0,vue,16,38,136
+191,jamaljsr/polar,21175.0,219.0,149.0,1015.0,react,31,149,590
+192,shootismoke/mobile-app,3771.0,84.0,0.0,189.0,react,10,70,116
+193,deepkit/deepkit-ml,34805.0,784.0,494.0,5195.0,angular,1,7,22
+194,mizchi/next-editor,8218.0,95.0,187.0,318.0,react,2,27,288
+195,whyboris/Video-Hub-App,9108.0,162.0,104.0,1172.0,angular,63,137,1300
+196,ArkEcosystem/desktop-wallet,75534.0,614.0,758.0,2602.0,react,175,439,1642
+197,mmulet/code-relay,8629.0,62.0,28.0,602.0,react,1,6,29
+198,icewind1991/files_markdown,698.0,12.0,4.0,111.0,No framework identified,8,4,39
+199,anihalaney/rwa-trivia,64480.0,1472.0,1106.0,4351.0,angular,1,163,5375
+200,xyfir/accownt,1574.0,25.0,37.0,104.0,react,1,2,142
+201,JumpFm/jumpfm,874.0,14.0,3.0,68.0,No framework identified,1,33,171
+202,daneden/daneden.me,2173.0,5.0,0.0,36.0,react,5,10,213
+203,dungeon-revealer/dungeon-revealer,24858.0,321.0,68.0,1978.0,react,64,141,302
+204,cynicaloptimist/improved-initiative,18066.0,199.0,73.0,1214.0,react,87,112,3492
+205,ulangi/ulangi,144836.0,654.0,957.0,4703.0,react,11,157,242
+206,ledokku/ledokku,11475.0,179.0,11.0,536.0,react,21,47,233
+207,Nishkalkashyap/Quark-electron,1423.0,80.0,8.0,207.0,react,3,57,351
+208,superpowers/superpowers-app,3135.0,55.0,44.0,640.0,No framework identified,7,21,171
+209,m0ngr31/DailyNotes,1528.0,24.0,17.0,170.0,vue,1,1,28
+210,QardsJs/qards,7629.0,65.0,143.0,490.0,react,6,17,199
+211,cloudfoundry/stratos,131369.0,635.0,1259.0,7765.0,angular,463,1313,7487
+212,nowfloats/ProjectAna,5726.0,194.0,33.0,831.0,angular,2,19,129
+213,develar/onshape-desktop-shell,617.0,6.0,20.0,89.0,No framework identified,2,6,39
+214,NMF-earth/nmf-app,9540.0,69.0,0.0,197.0,react,38,136,495
+215,scalabel/scalabel,32317.0,295.0,0.0,3052.0,react,8,151,327
+216,ZeusLN/zeus,17309.0,213.0,427.0,1340.0,react,32,174,1015
+217,Doha26/Instagram-clone,2089.0,43.0,55.0,101.0,react,1,1,25
+218,harksys/HawkEye,5619.0,374.0,130.0,245.0,react,4,12,392
+219,cybershard/auproximity,2360.0,48.0,1.0,351.0,vue,8,5,59
+220,Alaanor/beatlist,9134.0,28.0,22.0,428.0,vue,14,90,568
+221,jupyterlab/jupyterlab_app,4114.0,65.0,50.0,445.0,react,9,36,339
+222,etesync/etesync-web,9016.0,103.0,119.0,857.0,react,14,111,811
+223,satya164/PocketGear,3114.0,11.0,36.0,151.0,react,2,0,1
+224,digimezzo/knowte,5310.0,101.0,115.0,548.0,angular,30,32,546
+225,gtamas/etcdmanager,6377.0,52.0,55.0,424.0,vue,8,71,171
+226,rhysd/Trendy,1515.0,12.0,19.0,184.0,react,2,17,97
+227,NullVoxPopuli/emberclear,20039.0,558.0,126.0,798.0,ember,27,118,701
+228,ProtonMail/proton-mail,37809.0,533.0,124.0,4600.0,No framework identified,1,382,1455
+229,infinitered/ChainReactApp2019,5499.0,13.0,40.0,234.0,react,21,27,170
+230,deniszholob/factorio-cheat-sheet,4841.0,36.0,9.0,94.0,angular,10,16,74
+231,oddbit/tanam,9266.0,65.0,54.0,467.0,angular,38,25,926
+232,owsolutions/angular5-iot-dashboard,9031.0,141.0,214.0,570.0,angular,5,25,197
+233,diego3g/umbriel,11931.0,278.0,15.0,374.0,express,5,22,142
+234,m-inan/react-native-music-app,2601.0,9.0,17.0,109.0,react,1,8,69
+235,SerenityNotes/serenity-notes-clients,12719.0,149.0,126.0,1079.0,react,1,24,119
+236,franky47/francoisbest.com,9192.0,64.0,45.0,393.0,react,2,68,236
+237,Alfresco/alfresco-content-app,45210.0,345.0,557.0,2170.0,angular,51,337,1088
+238,flappy-royale/flappy-royale,10140.0,173.0,62.0,1165.0,No framework identified,15,70,702
+239,tagyoureit/nodejs-poolController,27953.0,1123.0,523.0,11289.0,express,60,48,736
+240,Activiti/activiti-modeling-app,36684.0,184.0,343.0,1578.0,angular,4,257,663
+241,crypto-com/chain-desktop-wallet,14758.0,117.0,40.0,842.0,react,21,125,1325
+242,gnosis/safe-react,36913.0,298.0,115.0,2516.0,react,592,271,1086
+243,LiveSplit/LiveSplitOne,7530.0,78.0,43.0,930.0,react,61,22,382
+244,hyperspacedev/hyperspace,11615.0,141.0,192.0,1021.0,react,49,29,440
+245,massif-press/compcon,33594.0,270.0,84.0,2898.0,vue,895,640,1769
+246,robertknight/passcards,21243.0,272.0,237.0,1723.0,react,21,63,868
+247,lazerwalker/azure-mud,9204.0,233.0,59.0,849.0,react,57,82,735
+248,jussikinnula/angular-socket-io-chat,1052.0,23.0,27.0,58.0,angular,1,2,27
+249,microsoftgraph/microsoft-graph-explorer,7512.0,62.0,57.0,395.0,angular,11,89,881
+250,Teyvat-Moe/Teyvat.moe,11511.0,162.0,47.0,665.0,react,55,12,43
+251,zyrouge/yukino-app,7776.0,80.0,46.0,805.0,vue,7,2,20
+252,solendil/FractalJS,3260.0,33.0,43.0,353.0,react,15,159,798
+253,4gray/iptvnator,3729.0,20.0,12.0,158.0,angular,7,25,165
+254,fttx/barcode-to-pc-app,4959.0,161.0,17.0,1135.0,angular,52,82,416
+255,pdepip/mmap.it,1607.0,67.0,18.0,110.0,react,11,32,92
+256,ethersphere/bee-dashboard,3816.0,40.0,0.0,224.0,react,7,31,60
+257,natixco/tabby,1344.0,15.0,11.0,80.0,angular,3,3,39
+258,lowmess/lowmess.com,2184.0,7.0,0.0,32.0,react,1,9,125
+259,FrogTheFrog/steam-gyro-for-cemuhook,4708.0,40.0,78.0,927.0,angular,4,11,65
+260,justindujardin/angular-rpg,16285.0,179.0,352.0,1420.0,angular,2,58,206
+261,frzyc/genshin-optimizer,29841.0,533.0,314.0,2301.0,react,2,22,116
+262,transistorsoft/cordova-background-geolocation-SampleApp,3478.0,29.0,76.0,188.0,angular,15,2,122
+263,elyukai/optolith-client,82621.0,1068.0,704.0,5195.0,react,371,183,1237
+264,inkandswitch/capstone,2787.0,22.0,29.0,276.0,react,12,86,1114
+265,formium/formium,2762.0,48.0,121.0,272.0,react,11,2,40
+266,InseeFrLab/keycloakify,11565.0,29.0,10.0,177.0,react,3,16,133
+267,azu/irodr,4519.0,19.0,26.0,288.0,react,16,96,178
+268,runbox/runbox7,32740.0,260.0,423.0,3372.0,angular,83,565,1282
+269,cybersemics/em,38408.0,924.0,102.0,4232.0,react,343,98,1858
+270,airgap-it/airgap-wallet,17296.0,207.0,179.0,1345.0,angular,4,529,1555
+271,Azure/azure-iot-explorer,26461.0,152.0,190.0,1243.0,react,30,75,192
+272,demokratie-live/democracy-client,37711.0,604.0,673.0,1035.0,react,263,207,1019
+273,LiskHQ/lisk-core,7829.0,75.0,16.0,386.0,No framework identified,87,57,505
+274,Prisma-care/mobile-app,4316.0,90.0,25.0,145.0,angular,20,97,392
+275,intershop/intershop-pwa,103794.0,351.0,61.0,4242.0,angular,79,493,3746
+276,microsoft/tilecode,6756.0,123.0,3.0,1474.0,No framework identified,28,138,924
+277,ashfurrow/blog,6774.0,16.0,30.0,104.0,react,39,3,171
+278,moshfeu/y2mp3,2301.0,15.0,10.0,159.0,react,13,10,76
+279,vincentlaucsb/experiencer,5617.0,83.0,16.0,456.0,react,1,7,239
+280,artutra/OpenChord,4878.0,84.0,4.0,406.0,react,9,27,436
+281,bullhorn/career-portal,1945.0,26.0,155.0,201.0,angular,24,24,96
+282,daostack/alchemy,18336.0,356.0,518.0,2599.0,react,197,694,3227
+283,d4l-data4life/covapp,5319.0,81.0,11.0,399.0,No framework identified,1,4,31
+284,dittos/diffmonster,4676.0,169.0,19.0,300.0,react,1,2,14
+285,ionic-team/ionic-stencil-conference-app,1847.0,23.0,55.0,113.0,No framework identified,4,34,93
+286,aredden/electron-G14Control,10118.0,125.0,89.0,1321.0,react,4,32,134
+287,gigocabrera/MoneyLeash2,3841.0,50.0,55.0,269.0,angular,2,67,148
+288,neo-one-suite/neo-one,159656.0,979.0,806.0,10270.0,react,115,331,1046
+289,dedpnd/yaradio-yamusic,733.0,13.0,5.0,70.0,vue,9,8,16
+290,commudle/commudle-ng,32630.0,489.0,284.0,1507.0,angular,1,284,1136
+291,remap-keys/remap,78549.0,299.0,95.0,1582.0,react,40,128,910
+292,ritz078/raaga,3338.0,40.0,21.0,211.0,react,5,66,152
+293,burst-apps-team/phoenix,23920.0,179.0,266.0,1250.0,angular,126,280,457
+294,cheshire137/competiwatch-desktop,8454.0,63.0,66.0,880.0,react,11,2,279
+295,dzcode-io/dzcode.io,6010.0,78.0,0.0,355.0,react,21,71,454
+296,qusly/qusly,5450.0,60.0,47.0,393.0,react,1,124,543
+297,peterpeterparker/tietracker,6614.0,56.0,17.0,803.0,react,12,62,409
+298,onflow/flow-playground,8721.0,71.0,123.0,412.0,react,9,7,52
+299,ArkEcosystem/mobile-wallet,20833.0,159.0,167.0,915.0,angular,33,257,784
+300,jsynowiec/airqmon,2314.0,14.0,0.0,121.0,react,10,8,221
+301,commandeer/open,2138.0,66.0,29.0,215.0,vue,34,3,108
+302,cherrytwist/client-web,27957.0,185.0,17.0,1317.0,react,171,113,1797
+303,sef-global/scholarx-frontend,4486.0,25.0,5.0,294.0,react,37,2,101
+304,Joystream/pioneer,78765.0,412.0,468.0,2011.0,react,37,70,722
+305,rolling-scopes-school/RSS-Teams-FE,7038.0,37.0,30.0,304.0,react,13,187,474

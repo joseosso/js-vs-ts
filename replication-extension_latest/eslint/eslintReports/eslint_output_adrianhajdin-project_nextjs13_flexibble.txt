@@ -1,0 +1,6 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/adrianhajdin-project_nextjs13_flexibble/lib/session.ts
+  56:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 2 problems (2 errors, 0 warnings)

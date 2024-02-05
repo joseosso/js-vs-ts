@@ -1,0 +1,215 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/examples/with-next-mint-nft/components/FlipCard.tsx
+  29:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/components/Dialog/FocusTrap.tsx
+  46:22  error  Definition for rule 'jsx-a11y/no-noninteractive-tabindex' was not found  jsx-a11y/no-noninteractive-tabindex
+  60:22  error  Definition for rule 'jsx-a11y/no-noninteractive-tabindex' was not found  jsx-a11y/no-noninteractive-tabindex
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/components/ModalSelection/ModalSelection.tsx
+  11:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/components/QRCode/QRCode.tsx
+  81:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/components/RainbowKitProvider/AuthenticationContext.tsx
+  40:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/components/RainbowKitProvider/RainbowKitProvider.tsx
+  121:29  error  Definition for rule 'react/no-danger' was not found  react/no-danger
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/css/sprinkles.css.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/css/touchableStyles.css.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/getWalletConnectConnector.test.ts
+  18:7  error  Definition for rule 'jest/require-to-throw-message' was not found  jest/require-to-throw-message
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/argentWallet/argentWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/bitKeepWallet/bitKeepWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/bitskiWallet/bitskiWallet.ts
+   1:1   error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  20:26  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  21:45  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/braveWallet/braveWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/coinbaseWallet/coinbaseWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/coreWallet/coreWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/dawnWallet/dawnWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/frontierWallet/frontierWallet.ts
+   1:1   error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  16:15  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  87:44  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/imTokenWallet/imTokenWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/injectedWallet/injectedWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/ledgerWallet/ledgerWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/metaMaskWallet/metaMaskWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/mewWallet/mewWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/okxWallet/okxWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/omniWallet/omniWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/phantomWallet/phantomWallet.ts
+   1:1   error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  22:23  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  22:39  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  37:25  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  37:41  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/rabbyWallet/rabbyWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/rainbowWallet/rainbowWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/safeWallet/safeWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/safeheronWallet/safeheronWallet.ts
+   1:1   error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  13:16  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/tahoWallet/tahoWallet.ts
+   1:1   error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  13:12  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  42:38  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/talismanWallet/talismanWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/tokenPocketWallet/tokenPocketWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/trustWallet/trustWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/walletConnectWallet/walletConnectWallet.test.ts
+  14:5  error  Definition for rule 'jest/require-to-throw-message' was not found  jest/require-to-throw-message
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/walletConnectWallet/walletConnectWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/xdefiWallet/xdefiWallet.ts
+   1:1   error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+   9:10  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  40:59  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/packages/rainbowkit/src/wallets/walletConnectors/zerionWallet/zerionWallet.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/Button/Button.css.ts
+    1:1   error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  132:52  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/Button/Button.tsx
+  44:3  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  46:3  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  48:3  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/CoolMode/CoolMode.css.ts
+  20:5  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/DocsLayout/DocsLayout.tsx
+  55:11  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/DocsMobileMenu/DocsMobileMenu.tsx
+  7:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/Header/Header.css.ts
+  25:7  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  30:7  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/Header/Header.tsx
+  50:11  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  53:11  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  55:11  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  84:11  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/Hero/Hero.css.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/MdxComponents/MdxComponents.tsx
+  1:1  error  Definition for rule 'react-hooks/rules-of-hooks' was not found  react-hooks/rules-of-hooks
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/Playground/Playground.css.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/Playground/Playground.tsx
+   1:1   error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+  38:39  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/Popover/Popover.css.ts
+  16:5  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/Pre/Pre.css.ts
+  29:3  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/PropsTable/PropsTable.css.ts
+  7:3  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/Sidebar/Sidebar.tsx
+  1:1  error  Definition for rule 'react/jsx-sort-props' was not found  react/jsx-sort-props
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/components/UsedBy/UsedBy.css.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/contentlayer.config.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/css/breakpoints.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/css/responsiveStyle.ts
+   1:1   error  Definition for rule 'sort-destructure-keys/sort-destructure-keys' was not found  sort-destructure-keys/sort-destructure-keys
+   2:1   error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found                  sort-keys-fix/sort-keys-fix
+  38:53  error  Unexpected any. Specify a different type                                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/css/sprinkles.css.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/css/tokens.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/lib/docsRoutes.ts
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/lib/useCoolMode.ts
+  194:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/pages/ds.tsx
+  1:1  error  Definition for rule 'react/jsx-sort-props' was not found  react/jsx-sort-props
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/rainbow-me-rainbowkit/site/pages/index.tsx
+  1:1  error  Definition for rule 'sort-keys-fix/sort-keys-fix' was not found  sort-keys-fix/sort-keys-fix
+
+✖ 89 problems (89 errors, 0 warnings)

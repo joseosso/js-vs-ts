@@ -1,0 +1,298 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/main/helpers/classes/steam/pricing.tsx
+  165:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/main/helpers/classes/steam/settings.tsx
+  70:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/main/helpers/classes/steam/steam.tsx
+  14:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/main/helpers/classes/steam/tradeup.tsx
+   70:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/main/main.ts
+  259:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  326:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  363:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  407:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  420:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  590:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  629:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  684:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  720:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  733:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  767:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  938:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/main/util.ts
+  1:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+  1:1  error  Definition for rule 'import/no-mutable-exports' was not found     import/no-mutable-exports
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/App.tsx
+  189:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/Inventory/filterHeader.tsx
+  42:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/Inventory/filtersDisclosure.tsx
+  37:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/Inventory/inventoryRows.tsx
+  25:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/Inventory/inventoryRows/headerRows.tsx
+   8:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/shared/dropdownRows.tsx
+  23:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/shared/filters/inventoryFunctions.tsx
+    9:99   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:100  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:128  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:30   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   52:30   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   94:30   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:31   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/shared/modals & notifcations/modalMove.tsx
+  25:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/shared/modals & notifcations/modalRename.tsx
+  12:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/shared/modals & notifcations/modalTrade.tsx
+  64:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  68:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/shared/modals & notifcations/modalTradeResult.tsx
+  10:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/shared/modals & notifcations/notification.tsx
+  16:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/storageUnits/from/fromFilters.tsx
+  34:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  80:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/storageUnits/from/fromHolder.tsx
+  25:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/storageUnits/from/fromSelector.tsx
+  33:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/storageUnits/from/fromStorageRow.tsx
+  29:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/storageUnits/from/storageFilterDisclosure.tsx
+  36:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/storageUnits/to/toFilters.tsx
+  45:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  87:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/storageUnits/to/toHolder.tsx
+  29:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/storageUnits/to/toSelector.tsx
+  24:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/components/content/storageUnits/to/toStorageRow.tsx
+  16:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/context/toMoveContext.tsx
+  3:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/functionsClasses/downloadReport.tsx
+  18:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/functionsClasses/reducerManager.tsx
+  19:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/functionsClasses/storageUnits/storageUnitsFunctions.tsx
+  54:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/index.tsx
+  14:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/interfaces/mainMessages.tsx
+  6:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/interfaces/states.tsx
+  110:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/store/actions/filtersInventoryActions.tsx
+   7:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/store/inventory/inventoryActions.tsx
+  3:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/store/inventory/inventoryClass.tsx
+  30:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/store/reducer/moveFromReducers.tsx
+  99:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/store/reducer/moveToReducers.tsx
+  98:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/store/reducer/tradeupReducer.tsx
+  22:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/login/components/LoginTabs.tsx
+  7:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/login/loginForm.tsx
+  171:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  220:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/login/userManagement.tsx
+   8:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  90:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  92:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/barChart.tsx
+  12:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/barChatMajors.tsx
+  30:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/categoryDistribution/categoryDistribution.tsx
+  32:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/filter/collectionsDropdown.tsx
+   9:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/filter/optionsDropdown.tsx
+  10:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/filter/tradeUpFilter.tsx
+  8:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/inventoryPickers.tsx
+   46:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   47:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/leftGraph/barChartMajor.tsx
+   11:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   24:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/leftGraph/barChartOverall.tsx
+  16:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  84:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/overview.tsx
+  7:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/overviewOptionsDropdown.tsx
+  12:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/radarChart copy.tsx
+  29:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  85:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/radarChart.tsx
+  41:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/sidebar/possibleOutcomes.tsx
+  17:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/overview/sidebar/sideBar.tsx
+  9:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/settings/settings.tsx
+  190:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/tradeUp/filter/collectionsDropdown.tsx
+  16:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/tradeUp/filter/optionsDropdown.tsx
+  10:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/tradeUp/filter/tradeUpFilter.tsx
+  8:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/tradeUp/inventoryPickers.tsx
+  50:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/tradeUp/sidebar/possibleOutcomes.tsx
+  17:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nombersDev-casemove/src/renderer/views/tradeUp/sidebar/sideBar.tsx
+  9:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 166 problems (166 errors, 0 warnings)

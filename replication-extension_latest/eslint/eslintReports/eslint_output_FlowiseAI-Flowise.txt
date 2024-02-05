@@ -1,0 +1,432 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/AirtableAgent/AirtableAgent.ts
+  78:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/AirtableAgent/core.ts
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/AutoGPT/AutoGPT.ts
+  69:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/BabyAGI/BabyAGI.ts
+  46:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/BabyAGI/core.ts
+   81:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  208:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/CSVAgent/CSVAgent.ts
+  44:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/CSVAgent/core.ts
+  10:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/ConversationalAgent/ConversationalAgent.ts
+  67:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/MRKLAgentChat/MRKLAgentChat.ts
+  43:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/MRKLAgentLLM/MRKLAgentLLM.ts
+  43:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/agents/OpenAIFunctionAgent/OpenAIFunctionAgent.ts
+  60:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/ApiChain/GETApiChain.ts
+  82:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/ApiChain/OpenAPIChain.ts
+  57:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/ApiChain/POSTApiChain.ts
+  71:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/ConversationChain/ConversationChain.ts
+  65:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  87:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/ConversationalRetrievalQAChain/ConversationalRetrievalQAChain.ts
+  102:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/LLMChain/LLMChain.ts
+  61:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/MultiPromptChain/MultiPromptChain.ts
+  42:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/MultiRetrievalQAChain/MultiRetrievalQAChain.ts
+  48:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/RetrievalQAChain/RetrievalQAChain.ts
+  42:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/SqlDatabaseChain/SqlDatabaseChain.ts
+  56:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chains/VectorDBQAChain/VectorDBQAChain.ts
+  42:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chatmodels/AzureChatOpenAI/AzureChatOpenAI.ts
+  102:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chatmodels/ChatAnthropic/ChatAnthropic.ts
+  131:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chatmodels/ChatHuggingFace/ChatHuggingFace.ts
+  97:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chatmodels/ChatHuggingFace/core.ts
+  81:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chatmodels/ChatLocalAI/ChatLocalAI.ts
+  74:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/chatmodels/ChatOpenAI/ChatOpenAI.ts
+  132:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/API/APILoader.ts
+  72:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Airtable/Airtable.ts
+  83:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Cheerio/Cheerio.ts
+  79:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Confluence/Confluence.ts
+  71:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Csv/Csv.ts
+  56:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Docx/Docx.ts
+  48:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Figma/Figma.ts
+  71:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Folder/Folder.ts
+  53:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Gitbook/Gitbook.ts
+  55:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Github/Github.ts
+  70:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Json/Json.ts
+  56:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Jsonlines/Jsonlines.ts
+  55:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Notion/NotionDB.ts
+  56:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Notion/NotionFolder.ts
+  49:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Notion/NotionPage.ts
+  57:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Pdf/Pdf.ts
+  71:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Playwright/Playwright.ts
+  79:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Puppeteer/Puppeteer.ts
+  79:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Subtitles/Subtitles.ts
+  48:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/documentloaders/Text/Text.ts
+  48:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/embeddings/AzureOpenAIEmbedding/AzureOpenAIEmbedding.ts
+  52:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/embeddings/CohereEmbedding/CohereEmbedding.ts
+  57:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/embeddings/HuggingFaceInferenceEmbedding/HuggingFaceInferenceEmbedding.ts
+  52:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/embeddings/HuggingFaceInferenceEmbedding/core.ts
+  34:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/embeddings/LocalAIEmbedding/LocalAIEmbedding.ts
+  40:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/embeddings/OpenAIEmbedding/OpenAIEmbedding.ts
+  64:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/llms/Azure OpenAI/AzureOpenAI.ts
+  149:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/llms/Cohere/Cohere.ts
+  84:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/llms/HuggingFaceInference/HuggingFaceInference.ts
+  97:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/llms/HuggingFaceInference/core.ts
+  81:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/llms/OpenAI/OpenAI.ts
+  132:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/llms/Replicate/Replicate.ts
+   91:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/memory/BufferMemory/BufferMemory.ts
+  41:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/memory/BufferWindowMemory/BufferWindowMemory.ts
+  48:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/memory/ConversationSummaryMemory/ConversationSummaryMemory.ts
+  47:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/memory/DynamoDb/DynamoDb.ts
+  69:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/memory/MotorheadMemory/MotorheadMemory.ts
+  62:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/memory/RedisBackedChatMemory/RedisBackedChatMemory.ts
+  62:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/memory/ZepMemory/ZepMemory.ts
+  110:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/prompts/ChatPromptTemplate/ChatPromptTemplate.ts
+  51:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/prompts/FewShotPromptTemplate/FewShotPromptTemplate.ts
+  82:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/prompts/PromptTemplate/PromptTemplate.ts
+  44:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/retrievers/HydeRetriever/HydeRetriever.ts
+  101:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/retrievers/PromptRetriever/PromptRetriever.ts
+  48:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/retrievers/VectorStoreRetriever/VectorStoreRetriever.ts
+  47:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/textsplitters/CharacterTextSplitter/CharacterTextSplitter.ts
+  48:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/textsplitters/CodeTextSplitter/CodeTextSplitter.ts
+  115:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/textsplitters/HtmlToMarkdownTextSplitter/HtmlToMarkdownTextSplitter.ts
+  43:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/textsplitters/MarkdownTextSplitter/MarkdownTextSplitter.ts
+  42:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/textsplitters/RecursiveCharacterTextSplitter/RecursiveCharacterTextSplitter.ts
+  42:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/textsplitters/TokenTextSplitter/TokenTextSplitter.ts
+  71:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/AIPlugin/AIPlugin.ts
+  35:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/BraveSearchAPI/BraveSearchAPI.ts
+  35:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/Calculator/Calculator.ts
+  26:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/ChainTool/ChainTool.ts
+  55:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/ChainTool/core.ts
+  16:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/CustomTool/CustomTool.ts
+  63:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/CustomTool/core.ts
+   77:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/GoogleSearchAPI/GoogleSearchAPI.ts
+  35:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/MakeWebhook/MakeWebhook.ts
+  42:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/OpenAPIToolkit/OpenAPIToolkit.ts
+  52:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/ReadFile/ReadFile.ts
+  37:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/RequestsGet/RequestsGet.ts
+  55:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/RequestsPost/RequestsPost.ts
+  64:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/RequestsPost/core.ts
+  16:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/SerpAPI/SerpAPI.ts
+  35:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/Serper/Serper.ts
+  35:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/WebBrowser/WebBrowser.ts
+  41:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/WriteFile/WriteFile.ts
+  37:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/tools/ZapierNLA/ZapierNLA.ts
+  36:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Chroma_Existing/Chroma_Existing.ts
+  68:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  88:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Chroma_Upsert/Chroma_Upsert.ts
+   76:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Faiss_Existing/Faiss_Existing.ts
+  64:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Faiss_Upsert/Faiss_Upsert.ts
+  72:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  93:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/InMemory/InMemoryVectorStore.ts
+  64:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/OpenSearch_Existing/OpenSearch_existing.ts
+  69:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  90:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/OpenSearch_Upsert/OpenSearch_Upsert.ts
+   77:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Pinecone_Existing/Pinecone_Existing.ts
+   85:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Pinecone_Upsert/Pinecone_Upsert.ts
+   86:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Qdrant_Existing/Qdrant_Existing.ts
+   85:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Qdrant_Upsert/Qdrant_Upsert.ts
+   86:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Singlestore_Existing/Singlestore_Existing.ts
+  107:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Singlestore_Upsert/Singlestore_Upsert.ts
+  115:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Supabase_Existing/Supabase_Exisiting.ts
+   87:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Supabase_Upsert/Supabase_Upsert.ts
+   88:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Vectara_Existing/Vectara_Existing.ts
+   71:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Vectara_Upsert/Vectara_Upsert.ts
+   80:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Weaviate_Existing/Weaviate_Existing.ts
+  112:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  148:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/nodes/vectorstores/Weaviate_Upsert/Weaviate_Upsert.ts
+  120:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/src/Interface.ts
+   27:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/components/src/utils.ts
+   20:45   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:46   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:18   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   61:44   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:43   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  435:108  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  457:41   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  457:65   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  466:47   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  466:71   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/server/src/ChildProcess.ts
+   47:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  218:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/server/src/Interface.ts
+   90:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  181:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/server/src/index.ts
+   269:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   615:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   650:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   672:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   721:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   852:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1003:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1011:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FlowiseAI-Flowise/packages/server/src/utils/index.ts
+  244:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 184 problems (184 errors, 0 warnings)

@@ -1,0 +1,30 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/stonith404-pingvin-share/backend/src/config/config.service.ts
+  17:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/stonith404-pingvin-share/backend/src/file/file.controller.ts
+  28:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/stonith404-pingvin-share/backend/src/share/share.service.ts
+  209:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/stonith404-pingvin-share/frontend/src/components/admin/configuration/AdminConfigInput.tsx
+  31:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/stonith404-pingvin-share/frontend/src/components/share/FileList.tsx
+  48:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/stonith404-pingvin-share/frontend/src/components/share/FilePreview.tsx
+  105:5  error  Definition for rule '@next/next/no-img-element' was not found  @next/next/no-img-element
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/stonith404-pingvin-share/frontend/src/services/config.service.ts
+  17:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/stonith404-pingvin-share/frontend/src/types/share.type.ts
+  5:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/stonith404-pingvin-share/frontend/src/utils/toast.util.tsx
+  18:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 10 problems (10 errors, 0 warnings)

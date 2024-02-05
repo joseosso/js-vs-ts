@@ -1,0 +1,356 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/actions/widgets.ts
+  26:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/(dashboards)/dashboards/[name]/page.tsx
+  5:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/(dashboards)/layout.tsx
+  7:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/api/auth/route.ts
+  24:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/api/collections/[owner]/[repo]/[branch]/[...path]/route.ts
+   5:98  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/api/db/[name]/route.ts
+   11:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   65:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/api/kv.ts
+  14:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/api/layout/operations.client.ts
+  7:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/api/layout/sql.ts
+    4:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   13:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   23:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   23:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   52:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   59:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   74:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  138:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/api/library/[id]/route.ts
+  7:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/api/ossinsight/q/[query]/route.ts
+  3:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(client)/layout.tsx
+  4:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(public)/layout.tsx
+  3:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(public)/login-modal/page.tsx
+  3:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(public)/login/page.tsx
+  4:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(public)/widgets/[id]/edit/page.tsx
+  3:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(public)/widgets/[id]/page.tsx
+  13:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(public)/widgets/[id]/styles/page.tsx
+  3:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(public)/widgets/create/[name]/page.tsx
+  3:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(share)/widgets/[id]/data.json/route.ts
+  22:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(share)/widgets/[id]/thumbnail.png/route.ts
+  25:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/(share)/widgets/[id]/utils.ts
+  9:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/@modal/(all)/(.)dashboards/[name]/items/add/page.tsx
+  4:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/@modal/(all)/(.)login-modal/page.tsx
+  10:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/@modal/(all)/(.)widgets/[id]/edit/page.tsx
+  3:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/@modal/(all)/(.)widgets/[id]/page.tsx
+  9:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/@modal/(all)/(.)widgets/[id]/styles/page.tsx
+  9:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/@modal/(all)/(.)widgets/create/[name]/page.tsx
+  3:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/@modal/(all)/layout.tsx
+  6:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/admin/dashboards/page.tsx
+  5:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/admin/error.tsx
+  5:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/admin/layout.tsx
+  5:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/app/layout.tsx
+  15:4  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/EditWidgetInstance/EditWidgetInstance.tsx
+  11:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/ServerActionForm/ServerActionForm.tsx
+  29:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/TiDBCloudPlayground/TiDBCloudPlayground.tsx
+  12:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/WidgetDetails/WidgetDetails.tsx
+  12:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/WidgetPreview/WidgetPreview.tsx
+  14:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/Dashboard/EditingLayer.tsx
+  133:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/Dashboard/WidgetCoordinator.tsx
+  13:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/Dashboard/dashboard.client.tsx
+  10:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/Dashboard/dataOptions.ts
+  13:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/Dashboard/hooks.ts
+  24:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/Dashboard/index.tsx
+  29:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/admin/dashboards/DashboardIListItem.tsx
+  12:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/admin/dashboards/DashboardList.tsx
+  10:98  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/admin/repositories/RemoteRepositoriesList.tsx
+  68:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/modal/DialogLayout.tsx
+  10:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/modal/widgets/styles/textAlign.tsx
+  18:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/status/GithubPersonalStatus.tsx
+  56:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/status/GithubRepoStatus.tsx
+  55:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/status/SimpleErrorComponent.tsx
+  1:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/components/pages/widget/CreateWidget.tsx
+  28:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/core/dynamic-widget.tsx
+  65:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/core/widgets-manifest.ts
+   9:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/env.d.ts
+  2:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/buildtool/types/modules.d.ts
+  12:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/buildtool/webpack/loaders/sql.ts
+  13:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/buildtool/webpack/plugins/db/DbInstance.ts
+  51:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/buildtool/webpack/plugins/db/SQLPlugin.ts
+  7:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/buildtool/webpack/plugins/db/mysql.ts
+  16:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/buildtool/webpack/utils/cache.ts
+   5:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   6:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/ui/components/form/context.ts
+  12:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/ui/components/form/field.tsx
+  21:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/ui/components/form/form.tsx
+   9:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/ui/components/menu/types.ts
+  13:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:8  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/ui/context/widget.ts
+  12:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/ui/hooks/ref-callback.ts
+  4:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/ui/utils/update-partial.ts
+   9:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/alert/Alert.tsx
+  19:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/editor/markdown/MarkdownEditor.tsx
+  7:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/editor/sql/SQLEditor.tsx
+  7:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/editor/sql/SQLEditorHeader.tsx
+  35:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/visualize/AxisTypeSelect.tsx
+  5:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/visualize/ChartTypeToggle.tsx
+  16:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/visualize/ColumnSelect.tsx
+  7:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/visualize/TableVisualize.tsx
+   3:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/visualize/chartjs/getCartesianScaleOption.ts
+  5:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/visualize/chartjs/getXYData.ts
+  25:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/visualize/chartjs/legendsPlugin.ts
+  4:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/visualize/common.ts
+   2:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   3:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/visualize/context.ts
+  7:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/components/visualize/guess.ts
+  68:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/utils/cache.ts
+  30:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/utils/query.ts
+  5:133  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/utils/unified.ts
+  20:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/widgets/db/sql/Editor.tsx
+  53:105  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/widgets/db/sql/ResultDisplay.tsx
+  10:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/widgets/db/sql/SchemaTree.tsx
+  179:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/widgets/db/sql/remote/Widget.tsx
+  22:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/packages/widgets/src/widgets/oh-my-github/stats/Widget.tsx
+  59:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/utils/clientOnly.ts
+  6:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/utils/jwt.ts
+  95:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/utils/mysql.ts
+   54:84  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   61:89  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   79:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:80  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/pingcap-ossinsight-lite/utils/server/action.ts
+  3:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 164 problems (164 errors, 0 warnings)

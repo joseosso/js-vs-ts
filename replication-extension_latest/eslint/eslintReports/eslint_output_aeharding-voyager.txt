@@ -1,0 +1,78 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/Auth.tsx
+  42:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  47:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  82:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/TabbedRoutes.tsx
+  153:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  159:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  165:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  171:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  180:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  186:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  192:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  198:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  204:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  210:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  216:7  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/auth/AccountSwitcher.tsx
+  46:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/auth/AppContext.tsx
+  45:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  75:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/comment/Comments.tsx
+  116:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/community/titleSearch/TitleSearchResults.tsx
+  128:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  162:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/feed/Feed.tsx
+  135:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  144:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/feed/PostCommentFeed.tsx
+  105:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/gallery/GalleryProvider.tsx
+  69:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/inbox/messages/Message.tsx
+  147:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/post/inFeed/Post.tsx
+  79:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/post/new/PostEditor.tsx
+  19:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/shared/DynamicDismissableModal.tsx
+  77:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/shared/Video.tsx
+  48:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/shared/sliding/SlidingItem.tsx
+  192:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  221:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/features/user/AsyncProfile.tsx
+  45:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/pages/inbox/MessagesPage.tsx
+  35:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/pages/profile/ProfileFeedHiddenPostsPage.tsx
+  88:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/pages/settings/update/UpdateContext.tsx
+  58:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/aeharding-voyager/src/pages/shared/CommunityPage.tsx
+  62:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+✖ 36 problems (36 errors, 0 warnings)

@@ -1,0 +1,103 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/application/dtos/shared/FileBase64.ts
+  3:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/front/Footer.tsx
+  16:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/front/Header.tsx
+  16:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/front/blocks/PageBlocks.tsx
+  40:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/front/blocks/TemplateEditor.tsx
+  33:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/front/blocks/variants/gallery/Carousel.tsx
+  14:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/BannerBlockForm.tsx
+  16:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/CommunityBlockForm.tsx
+  18:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/FaqBlockForm.tsx
+  16:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/FeaturesBlockForm.tsx
+  17:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/FooterBlockForm.tsx
+  17:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  84:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/GalleryBlockForm.tsx
+  16:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/HeaderBlockForm.tsx
+   28:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+   32:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  124:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/HeroBlockForm.tsx
+  17:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/LogoCloudsBlockForm.tsx
+  16:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/NewsletterBlockForm.tsx
+  13:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/SocialsBlockForm.tsx
+  17:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/TestimonialsBlockForm.tsx
+  16:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/pages/blocks/VideoBlockForm.tsx
+  12:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/transitions/FloatingLoader.tsx
+  33:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/ui/InputCheckbox.tsx
+  37:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/ui/InputSelector.tsx
+  73:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/components/ui/InputText.tsx
+  95:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/routes/newsletter.tsx
+  64:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/utils/app/scroll-restoration.tsx
+  146:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  151:5  error  Definition for rule 'react-hooks/rules-of-hooks' was not found   react-hooks/rules-of-hooks
+  156:7  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/utils/helpers/TableHelper.ts
+  1:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/utils/pages/PageBlockUtils.ts
+  80:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/utils/shared/KeypressUtils.ts
+   8:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  17:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  30:30  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  31:27  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  41:29  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/AlexandroMtzG-remix-page-blocks/app/utils/shared/ObjectUtils.ts
+  1:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:93  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 43 problems (43 errors, 0 warnings)

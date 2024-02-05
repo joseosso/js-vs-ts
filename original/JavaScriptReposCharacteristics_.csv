@@ -1,0 +1,300 @@
+index,repo_name,ncloc,code_smells,cognitive_complexity,framework,bug_issues_count,bug-fix_commits_count,commits_count
+1,appium/appium,5047.0,33.0,494.0,No framework identified,4508,1002,4358
+2,responsively-org/responsively-app,17629.0,209.0,990.0,react,43,184,832
+3,FredrikNoren/ungit,11888.0,97.0,1510.0,express,85,353,3737
+4,sdelements/lets-chat,6923.0,94.0,1087.0,express,89,83,1489
+5,HabitRPG/habitica,129619.0,1242.0,11410.0,vue,974,3116,11075
+6,qeeqbox/social-analyzer,2351.0,69.0,1021.0,express,2,7,671
+7,zhukov/webogram,26106.0,764.0,8287.0,angular,143,169,1822
+8,rawgraphs/rawgraphs-app,5847.0,88.0,552.0,react,42,101,896
+9,angular-app/angular-app,3798.0,120.0,208.0,angular,18,61,393
+10,1j01/jspaint,37277.0,1153.0,11860.0,No framework identified,38,59,1555
+11,benoitvallon/react-native-nw-react-calculator,2409.0,9.0,117.0,react,3,5,186
+12,szimek/sharedrop,1754.0,19.0,92.0,ember,9,21,372
+13,prose/prose,7201.0,177.0,973.0,backbone,125,197,3331
+14,tutao/tutanota,204051.0,2303.0,23412.0,express,1172,1866,6417
+15,oklai/koala,4460.0,62.0,1061.0,No framework identified,89,63,412
+16,wei/pull,1269.0,8.0,153.0,No framework identified,9,9,354
+17,async-labs/builderbook,27742.0,170.0,2259.0,react,20,26,516
+18,Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client,7059.0,109.0,1387.0,No framework identified,96,33,250
+19,streamlink/streamlink-twitch-gui,38667.0,306.0,2285.0,ember,111,175,2544
+20,zedapp/zed,35381.0,1031.0,24738.0,express,49,65,1200
+21,mephux/komanda,31391.0,1260.0,43488.0,No framework identified,47,59,399
+22,konstantinmuenster/notion-clone,2767.0,14.0,251.0,react,2,3,59
+23,DemocracyOS/democracyos,17547.0,201.0,2254.0,react,331,720,6368
+24,fossasia/pslab-desktop,12350.0,78.0,441.0,react,146,30,721
+25,auchenberg/chrome-devtools-app,122329.0,3589.0,32856.0,No framework identified,6,4,124
+26,vivek9patel/vivek9patel.github.io,2630.0,18.0,240.0,react,4,20,154
+27,fossasia/knitweb,4407.0,323.0,1512.0,express,1,2,152
+28,Parallels/rq-dashboard,4593.0,74.0,2014.0,No framework identified,21,24,447
+29,stephomi/sculptgl,21448.0,260.0,4698.0,No framework identified,19,24,668
+30,snorpey/jpg-glitch,7567.0,219.0,3525.0,No framework identified,3,14,173
+31,blenderskool/blaze,2284.0,42.0,217.0,preact,24,5,383
+32,writethedocs/www,8774.0,269.0,28095.0,No framework identified,24,1,5798
+33,strongloop/strong-pm,5660.0,138.0,490.0,express,37,84,721
+34,zulip/zulip-mobile,47851.0,258.0,1770.0,react,311,812,7809
+35,gbraadnl/gauth,4346.0,357.0,1682.0,express,9,6,145
+36,phonegap/phonegap-app-desktop,2703.0,61.0,562.0,express,215,63,1180
+37,webpack/analyse,938.0,12.0,125.0,No framework identified,3,6,33
+38,HashNuke/mogo-chat,29050.0,879.0,38173.0,phoenix,1,0,455
+39,lonelyplanet/rizzo,30858.0,210.0,2207.0,No framework identified,17,212,8878
+40,kiprotect/klaro,4371.0,82.0,911.0,preact,32,23,747
+41,realdennis/md2pdf,623.0,10.0,19.0,react,2,6,65
+42,code-dot-org/code-dot-org,605585.0,8226.0,187617.0,react,3,10,130
+43,Kilian/fromscratch,1343.0,2.0,125.0,react,10,61,676
+44,z-------------/CPod,5645.0,187.0,1949.0,No framework identified,33,19,253
+45,firefox-devtools/profiler,85641.0,562.0,5568.0,react,170,217,4028
+46,30-seconds/30-seconds-web,10582.0,100.0,818.0,react,31,54,1220
+47,whiteout-io/mail,31934.0,588.0,23975.0,angular,12,166,1382
+48,BlocklyDuino/BlocklyDuino,36958.0,455.0,3253.0,No framework identified,4,26,133
+49,WebbyLab/itsquiz-wall,4923.0,59.0,387.0,react,1,33,498
+50,nitrotasks/nitro,10508.0,123.0,1507.0,react,53,61,1389
+51,jeremyckahn/stylie,8343.0,233.0,18793.0,backbone,6,19,575
+52,tpiros/advanced-chat,617.0,54.0,214.0,express,2,5,44
+53,aholachek/bundle-wizard,1801.0,63.0,288.0,react,2,24,127
+54,stayawayinesctec/stayaway-app,11233.0,103.0,383.0,react,4,10,96
+55,jappix/jappix,57049.0,1242.0,42975.0,No framework identified,107,458,1067
+56,pascalopitz/unoffical-sonos-controller-for-linux,8456.0,97.0,680.0,react,11,65,321
+57,flackr/circ,15641.0,700.0,3856.0,No framework identified,29,40,221
+58,cgrossde/Pullover,3042.0,33.0,424.0,react,29,21,153
+59,mithi/hexapod,4770.0,43.0,234.0,react,15,60,413
+60,teamxenox/caligator,1111.0,18.0,178.0,No framework identified,7,4,62
+61,18F/checklistomania,1660.0,15.0,107.0,express,3,17,122
+62,artzub/GitHubVisualizer,7523.0,145.0,1464.0,react,15,37,79
+63,ttencate/jfxr,2555.0,39.0,442.0,angular,11,10,182
+64,jsha/blocktogether,5779.0,344.0,1050.0,express,15,34,772
+65,cleanflight/cleanflight-configurator,28780.0,739.0,9990.0,No framework identified,37,542,3576
+66,larvalabs/pullup,4342.0,197.0,1029.0,express,18,66,867
+67,espruino/EspruinoWebIDE,150341.0,8411.0,134549.0,No framework identified,20,139,755
+68,nextcloud/text,11431.0,55.0,420.0,vue,158,73,926
+69,loqui/im,46147.0,6731.0,100016.0,No framework identified,145,253,1110
+70,perak/kitchen-site,2685.0,145.0,879.0,No framework identified,28,0,32
+71,project-serum/spl-token-wallet,8581.0,118.0,892.0,react,7,21,250
+72,NemProject/NanoWallet,25687.0,641.0,2595.0,angular,158,123,916
+73,hainguyents13/mechvibes,1005.0,10.0,181.0,No framework identified,3,15,54
+74,moudy/agenda-ui,538.0,4.0,37.0,ember,2,2,26
+75,midudev/covid-vacuna,2405.0,29.0,124.0,react,3,34,349
+76,twolfson/google-music-electron,767.0,5.0,117.0,No framework identified,8,10,182
+77,pboyer/flood,16660.0,908.0,3840.0,express,1,28,262
+78,saviomartin/gradientking,1912.0,23.0,183.0,react,1,3,136
+79,felixmariotto/Edelweiss,38118.0,1642.0,13341.0,express,2,105,584
+80,cliss/camel,643.0,16.0,154.0,express,2,15,46
+81,madisvain/upcount,4007.0,37.0,257.0,react,11,36,223
+82,AmruthPillai/ResumeOnTheWeb-Gatsby,1973.0,5.0,31.0,react,1,11,68
+83,percolatestudio/percolatestudio.com,2357.0,0.0,50.0,react,19,6,155
+84,ioBroker/ioBroker.vis,22753.0,791.0,11871.0,No framework identified,16,352,1699
+85,bjnortier/shapesmith,45309.0,1304.0,26342.0,backbone,17,11,135
+86,radekstepan/burnchart,2905.0,77.0,344.0,react,4,14,179
+87,zaknelson/hike.io,4989.0,139.0,1543.0,No framework identified,11,28,614
+88,meteorhacks/kadira,8135.0,406.0,749.0,No framework identified,10,91,878
+89,recall-photos/recall-app,1210.0,1.0,54.0,vue,1,1,92
+90,Capgemini/mesos-ui,2593.0,56.0,119.0,react,5,11,65
+91,UWFlow/rmc,44372.0,1719.0,44400.0,No framework identified,16,130,789
+92,doxxx/ffxiv-craft-opt-web,6800.0,196.0,1266.0,No framework identified,30,63,923
+93,kentcdodds/react-github-profile,1058.0,7.0,31.0,react,1,7,64
+94,krasnoukhov/helloworldquiz,22951.0,701.0,28959.0,No framework identified,1,0,4
+95,imgbi/img.bi,2079.0,45.0,247.0,angular,6,7,43
+96,chatwoot/chatwoot-mobile-app,9663.0,100.0,466.0,react,59,44,154
+97,Crowducate/crowducate-platform,4105.0,104.0,461.0,No framework identified,6,14,497
+98,Vizzuality/gfw,60901.0,610.0,6838.0,react,30,2703,16187
+99,ChrisCummins/chriscummins.github.io,8133.0,342.0,1520.0,No framework identified,4,12,154
+100,owncloud/tasks,14563.0,278.0,2755.0,angular,62,19,447
+101,irislib/iris-messenger,13757.0,968.0,6899.0,preact,1,153,997
+102,divanov11/Mumble,6221.0,65.0,234.0,react,83,99,413
+103,creationix/tedit,5916.0,162.0,1775.0,No framework identified,4,20,461
+104,alichtman/deadbolt,535.0,11.0,29.0,react,5,4,71
+105,vercel/swr-site,512.0,2.0,12.0,react,3,14,129
+106,mifi/SimpleInstaBot,750.0,10.0,78.0,react,5,11,22
+107,Temasys/getaroom,3986.0,105.0,1729.0,No framework identified,2,44,332
+108,raindropio/mobile,19485.0,277.0,2686.0,react,1,37,368
+109,KarlZhu-SE/ark-funds-monitor,2876.0,32.0,316.0,react,1,25,116
+110,stackrole/gatsby-starter-foundation,1525.0,4.0,63.0,react,3,2,38
+111,tinode/webapp,22613.0,617.0,7123.0,react,15,128,597
+112,Siddharth11/iTunes-Remote,807.0,9.0,62.0,react,1,3,34
+113,DanRuta/xVA-Synth,11478.0,445.0,6047.0,No framework identified,1,46,361
+114,alphasights/ember-calendar,1360.0,3.0,51.0,ember,5,14,211
+115,processing/p5.js-website,51487.0,1392.0,10251.0,No framework identified,99,130,1169
+116,brantje/nextnote,2986.0,16.0,110.0,No framework identified,14,18,202
+117,webcatalog/translatium-desktop,8272.0,96.0,832.0,react,18,5,230
+118,AR-js-org/studio,1635.0,40.0,208.0,No framework identified,10,56,237
+119,geobalas/Poker,1890.0,58.0,706.0,express,1,4,52
+120,digitalbiblesociety/browserbible-3,38727.0,1429.0,27432.0,No framework identified,1,103,786
+121,LeoAJ/react-iTunes-search,673.0,13.0,25.0,react,3,10,90
+122,okfn/dataexplorer,3260.0,94.0,915.0,No framework identified,9,56,315
+123,ros2/design,1907.0,86.0,774.0,No framework identified,2,8,27
+124,amejiarosario/meanshop,4811.0,41.0,317.0,angular,6,19,86
+125,codio/iloveopensource,4938.0,89.0,943.0,express,13,47,159
+126,heartexlabs/label-studio-frontend,28788.0,553.0,4811.0,react,2,161,757
+127,llaske/sugarizer,631109.0,21074.0,235223.0,No framework identified,102,275,2611
+128,owncloud-archive/documents,35317.0,711.0,10395.0,No framework identified,131,36,464
+129,kothariji/SyntaxMeets,3150.0,23.0,141.0,react,9,16,196
+130,mdaines/grammophone,3912.0,35.0,898.0,No framework identified,3,10,196
+131,aullman/opentok-meet,4336.0,20.0,485.0,angular,15,40,402
+132,IliasHad/makerlapse-app,867.0,16.0,69.0,react,1,1,41
+133,vote4hk/warsinhk,11930.0,145.0,658.0,react,8,245,401
+134,Esri/ago-assistant,4454.0,93.0,1609.0,No framework identified,41,80,381
+135,ReactiveX/reactivex.github.io,308725.0,4853.0,33760.0,No framework identified,6,1,50
+136,joehoyle/vienna,6295.0,68.0,328.0,react,2,13,266
+137,graham-walker/youtube-dl-react-viewer,7409.0,110.0,1323.0,react,1,4,80
+138,tower/tower.github.io,14325.0,488.0,18994.0,express,2,1,69
+139,calculist/calculist,1203.0,29.0,285.0,backbone,9,3,36
+140,klayveR/xenontrade,1914.0,52.0,289.0,No framework identified,3,23,154
+141,OpenSprinkler/OpenSprinkler-App,11279.0,328.0,4315.0,No framework identified,7,314,2241
+142,ecaron/smart-nightlight-manager,3545.0,67.0,1720.0,express,1,1,31
+143,avalanche123/cassandra-web,7320.0,393.0,8813.0,No framework identified,1,0,2
+144,metamaps/metamaps,22153.0,510.0,4633.0,react,188,248,1084
+145,codelitdev/courselit,18351.0,157.0,994.0,preact,11,28,199
+146,carlelieser/Flixerr,7126.0,134.0,1138.0,react,5,12,149
+147,simonv3/quick-survey,19565.0,32.0,164.0,angular,4,1,56
+148,jellyfin/jellyfin-expo,3610.0,9.0,143.0,react,21,34,338
+149,joaomgcd/JoinDesktop,20906.0,1061.0,9679.0,No framework identified,4,15,87
+150,matomo-org/matomo-mobile-2,17125.0,311.0,2969.0,No framework identified,69,149,583
+151,emuflight/EmuConfigurator,26995.0,933.0,9889.0,No framework identified,7,44,230
+152,bhj/karaoke-forever,9078.0,76.0,974.0,react,1,288,2133
+153,dotsmesh/dotsmesh-web-app,13445.0,961.0,5448.0,No framework identified,1,12,153
+154,stimulant/ampm,18812.0,1550.0,28019.0,backbone,7,45,449
+155,tidepool-org/uploader,55496.0,945.0,9339.0,react,18,874,5717
+156,tbusser/jscc,2510.0,19.0,528.0,No framework identified,1,9,62
+157,cleanflight/blackbox-log-viewer,10683.0,487.0,3674.0,No framework identified,4,32,455
+158,conda-forge/conda-forge.github.io,20496.0,1037.0,28918.0,No framework identified,56,3,332
+159,BrewCenter/OpenBrews,67164.0,1738.0,106999.0,angular,8,16,141
+160,treyhboy/Mint,18047.0,394.0,29537.0,express,5,7,61
+161,reactjs/ar.reactjs.org,6683.0,38.0,260.0,react,1,83,835
+162,kossnocorp/chirrapp,2175.0,53.0,181.0,preact,1,3,111
+163,jakubito/spotify-release-list,4315.0,19.0,269.0,react,3,8,261
+164,Flowm/satvis,2328.0,38.0,232.0,vue,1,3,292
+165,thebinarypenguin/socket.io-chess,1719.0,49.0,605.0,express,1,5,76
+166,coders4help/volunteer_planner,49586.0,2083.0,27763.0,No framework identified,27,1,39
+167,echofox-team/echofon-firefox-unofficial,6097.0,155.0,1839.0,No framework identified,10,3,24
+168,lukebarnard1/journal,1448.0,10.0,46.0,react,8,6,109
+169,cocopon/llumino-pwa,3876.0,88.0,190.0,react,3,2,85
+170,redwoodjs/example-blog,1692.0,5.0,37.0,react,3,7,186
+171,madou/armory-app,33727.0,134.0,835.0,react,39,102,965
+172,enlyth/GradientLab,778.0,10.0,56.0,react,6,6,23
+173,garage44/ca11,7008.0,88.0,1302.0,vue,3,29,101
+174,cozy/cozy-calendar,15886.0,1024.0,4121.0,No framework identified,144,94,628
+175,intersystems-community/webterminal,4417.0,180.0,1143.0,No framework identified,27,77,220
+176,mozillahispano/openwapp,16689.0,553.0,5146.0,No framework identified,25,44,254
+177,runelite/runelite.net,13688.0,389.0,1668.0,preact,18,43,518
+178,nielsdejong/neodash,12594.0,456.0,9278.0,react,6,16,78
+179,conveyal/modeify,115667.0,437.0,4191.0,express,79,92,1465
+180,EBISPOT/OLS,56288.0,2098.0,103224.0,No framework identified,57,33,147
+181,soler91/noita-together,2449.0,36.0,388.0,vue,11,8,66
+182,elm-lang/debug.elm-lang.org,1934.0,89.0,1041.0,No framework identified,4,20,143
+183,pavben/WebIRC,4164.0,106.0,969.0,express,5,31,233
+184,zendesk/linksf,4115.0,70.0,315.0,react,18,167,1497
+185,mozilla/donate.mozilla.org,8258.0,63.0,565.0,react,57,160,1353
+186,ypinskiy/GBF-Raiders,2439.0,68.0,666.0,express,1,17,180
+187,nmrugg/UE4Launcher,3825.0,162.0,889.0,No framework identified,1,13,105
+188,Dyalog/ride,9502.0,210.0,2851.0,express,123,289,1535
+189,merkle-open/generator-nitro,10064.0,88.0,984.0,express,14,145,931
+190,Say-Their-Name/say-their-names-web,5229.0,24.0,136.0,react,10,96,428
+191,lostdesign/linked,1069.0,7.0,45.0,vue,11,27,88
+192,processing/p5.js-website-OLD,173168.0,6975.0,72113.0,No framework identified,21,74,581
+193,anandtrex/collabdraw,1749.0,107.0,449.0,No framework identified,3,6,48
+194,liamzebedee/metric,13769.0,523.0,13512.0,No framework identified,5,5,44
+195,HITK-TECH-Community/Community-Website,8040.0,98.0,723.0,react,41,46,309
+196,consindo/stormcloud,8056.0,318.0,2589.0,No framework identified,5,4,126
+197,codeforboston/finda,11495.0,118.0,4218.0,No framework identified,9,28,192
+198,CodersTV/site,23074.0,805.0,33033.0,No framework identified,16,21,85
+199,mattstauffer/pulledover,15872.0,731.0,28523.0,vue,2,0,15
+200,nanexcool/daistats,3117.0,72.0,141.0,react,1,21,335
+201,neo4j-contrib/neo4j-org,31880.0,9234.0,34262.0,express,34,106,653
+202,lewisl9029/toc,30171.0,5323.0,22929.0,angular,74,65,820
+203,AngelGarcia13/DominicanWhoCodes,22988.0,612.0,48034.0,No framework identified,1,0,5
+204,zoff-music/zoff,25517.0,1552.0,8076.0,express,38,467,3119
+205,fgl27/SmartTwitchTV,87379.0,4884.0,24612.0,No framework identified,23,275,7552
+206,BurkusCat/r6-operator-counters,2049.0,88.0,210.0,angular,21,25,110
+207,zero-to-mastery/mappypals,4364.0,55.0,277.0,react,2,60,436
+208,matthiaaas/ftp,6906.0,239.0,758.0,react,5,66,187
+209,megamsys/nilavu,25908.0,1074.0,11884.0,No framework identified,172,111,1061
+210,chihacknight/chihacknight.org,6505.0,149.0,4122.0,No framework identified,9,12,110
+211,GooBox/goobox-community-gui,9593.0,91.0,348.0,react,10,51,400
+212,Courseography/courseography,33053.0,618.0,11137.0,react,67,304,2085
+213,badger-cash/badger,53743.0,1413.0,5811.0,react,14,860,6848
+214,dicksonleong/Tweetian,3159.0,84.0,755.0,No framework identified,2,6,73
+215,RelistenNet/relisten-web,3266.0,59.0,501.0,react,3,19,237
+216,arcaneiceman/kraken-client,8985.0,229.0,1122.0,react,1,18,103
+217,umrum/umrum,3857.0,121.0,877.0,express,5,6,314
+218,TbLtzk/Centaurus,2717.0,147.0,1265.0,No framework identified,4,33,201
+219,artpi/SmartPi,1214.0,9.0,101.0,react,1,2,77
+220,vankasteelj/opensubtitles-uploader,2029.0,48.0,650.0,No framework identified,8,32,197
+221,CarnetApp/CarnetElectron,34446.0,1362.0,11834.0,No framework identified,6,110,542
+222,adlnet/lrs-conformance-test-suite,36789.0,591.0,2637.0,express,15,146,811
+223,TerraMap/terramap.github.io,47161.0,126.0,1225.0,No framework identified,3,5,48
+224,ist-dresden/composum-nodes,451219.0,11856.0,235262.0,No framework identified,21,127,559
+225,yearn/ygov-finance,6371.0,158.0,429.0,react,2,2,51
+226,mappum/0x10code,6680.0,238.0,4047.0,express,2,20,146
+227,OpenRA/OpenRAWeb,5911.0,298.0,3516.0,No framework identified,10,2,13
+228,Grasia/teem,7162.0,118.0,822.0,angular,65,190,1443
+229,vinitraj10/Django-React-Blog,928.0,27.0,28.0,react,1,6,26
+230,mrtnzlml-archive/zlml.cz,6116.0,100.0,10.0,react,4,4,99
+231,appcelerator-se/corporate-directory,686.0,14.0,187.0,No framework identified,1,8,41
+232,damianxd/homebridge-vera,2666.0,131.0,459.0,No framework identified,19,41,224
+233,0dataapp/0data,3746.0,61.0,205.0,No framework identified,1,8,353
+234,saviomartin/codehouse,5510.0,188.0,518.0,react,1,105,494
+235,ginatrapani/narrowthegap,30500.0,4.0,57.0,react,7,28,60
+236,owncloud-archive/maps,13554.0,290.0,5727.0,No framework identified,19,19,167
+237,gulpjs/gulpjs.github.io,1243.0,8.0,57.0,react,5,2,56
+238,Dwyte/cipher-chat,2004.0,39.0,178.0,react,1,16,66
+239,didoesdigital/typey-type,17287.0,289.0,2275.0,react,1,91,1693
+240,rocky-linux/rockylinux.org,2784.0,8.0,27.0,react,13,49,223
+241,PastVu/pastvu,104960.0,2429.0,72588.0,express,33,109,2628
+242,videojs/videojs.com,6419.0,175.0,123.0,react,2,16,113
+243,cloudspokes/arena-web,18660.0,426.0,24283.0,No framework identified,339,49,261
+244,victor-stone/dig-react,18690.0,126.0,1480.0,react,1,31,324
+245,Pustur/whatsapp-chat-parser-website,1106.0,9.0,75.0,react,3,9,79
+246,u-wave/web,20787.0,130.0,995.0,react,92,306,1608
+247,farmOS/farmOS-client,8224.0,39.0,649.0,vue,93,127,1187
+248,NLeRoy917/spottydata,2446.0,52.0,1654.0,react,10,26,177
+249,allegro/selena,11723.0,890.0,5606.0,No framework identified,1,0,1
+250,ezra-bible-app/ezra-bible-app,36288.0,1336.0,27053.0,No framework identified,59,241,2483
+251,cozy/cozy-files,153504.0,10971.0,172395.0,No framework identified,102,73,598
+252,acss-io/acss-site,591.0,18.0,138.0,react,6,15,295
+253,te-online/timemanager,21776.0,1294.0,12657.0,No framework identified,7,1,65
+254,sandanat/vue-pdf-app,210121.0,3496.0,282711.0,vue,10,3,105
+255,chaijs/chaijs.github.io,12130.0,414.0,6817.0,No framework identified,4,10,125
+256,codeforamerica/city-analytics-dashboard,1777.0,92.0,126.0,No framework identified,6,11,209
+257,omenking/swap-n-pop,47592.0,1495.0,22582.0,No framework identified,42,46,480
+258,codexa/firetext,10707.0,412.0,4076.0,No framework identified,47,97,677
+259,media-centre/makenews,28965.0,227.0,1241.0,react,25,305,1663
+260,roelandp/hivewallet,43803.0,1992.0,34413.0,No framework identified,4,5,58
+261,baruchiro/israeli-bank-scrapers-desktop,3218.0,14.0,167.0,vue,15,29,382
+262,avinashkranjan/Recess,2512.0,130.0,115.0,react,4,7,131
+263,atheme-legacy/iris,12239.0,388.0,4213.0,No framework identified,2,58,394
+264,InclineDigital/user-agent.io,855.0,12.0,67.0,react,2,9,40
+265,Cambalab/ns-vue-radio,1358.0,9.0,79.0,No framework identified,12,10,174
+266,Lambda-School-Labs/LabsPT1_bkwds,13066.0,192.0,488.0,react,12,152,1034
+267,code4romania/covid-19-date-la-zi,2545.0,4.0,110.0,react,16,33,236
+268,Proof-Of-Humanity/proof-of-humanity-web,14064.0,42.0,779.0,react,73,288,525
+269,rossengeorgiev/habitat-mobile-tracker,7500.0,244.0,3805.0,No framework identified,28,113,393
+270,alphagov/spotlight,25452.0,222.0,1749.0,backbone,2,279,2358
+271,NeurophysVis/SpectraVis,3274.0,160.0,342.0,No framework identified,5,17,200
+272,nt1m/media-player,1889.0,25.0,291.0,No framework identified,8,24,173
+273,dag10/DJ,21570.0,432.0,28410.0,backbone,11,31,389
+274,neoxygen/graphgen,13718.0,406.0,5847.0,No framework identified,1,2,29
+275,cydrobolt/scribeline,921.0,49.0,178.0,express,2,20,52
+276,strukturart/o.map,69987.0,10613.0,55251.0,No framework identified,6,16,173
+277,eneiluj/cospend-nc,11897.0,68.0,978.0,vue,11,181,1020
+278,bencodrington/phanary,20009.0,740.0,67151.0,express,3,23,145
+279,sebastian-software/edge,4933.0,72.0,514.0,react,3,52,727
+280,zroyer/juggle-and-drop,1982.0,21.0,80.0,react,2,14,83
+281,reactjs/pl.reactjs.org,6690.0,38.0,260.0,react,3,63,762
+282,temporalio/web,10800.0,59.0,820.0,vue,39,37,338
+283,iorestoacasa-work/iorestoacasa.work,28628.0,1155.0,9769.0,No framework identified,3,5,18
+284,neomjs/covid-dashboard,3860.0,31.0,358.0,No framework identified,1,0,34
+285,itsnitinr/driwwwle,3656.0,46.0,241.0,react,5,12,124
+286,iamdarshshah/hacktoberfest-participants,1006.0,3.0,31.0,react,1,16,31
+287,racker/gutsy,16409.0,639.0,11037.0,express,11,136,913
+288,bbc/talexample,553.0,3.0,24.0,express,2,2,40
+289,paperjs/paperjs.org,17951.0,504.0,13684.0,No framework identified,2,9,144
+290,LLK/scratchjr-website,4483.0,53.0,112.0,react,11,11,121
+291,MatthewLavine/NodeJS-Chat,5297.0,213.0,1495.0,express,4,14,186
+292,appirio-tech/topcoder-app,19104.0,170.0,1968.0,angular,113,426,2496
+293,Plant-for-the-Planet-org/treecounter-app,77163.0,1242.0,5233.0,react,1455,1107,5519
+294,newrelic/docs-website,16446.0,194.0,887.0,react,181,312,2459
+295,mozilla/chatspaces,1477.0,42.0,313.0,express,9,60,173
+296,cheminfo/wikipedia,395060.0,10397.0,179109.0,No framework identified,3,11,91
+297,alicedapp/AliceX,13146.0,367.0,663.0,react,1,30,302
+298,basset/basset,30916.0,258.0,1486.0,react,13,27,63
+299,StretchShop/StretchShop,10319.0,249.0,3086.0,No framework identified,6,19,130

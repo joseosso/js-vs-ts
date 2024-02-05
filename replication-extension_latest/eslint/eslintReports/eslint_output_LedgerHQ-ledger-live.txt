@@ -1,0 +1,2093 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/cli.ts
+  13:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/appUninstallAll.ts
+  30:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/appsCheckAllAppVersions.ts
+  105:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/appsInstallAll.ts
+  23:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/appsUpdateTestAll.ts
+  39:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  69:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  79:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  92:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/bot.ts
+  19:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/botTransfer.ts
+   39:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  257:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/devDeviceAppsScenario.ts
+  68:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/generateTestTransaction.ts
+  115:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/getTransactionStatus.ts
+  60:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/i18n.ts
+  69:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/proxy.ts
+  114:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/send.ts
+   80:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/signMessage.ts
+  29:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/staxFetchAndRestoreDemo.ts
+  73:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/staxFetchImage.ts
+  53:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/staxFetchImageHash.ts
+  11:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/staxLoadImage.ts
+  42:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/staxRemoveImage.ts
+  10:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/swap.ts
+   31:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  206:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  225:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  226:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  245:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  246:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/commands/walletconnect.ts
+  149:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/live-common-setup.ts
+   24:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  184:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/scan.ts
+  215:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  227:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  356:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  372:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/stream.ts
+   4:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/cli/src/transaction.ts
+   96:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  114:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/Carousel/helpers.tsx
+  226:11  error  Definition for rule 'react/display-name' was not found  react/display-name
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/Chart/index.tsx
+  1:1  error  Definition for rule 'react/no-unused-prop-types' was not found  react/no-unused-prop-types
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/ChartPreview/index.tsx
+  1:1  error  Definition for rule 'react/no-unused-prop-types' was not found  react/no-unused-prop-types
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/CustomImage/ImageCropper.tsx
+  179:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/FlipTicker.tsx
+  1:1  error  Definition for rule 'react/no-did-mount-set-state' was not found  react/no-did-mount-set-state
+  2:1  error  Definition for rule 'react/no-array-index-key' was not found      react/no-array-index-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/Idler.ts
+  10:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/Spoiler.tsx
+  57:1  error  Definition for rule 'react/no-multi-comp' was not found  react/no-multi-comp
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/Stepper/Breadcrumb.tsx
+  1:1  error  Definition for rule 'react/no-array-index-key' was not found  react/no-array-index-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/ToastOverlay/index.tsx
+  25:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/TopBar/NotificationIndicator/AnnouncementPanel.tsx
+  269:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/Web3AppWebview/PlatformAPIWebview.tsx
+  289:7   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  315:7   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  333:7   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  350:7   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  374:11  error  Definition for rule 'react/no-unknown-property' was not found    react/no-unknown-property
+  383:11  error  Definition for rule 'react/no-unknown-property' was not found    react/no-unknown-property
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/Web3AppWebview/WalletAPIWebview.tsx
+    1:1   error  Definition for rule 'react/prop-types' was not found             react/prop-types
+  218:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  249:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  271:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  325:11  error  Definition for rule 'react/no-unknown-property' was not found    react/no-unknown-property
+  334:11  error  Definition for rule 'react/no-unknown-property' was not found    react/no-unknown-property
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/Web3AppWebview/index.tsx
+  1:1  error  Definition for rule 'react/prop-types' was not found  react/prop-types
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/debug/DebugTheme.tsx
+  1:1  error  Definition for rule 'react/jsx-no-literals' was not found  react/jsx-no-literals
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/components/debug/DebugUpdater.tsx
+  1:1  error  Definition for rule 'react/jsx-no-literals' was not found  react/jsx-no-literals
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/drawers/NFTViewerDrawer/index.tsx
+  164:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/families/bitcoin/SendAmountFields.tsx
+  58:11  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  75:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/families/elrond/EarnRewards.tsx
+  36:1  error  Definition for rule 'react/display-name' was not found  react/display-name
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/families/ethereum/SendAmountFields.tsx
+  37:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/icons/AccountsIllustration.tsx
+  12:7  error  Definition for rule 'react/no-unknown-property' was not found  react/no-unknown-property
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/icons/NanoAltSmall.tsx
+  12:7  error  Definition for rule 'react/no-unknown-property' was not found  react/no-unknown-property
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/modals/AddAccounts/steps/StepImport.tsx
+  66:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/modals/NoFundsStake/index.tsx
+  114:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/modals/Send/fields/AmountField.tsx
+  47:11  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/modals/Send/fields/RecipientField.tsx
+  50:11  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/modals/SignTransaction/Body.tsx
+  109:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/modals/StartStake/index.tsx
+  38:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/modals/UpdateFirmwareModal/steps/01-step-prepare.tsx
+  255:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/screens/exchange/Buy/index.tsx
+  49:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/screens/exchange/Sell/index.tsx
+  52:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/screens/exchange/Swap2/Form/ExchangeDrawer/index.tsx
+  148:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/screens/exchange/Swap2/Form/hooks/useRefreshRates.ts
+  24:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/screens/exchange/Swap2/Form/index.tsx
+   89:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+   93:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  240:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  248:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  280:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  382:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/screens/manager/AppsList/AppActions.tsx
+  67:1  error  Definition for rule 'react/display-name' was not found  react/display-name
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/screens/nft/Gallery/Collection.tsx
+  84:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/screens/nft/Gallery/Gallery.tsx
+  95:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/src/renderer/screens/nft/useOnScreen.ts
+  23:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/tests/mocks/WalletConnectClient.ts
+   3:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/tests/specs/general/keyboard-shortcuts.spec.ts
+  10:1  error  Definition for rule 'jest/expect-expect' was not found  jest/expect-expect
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/tests/specs/manager/devicelocalization.spec.ts
+  12:1  error  Definition for rule 'jest/no-done-callback' was not found  jest/no-done-callback
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/tests/specs/postOnboarding/post-onboarding.spec.ts
+  1:1  error  Definition for rule 'jest/expect-expect' was not found  jest/expect-expect
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-desktop/tests/specs/recorder.spec.ts
+  1:1  error  Definition for rule 'jest/valid-expect' was not found          jest/valid-expect
+  2:1  error  Definition for rule 'jest/no-standalone-expect' was not found  jest/no-standalone-expect
+  3:1  error  Definition for rule 'jest/no-done-callback' was not found      jest/no-done-callback
+  4:1  error  Definition for rule 'jest/expect-expect' was not found         jest/expect-expect
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/analytics/AnalyticsProvider.tsx
+  31:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/analytics/Track.ts
+  30:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/components/DeviceAction/index.tsx
+  593:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/components/DeviceLanguageInstalled.tsx
+  23:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/components/LText/LText.test.tsx
+  1:1  error  Definition for rule 'i18next/no-literal-string' was not found  i18next/no-literal-string
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/components/QueuedDrawer.tsx
+  188:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/components/RequiresCameraPermissions/useCameraPermissions.ts
+  15:11  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/components/RootNavigator/WalletConnectLiveAppNavigator.tsx
+  44:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/components/Skeleton.tsx
+  49:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/components/Web3AppWebview/helpers.ts
+  160:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/context/AuthPass/index.tsx
+  69:5  error  Definition for rule 'react/no-direct-mutation-state' was not found  react/no-direct-mutation-state
+  76:5  error  Definition for rule 'react/no-direct-mutation-state' was not found  react/no-direct-mutation-state
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/families/celo/ActivateFlow/02-Summary.tsx
+  83:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/families/celo/RevokeFlow/01-Summary.tsx
+  101:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/families/celo/VoteFlow/02-Summary.tsx
+  90:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/families/cosmos/DelegationFlow/02-Summary.tsx
+  106:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/families/ethereum/EthereumCustomFees/Ethereum1559CustomFees.tsx
+  136:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/families/near/StakingFlow/02-Summary.tsx
+  101:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/families/solana/DelegationFlow/SelectAmount.tsx
+  117:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/families/tezos/DelegationFlow/SelectValidator.tsx
+  147:5  error  Definition for rule 'react-hooks/rules-of-hooks' was not found  react-hooks/rules-of-hooks
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/logic/screenTransactionHooks.ts
+  187:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/AddAccounts/03-Accounts.tsx
+   69:7  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  132:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/ConnectDevice.tsx
+  173:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/Exchange/Buy.tsx
+  58:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/Exchange/Sell.tsx
+  45:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/GetDeviceScreen.tsx
+  131:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/NotificationCenter/Notifications.tsx
+  83:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/NotificationCenter/Snackbar/Snackbar.tsx
+  68:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/PushNotificationsModal/index.tsx
+  26:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/RatingsModal/index.tsx
+  22:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/ReceiveFunds/02-AddAccount.tsx
+   55:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  114:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/ReceiveFunds/ReceiveSecurityModal/index.tsx
+  42:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/SendFunds/07-ValidationError.tsx
+  40:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/SendFunds/07-ValidationSuccess.tsx
+  45:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/Settings/CryptoAssets/Currencies/CurrencySettings.tsx
+  65:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/Settings/Debug/Configuration/DebugEnv.tsx
+  35:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/SignMessage/03-ConnectDevice.tsx
+  63:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/SignTransaction/03-ValidationError.tsx
+  32:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/Swap/Form/index.tsx
+   84:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+   89:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  193:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  227:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  333:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  461:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/SyncOnboarding/EarlySecurityCheck.tsx
+  6:1  error  Definition for rule 'i18next/no-literal-string' was not found  i18next/no-literal-string
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/apps/ledger-live-mobile/src/screens/WalletCentricSections/OperationsHistory.tsx
+  67:7  error  Definition for rule 'react-hooks/rules-of-hooks' was not found  react-hooks/rules-of-hooks
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-algorand/src/account.ts
+  45:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-algorand/src/api/algodv2.ts
+  26:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-algorand/src/api/indexer.ts
+  24:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-algorand/src/cli-transaction.ts
+  38:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  78:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-algorand/src/js-getTransactionStatus.ts
+  43:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-algorand/src/speculos-deviceActions.ts
+  12:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/fixtures/prepareTransaction.fixtures.ts
+  21:8  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/api/explorer/index.unit.test.ts
+  15:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/api/explorer/ledger.unit.test.ts
+   60:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/api/gasTracker/ledger.unit.test.ts
+  124:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/api/node/index.unit.test.ts
+  15:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/api/node/ledger.unit.test.ts
+   39:6   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   59:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  252:92  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  268:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  280:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  321:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  353:84  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  354:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  445:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  456:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/api/node/rpc.unit.test.ts
+  134:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  289:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  315:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  349:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/broadcast.unit.test.ts
+  28:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/deviceTransactionConfig.unit.test.ts
+  24:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/estimateMaxSpendable.unit.test.ts
+  17:8  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/getTransactionStatus.unit.test.ts
+  200:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  211:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/hw-getAddress.unit.test.ts
+  36:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/hw-signMessage.unit.test.ts
+   22:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   22:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  132:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/logic.unit.test.ts
+   60:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   90:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  204:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  253:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  260:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/nftResolvers.unit.test.ts
+   37:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   98:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  162:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/preload.unit.test.ts
+  93:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/__tests__/unit/synchronization.unit.test.ts
+   63:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   90:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   93:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  148:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  156:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  191:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  269:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  308:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  338:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  394:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  509:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  567:84  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/signer.ts
+  40:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-evm/src/speculos-deviceActions.ts
+  13:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/account/helpers.test.ts
+   59:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  262:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/account/serialization.ts
+  4:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/bot/bot-test-context.ts
+  20:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/bot/types.ts
+   66:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/bridge/jsHelpers.ts
+   79:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  541:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/cache.ts
+   5:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/currencies/CurrencyURIScheme.ts
+  17:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/derivation.ts
+  261:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  261:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/errors.test.ts
+  11:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/mocks/account.ts
+  191:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/mocks/fixtures/nfts.ts
+  374:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  406:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/network.ts
+  5:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  6:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  7:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-framework/src/operation.ts
+  10:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/account.ts
+   18:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/api/bisontrails.ts
+   41:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   62:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   62:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  217:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  244:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  285:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  288:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  289:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/api/index.ts
+   94:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/api/sidecar.ts
+  172:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  670:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  679:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  711:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/api/sidecar.types.ts
+   38:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/cli-transaction.ts
+  140:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/js-buildTransaction.test.ts
+  15:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  68:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/js-buildTransaction.ts
+  16:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/js-getTransactionStatus.ts
+  48:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/js-signOperation.ts
+  118:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  193:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/preload.ts
+  17:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/specs.ts
+  52:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/coin-polkadot/src/speculos-deviceActions.ts
+  9:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/domain-service/src/__tests__/unit/resolvers.unit.test.ts
+  14:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/domain-service/src/__tests__/unit/signers.unit.test.ts
+  21:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  90:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/domain-service/src/__tests__/unit/utils.unit.test.ts
+  50:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/env/src/env.ts
+   17:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   21:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  791:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  793:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  794:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  796:3   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  799:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  813:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/evm-tools/src/__tests__/messages/EIP712/index.unit.test.ts
+  170:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/evm-tools/src/message/EIP712/index.ts
+   87:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   87:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/DataModel.ts
+  28:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/__tests__/mock-bridges.ts
+  60:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/__tests__/test-helpers/bridge.ts
+   69:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  129:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  644:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  718:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/__tests__/test-helpers/mockDevice.ts
+  12:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/account/addAccounts.ts
+  68:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/account/formatters.ts
+  224:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/account/importAccounts.integration.test.ts
+  186:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  187:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/apps/inlineAppInstall.ts
+  29:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/apps/react.test.ts
+  24:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/apps/react.ts
+  46:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bot/engine.ts
+  134:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  341:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  363:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  365:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  366:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  367:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  371:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  429:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  564:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  710:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  746:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  747:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bot/index.ts
+   76:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  111:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  146:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  707:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bot/portfolio/audits.ts
+  140:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bot/portfolio/formatter.ts
+  288:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  412:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  415:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bot/portfolio/logic.ts
+  26:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bot/portfolio/process-sync.ts
+  40:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bot/portfolio/types.ts
+  38:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bridge/impl.ts
+  31:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bridge/index.ts
+  27:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bridge/jsHelpers.ts
+  47:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bridge/mockHelpers.ts
+  18:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bridge/react/BridgeSync.test.tsx
+  62:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bridge/react/BridgeSync.tsx
+   27:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   31:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  229:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  333:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bridge/useBridgeTransaction.test.ts
+  46:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/bridge/useBridgeTransaction.ts
+  146:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  325:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/consoleWarnExpectToEqual.ts
+  6:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/convert.ts
+  1:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/countervalues/logic.ts
+  120:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  274:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/countervalues/modules/index.ts
+  18:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/countervalues/react.tsx
+   89:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  138:9  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/cross.ts
+   76:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  235:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/deviceSDK/commands/genuineCheck.ts
+  14:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/exchange/swap/hooks/useFromState.ts
+  59:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  72:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/exchange/swap/hooks/useProviderRates.test.ts
+   26:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   34:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   35:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   79:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   94:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/exchange/swap/hooks/useProviderRates.ts
+  220:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/exchange/swap/hooks/useReverseAccounts.test.ts
+  59:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/exchange/swap/hooks/useUpdateMaxAmount.test.ts
+  32:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/exchange/swap/hooks/useUpdateMaxAmount.ts
+  62:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/exchange/swap/logic.ts
+  101:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  146:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/exchange/swap/submitKYC.ts
+  20:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/algorand/bridge/mock.ts
+  44:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/account.ts
+  8:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/bech32m.ts
+  112:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/bridge/js.ts
+  30:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/bridge/mock.ts
+  29:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/cli-transaction.ts
+  36:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/descriptor.test.ts
+  12:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/hw-getAddress.ts
+  20:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/js-getFeesForTransaction.ts
+  13:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/js-signOperation.ts
+  22:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/logic.ts
+   56:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/satstack.test.ts
+  270:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  271:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  278:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  281:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/satstack.ts
+  121:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/speculos-deviceActions.ts
+  6:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/wallet-btc/__tests__/utils.test.ts
+  20:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/wallet-btc/crypto/base.ts
+  31:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/wallet-btc/crypto/bip32.ts
+   9:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/bitcoin/wallet-btc/xpub.ts
+  294:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cardano/cli-transaction.ts
+  21:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cardano/js-getTransactionStatus.ts
+  101:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cardano/speculos-deviceActions.ts
+  5:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/celo/account.ts
+   3:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/celo/api/hubble.ts
+  117:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/celo/cli-transaction.ts
+  36:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/celo/hw-app-celo.ts
+  11:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/celo/js-buildTransaction.ts
+  71:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/celo/js-getFeesForTransaction.ts
+  77:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/celo/js-getTransactionStatus.ts
+  25:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/celo/js-signOperation.ts
+  92:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/celo/preload.ts
+  12:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/celo/speculos-deviceActions.ts
+  16:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/CosmosValidatorsManager.ts
+  15:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/account.ts
+  117:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  132:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/cli-transaction.ts
+  58:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  59:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/js-buildTransaction.test.ts
+   21:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  251:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  291:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/js-buildTransaction.ts
+  263:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/js-prepareTransaction.ts
+  57:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/js-signOperation.ts
+  21:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/js-synchronisation.unit.test.ts
+  44:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/react.test.ts
+  190:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/specs.ts
+  68:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/speculos-deviceActions.ts
+  13:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/cosmos/types.ts
+  45:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/crypto_org/api/sdk.ts
+  68:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/crypto_org/api/sdk.types.ts
+  24:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/crypto_org/cli-transaction.ts
+  24:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/crypto_org/js-signOperation.ts
+  101:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/crypto_org/speculos-deviceActions.ts
+  5:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/crypto_org/types.ts
+  35:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/elrond/cli-transaction.ts
+  19:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/elrond/hw-app-elrond/index.ts
+   45:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  151:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  199:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/elrond/js-reconciliation.ts
+  50:7  error  Definition for rule 'prettier/prettier' was not found  prettier/prettier
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/elrond/js-signOperation.ts
+  134:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/elrond/preload.ts
+  11:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/elrond/specs.ts
+  62:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/elrond/speculos-deviceActions.ts
+    8:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   96:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  184:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ethereum/__tests__/hw-signMessage.test.ts
+   90:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ethereum/__tests__/modules/send.unit.test.ts
+  31:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ethereum/api/index.ts
+  175:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  310:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ethereum/bridge/mock.ts
+  27:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ethereum/cli-transaction.ts
+  60:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  98:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  99:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ethereum/modules/erc20.ts
+  122:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ethereum/modules/index.ts
+  99:81  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ethereum/signOperation.ts
+  32:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ethereum/speculos-deviceActions-avalanche.ts
+  5:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ethereum/speculos-deviceActions.ts
+  15:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/filecoin/account.ts
+   4:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/filecoin/bridge/utils/api.ts
+  42:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/filecoin/bridge/utils/serializer.ts
+  33:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/filecoin/speculos-deviceActions.ts
+  5:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/hedera/api/mirror.ts
+  28:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/hedera/speculos-deviceActions.ts
+  6:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/internet_computer/account.ts
+   4:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/internet_computer/bridge/bridgeHelpers/addresses.ts
+  17:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/internet_computer/bridge/bridgeHelpers/api.ts
+  19:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/internet_computer/bridge/bridgeHelpers/icpRosetta/index.ts
+  70:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/internet_computer/bridge/bridgeHelpers/icpRosetta/types.ts
+  8:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/internet_computer/hw-getAddress.ts
+  10:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/internet_computer/hw-signMessage.ts
+  16:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/internet_computer/speculos-deviceActions.ts
+  6:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/near/js-signOperation.ts
+  59:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/near/preload.ts
+   25:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/near/speculos-deviceActions.ts
+  14:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/polkadot/bridge/mock.ts
+  47:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ripple/api/index.ts
+   16:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ripple/bridge/js.ts
+  113:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ripple/bridge/mock.ts
+  33:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ripple/cli-transaction.ts
+  23:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ripple/js-synchronization.ts
+  55:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/ripple/speculos-deviceActions.ts
+  5:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/api/cached.ts
+  24:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/api/chain/index.ts
+  81:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/api/chain/instruction/associated-token-account/index.ts
+  23:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/api/chain/instruction/stake/index.ts
+  18:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/api/chain/instruction/system/index.ts
+  19:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/api/chain/instruction/token/index.ts
+  19:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/api/chain/program/parser.ts
+  46:91  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/api/logged.ts
+  21:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/bridge.integration.test.ts
+   120:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  1033:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/bridge/bridge.ts
+  125:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/bridge/js.ts
+  8:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/bridge/mock.ts
+  22:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  81:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/cli-transaction.ts
+   46:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  192:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/js-broadcast.ts
+  22:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/js-preload.ts
+  19:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/js-signOperation.ts
+   53:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  206:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  207:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/js-synchronization.ts
+  382:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  383:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/react.integration.test.ts
+  53:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/speculos-deviceActions.ts
+   26:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   58:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  153:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/tx-fees.ts
+   51:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   94:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/solana/utils.ts
+   81:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stacks/account.ts
+   4:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stacks/bridge/utils/addresses.ts
+  13:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stacks/bridge/utils/api.ts
+  42:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stacks/bridge/utils/misc.ts
+  27:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stacks/speculos-deviceActions.ts
+  5:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stacks/types.ts
+  46:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stellar/api/horizon.ts
+  111:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  279:5   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  295:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  303:84  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  309:93  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stellar/bridge/js.ts
+  14:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stellar/cli-transaction.ts
+  45:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stellar/js-buildTransaction.ts
+  23:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stellar/js-prepareTransaction.ts
+  9:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stellar/js-signOperation.ts
+  75:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/stellar/speculos-deviceActions.ts
+  23:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tezos/bakers.ts
+  194:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tezos/bridge/js.ts
+  351:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tezos/bridge/mock.ts
+  45:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tezos/cli-transaction.ts
+  40:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tezos/signOperation.ts
+  20:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tezos/speculos-deviceActions.ts
+  6:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tezos/synchronisation.ts
+  120:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tron/api/index.ts
+   42:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  200:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  206:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  228:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  278:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  320:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  396:77  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  469:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  474:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tron/cli-transaction.ts
+  48:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  87:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tron/react.test.ts
+   72:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tron/speculos-deviceActions.ts
+  15:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tron/types.ts
+  114:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/families/tron/utils.ts
+  123:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  153:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/featureFlags/useFeature.ts
+  5:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hooks/useDBRaw.ts
+  28:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/app.ts
+  490:7   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  492:29  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  493:54  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  544:19  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/implementations.ts
+  114:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  241:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  244:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/initSell.ts
+  101:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/installLanguage.ts
+  130:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/manager.ts
+  195:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/renameDevice.ts
+  121:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/startExchange.ts
+  29:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/staxFetchImage.ts
+  146:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/staxLoadImage.ts
+  147:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/staxRemoveImage.ts
+  106:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/transaction.ts
+  147:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/actions/uninstallAllApps.ts
+  106:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/connectApp.ts
+  226:9  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/deviceAccess.ts
+  195:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  195:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/firmwareUpdate-main.ts
+  86:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/firmwareUpdate-repair.ts
+  226:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/flash.ts
+  19:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/flush.ts
+  5:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/getOnboardingStatePolling.ts
+  50:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/hooks/useGenuineCheck.ts
+  107:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/installApp.ts
+  29:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/installFinalFirmware.ts
+  23:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/installLanguage.ts
+  76:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/installOsuFirmware.ts
+  9:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/signMessage/index.ts
+  123:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/signTransaction/index.ts
+  10:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/signTransaction/ripple.ts
+  9:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/signTransaction/tron.ts
+  8:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/hw/uninstallApp.ts
+  11:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/load/speculos.ts
+  507:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/manager/api.ts
+   54:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  208:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  467:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  469:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  490:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  491:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  493:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  542:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  543:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  567:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  600:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/manager/index.ts
+  154:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/market/api/api.mock.ts
+  263:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/market/api/api.ts
+  161:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  178:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/mock/account.ts
+  118:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/nft/NftMetadataProvider/types.ts
+  27:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/nft/hook.ts
+  25:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/notifications/AnnouncementProvider/machine.ts
+   65:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   65:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/notifications/ServiceStatusProvider/machine.ts
+  37:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/performance.ts
+   6:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/platform/JSONRPCServer.ts
+   3:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   4:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/platform/logic.test.ts
+  731:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  743:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/platform/providers/RemoteLiveAppProvider/index.tsx
+  147:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/platform/tracking.ts
+  10:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/platform/types.ts
+  32:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/portfolio/v2/index.ts
+   85:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   89:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  138:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  164:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  308:89  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/postOnboarding/reducer.test.ts
+  159:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/reactNativeSvg.d.ts
+   4:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   4:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   6:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   6:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  17:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/rxjs/operators/retryWithDelay.ts
+  23:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/rxjs/operators/throwIf.ts
+  28:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/socket/index.ts
+   75:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  253:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/socket/socket.mock.ts
+   4:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/transaction/index.ts
+  16:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  51:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/wallet-api/tracking.ts
+  10:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/wallet-api/types.ts
+  38:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/walletconnect/Provider.tsx
+   23:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   28:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   30:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   35:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   35:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   39:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   39:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   65:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   65:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  203:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/walletconnect/index.ts
+  36:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledger-live-common/src/walletconnect/walletconnect.test.ts
+  83:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/errors/src/deserializeError.test.ts
+  40:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/errors/src/helpers.ts
+   9:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   9:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/errors/src/index.test.ts
+  11:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-algorand/src/Algorand.ts
+  119:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-btc/src/createTransaction.ts
+   82:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-btc/src/newops/clientCommands.ts
+  123:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-btc/src/startUntrustedHashTransactionInput.ts
+  43:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-btc/tests/newops/testtx.ts
+  1:1  error  Definition for rule 'prettier/prettier' was not found  prettier/prettier
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-cosmos/src/Cosmos.ts
+  161:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-eth/src/Eth.ts
+   478:7  warning  Duplicate enum member value 0  @typescript-eslint/no-duplicate-enum-values
+   479:7  warning  Duplicate enum member value 0  @typescript-eslint/no-duplicate-enum-values
+  1263:7  warning  Duplicate enum member value 0  @typescript-eslint/no-duplicate-enum-values
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-eth/src/modules/EIP712/index.ts
+  124:5  warning  Duplicate enum member value 0  @typescript-eslint/no-duplicate-enum-values
+  171:5  warning  Duplicate enum member value 0  @typescript-eslint/no-duplicate-enum-values
+  258:5  warning  Duplicate enum member value 0  @typescript-eslint/no-duplicate-enum-values
+  370:5  warning  Duplicate enum member value 0  @typescript-eslint/no-duplicate-enum-values
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-eth/src/services/ledger/contracts.ts
+  11:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-eth/src/services/types.ts
+  29:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-eth/tests/ERC20/ERC20-CAL-KO.unit.test.ts
+  30:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-eth/tests/Eth.unit.test.ts
+   64:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  129:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  202:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  204:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  257:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  259:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  261:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-polkadot/src/Polkadot.ts
+  138:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-app-trx/src/utils.ts
+  20:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  75:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-http/src/HttpTransport.ts
+  12:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-http/src/WebSocketTransport.ts
+   22:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   23:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-mocker/src/createTransportRecorder.ts
+  18:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-node-ble/src/TransportNodeBle.ts
+   21:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  138:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  178:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  255:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-node-ble/src/platform.ts
+   25:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   32:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   54:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-node-hid-noevents/src/TransportNodeHid.ts
+   45:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-node-hid-singleton/src/TransportNodeHid.ts
+  27:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-node-speculos-http/src/SpeculosHttpTransport.ts
+   31:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   32:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-node-speculos/src/SpeculosTransport.ts
+   32:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   62:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-vault/src/index.ts
+  15:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-web-ble/src/TransportWebBLE.ts
+  164:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  165:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  209:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  228:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-web-ble/src/types.ts
+  1:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport-webusb/src/TransportWebUSB.ts
+  130:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/hw-transport/src/Transport.ts
+   20:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  319:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  327:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  330:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/logs/src/index.ts
+   7:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/react-native-hid/src/index.ts
+   26:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   27:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   73:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/react-native-hw-transport-ble/src/BleTransport.test.ts
+   27:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  229:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  231:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  245:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  247:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/react-native-hw-transport-ble/src/BleTransport.ts
+  156:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  180:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  413:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  492:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  501:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  522:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  537:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  570:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  614:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  620:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/react-native-hw-transport-ble/src/timer.ts
+   4:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   4:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/react-native-hw-transport-ble/src/types.ts
+  2:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  3:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/types-devices/src/index.ts
+   70:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/types-live/src/bridge.ts
+   98:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  201:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  201:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:94  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  232:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  237:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  244:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  246:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/types-live/src/feature.ts
+  84:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/types-live/src/manager.ts
+  317:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/types-live/src/operation.ts
+   96:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  133:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/types-live/src/postOnboarding.ts
+  24:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ledgerjs/packages/types-live/src/transaction.ts
+  16:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/live-network/src/cache.ts
+   3:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/live-network/src/network.ts
+   31:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   54:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/promise/src/promise.ts
+  31:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/test-utils/dummy-live-app/src/App.tsx
+   6:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/native/src/components/ChartCard/index.tsx
+  24:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/native/src/components/Form/Input/BaseInput/index.tsx
+  130:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  186:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/native/src/components/Layout/ScrollContainerHeader/index.tsx
+  12:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/native/src/components/Layout/ScrollListContainer/index.tsx
+  13:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/native/src/components/Loader/InfiniteLoader/index.tsx
+  55:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/native/src/components/Loader/ProgressLoader/index.tsx
+  77:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/native/src/components/transitions/Slide.tsx
+  59:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/native/src/components/transitions/Transition.tsx
+  84:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/native/storybook/stories/Cta/Button/Button.stories.tsx
+  56:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/native/storybook/stories/Layout/Modal/BottomDrawer.stories.tsx
+  62:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/react/src/components/Chart/index.tsx
+  145:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/react/src/components/form/Radio/RadioElement.tsx
+  182:3  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/react/src/components/tabs/Tabs/index.tsx
+  154:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/libs/ui/packages/react/src/styles/InvertTheme.tsx
+  29:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/tools/actions/turborepo-gh-cache/src/server.ts
+  30:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/tools/actions/turborepo-s3-cache/src/server.ts
+  35:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/tools/github-bot/src/commands/tools.ts
+  12:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/tools/github-bot/src/features/orchestrator/index.ts
+  604:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/tools/github-bot/src/features/orchestrator/tools.ts
+  77:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/tools/github-bot/src/tools/index.ts
+  172:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/tools/github-bot/src/tools/monitorWorkflow.ts
+  21:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/LedgerHQ-ledger-live/tools/github-bot/test/index.testx.ts
+  20:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 1149 problems (1142 errors, 7 warnings)

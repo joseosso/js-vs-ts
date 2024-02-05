@@ -1,0 +1,533 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/e2e/utils/common.ts
+  1:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+  2:1  error  Definition for rule 'import/no-cycle' was not found                    import/no-cycle
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/e2e/utils/global.setup.spec.ts
+  1:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/e2e/utils/global.teardown.ts
+   2:1   error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+  30:15  error  Unexpected any. Specify a different type                               @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/e2e/utils/node-helper.ts
+  2:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/e2e/utils/projects.ts
+  1:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/e2e/utils/templates.ts
+  1:1  error  Definition for rule 'import/prefer-default-export' was not found       import/prefer-default-export
+  2:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/e2e/utils/websocket-match.ts
+    1:92   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   10:13   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:84   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   29:67   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:69   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   38:88   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:70   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   52:61   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   56:65   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:60   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:82   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:82   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:13   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:109  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:105  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:96   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:72   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:68   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  123:67   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:82   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:79   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  135:71   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:70   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:78   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:84   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:85   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:103  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:86   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:83   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:83   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:92   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  186:89   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:89   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/e2e/utils/websocket.ts
+   3:1   error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+  12:17  error  Unexpected any. Specify a different type                               @typescript-eslint/no-explicit-any
+  37:17  error  Unexpected any. Specify a different type                               @typescript-eslint/no-explicit-any
+  58:82  error  Unexpected any. Specify a different type                               @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/playwright.config.ts
+  1:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+  3:1  error  Definition for rule 'import/no-extraneous-dependencies' was not found  import/no-extraneous-dependencies
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/editor/use-item-editor-state.ts
+  10:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/layout.tsx
+  36:3  error  Definition for rule 'react/no-unused-prop-types' was not found  react/no-unused-prop-types
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/main/team-selection-card.tsx
+  43:5  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  59:5  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/nodes/edit-node-card.tsx
+  43:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/nodes/node-audit-list.tsx
+   81:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  107:47  error  Definition for rule 'react/jsx-key' was not found                react/jsx-key
+  125:3   error  Definition for rule 'react/jsx-key' was not found                react/jsx-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/notifications/edit-notification-card.tsx
+  28:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/edit-project-card.tsx
+  22:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/deployments/add-deployment-card.tsx
+  61:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/deployments/copy-deployment-card.tsx
+  22:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/deployments/create-deployment-token-card.tsx
+  23:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/deployments/deployment-container-status-list.tsx
+   86:5  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  100:5  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/deployments/edit-deployment-card.tsx
+  19:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/deployments/instances/use-instance-state.ts
+  56:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/edit-version-card.tsx
+  24:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/images/config/common-config-section.tsx
+  85:3  error  Definition for rule 'react/destructuring-assignment' was not found  react/destructuring-assignment
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/images/config/crane-config-section.tsx
+  66:3  error  Definition for rule 'react/destructuring-assignment' was not found  react/destructuring-assignment
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/images/config/dagent-config-section.tsx
+  64:3  error  Definition for rule 'react/destructuring-assignment' was not found  react/destructuring-assignment
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/images/select-images-card.tsx
+  168:5  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  175:5  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/increase-version-card.tsx
+  23:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/use-version-state.ts
+  84:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/projects/versions/version-deployments-section.tsx
+  228:5  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  292:5  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/registries/edit-registry-card.tsx
+   45:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/settings/create-token-card.tsx
+  21:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/shared/page-menu.tsx
+   18:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/shared/paginator.tsx
+  30:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/storages/edit-storage-card.tsx
+  23:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/team/edit-team-card.tsx
+  20:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/team/invite-user-card.tsx
+  22:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/components/templates/apply-template-card.tsx
+  22:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/elements/dyo-button.tsx
+  66:7  error  Definition for rule 'react/button-has-type' was not found  react/button-has-type
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/elements/dyo-form.tsx
+  14:5  error  Definition for rule 'jsx-a11y/no-noninteractive-element-interactions' was not found  jsx-a11y/no-noninteractive-element-interactions
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/elements/dyo-img-button.tsx
+  29:5  error  Definition for rule 'react/button-has-type' was not found  react/button-has-type
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/elements/dyo-list.tsx
+  54:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/hooks/use-websocket-translation.ts
+  16:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/logger.ts
+  23:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/models/audit.ts
+  32:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/models/common.ts
+   9:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/models/container.ts
+  450:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/api/auth/settings/oidc.ts
+  12:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/audit-log.tsx
+   73:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+   78:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  120:43  error  Definition for rule 'react/jsx-key' was not found                react/jsx-key
+  145:3   error  Definition for rule 'react/jsx-key' was not found                react/jsx-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/auth/auth/register.tsx
+  5:1  error  Definition for rule 'react/jsx-no-useless-fragment' was not found  react/jsx-no-useless-fragment
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/auth/logout.tsx
+  6:1  error  Definition for rule 'react/jsx-no-useless-fragment' was not found  react/jsx-no-useless-fragment
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/auth/registration.tsx
+  5:1  error  Definition for rule 'react/jsx-no-useless-fragment' was not found  react/jsx-no-useless-fragment
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/auth/settings/change-password.tsx
+  33:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/auth/settings/edit-profile.tsx
+  31:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/auth/settings/tokens.tsx
+  36:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/deployments.tsx
+  134:46  error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  175:3   error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/deployments/[deploymentId].tsx
+  59:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/index.tsx
+  7:1  error  Definition for rule 'react/jsx-no-useless-fragment' was not found  react/jsx-no-useless-fragment
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/nodes.tsx
+  49:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/nodes/[nodeId].tsx
+  41:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/notifications.tsx
+  41:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/projects.tsx
+  52:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/projects/[projectId].tsx
+  61:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/projects/[projectId]/versions/[versionId].tsx
+  36:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/projects/[projectId]/versions/[versionId]/images/[imageId].tsx
+  141:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/registries.tsx
+  41:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/registries/[registryId].tsx
+  30:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/status.tsx
+  16:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/storages.tsx
+  35:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/storages/[storageId].tsx
+  30:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/teams.tsx
+  28:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/teams/[teamId].tsx
+   75:42  error  Unexpected any. Specify a different type           @typescript-eslint/no-explicit-any
+  240:3   error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+  283:3   error  Definition for rule 'react/jsx-key' was not found  react/jsx-key
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/pages/templates.tsx
+  29:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/providers/websocket.tsx
+  31:3  error  Definition for rule 'react/jsx-no-constructed-context-values' was not found  react/jsx-no-constructed-context-values
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/routes.ts
+  86:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/server/crux-api.ts
+  27:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/server/error-middleware.ts
+  5:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/server/kratos-error-middleware.ts
+  16:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/server/kratos.ts
+  143:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/utils.ts
+  152:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  153:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  223:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  225:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  278:94  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  303:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  329:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  344:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/validations/common.ts
+  7:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/validations/instance.ts
+  6:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/validations/notification.ts
+  1:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/validations/registry.ts
+  1:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/validations/storage.ts
+  1:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/validations/template.ts
+  5:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/validations/token.ts
+  4:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/websockets/common.ts
+   3:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/websockets/websocket-client-endpoint.ts
+   28:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux-ui/src/websockets/websocket-client-route.ts
+  150:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/agent/agent.service.spec.ts
+  35:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/agent/agent.service.ts
+  609:83  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/audit.logger/audit.logger.interceptor.ts
+  18:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/audit.logger/audit.logger.service.ts
+  80:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/deploy/deploy.mapper.ts
+  124:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/deploy/deploy.service.ts
+  307:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  308:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  843:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/deploy/deploy.ws.gateway.ts
+  228:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/deploy/interceptors/deploy.copy.interceptor.ts
+  12:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/deploy/interceptors/deploy.create-deploy-token.interceptor.ts
+  11:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/deploy/interceptors/deploy.create.interceptor.ts
+  12:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/deploy/interceptors/deploy.delete.interceptor.ts
+  11:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/deploy/interceptors/deploy.patch.interceptor.ts
+  13:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/deploy/interceptors/deploy.start.interceptor.ts
+  14:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/image/image.mapper.ts
+  42:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/image/image.service.ts
+  125:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/image/interceptors/image.add-images.interceptor.ts
+  10:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/image/interceptors/image.delete.interceptor.ts
+  10:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/image/interceptors/image.order.interceptor.ts
+  11:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/image/interceptors/image.patch.interceptor.ts
+  10:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/project/interceptors/project.update.interceptor.ts
+  11:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/registry/registry-clients/caches/hub-api-cache.ts
+   3:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/registry/registry-clients/hub-api-client.ts
+  10:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/storage/interceptors/storage.delete.interceptor.ts
+  10:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/team/interceptors/team.invite.interceptor.ts
+  20:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/team/interceptors/team.reinvite.interceptor.ts
+  10:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/team/interceptors/team.team-owner-immutability.interceptor.ts
+  10:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/version/interceptors/version.create.interceptor.ts
+  11:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/version/interceptors/version.delete.interceptor.ts
+  11:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/version/interceptors/version.increase.interceptor.ts
+  11:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/app/version/interceptors/version.update.interceptor.ts
+  12:85  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/domain/agent.spec.ts
+  44:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/domain/notification-templates.ts
+   35:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:87  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/domain/validation.ts
+  486:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/exception/crux-exception.ts
+  6:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/exception/registry-exception.ts
+  1:1  error  Definition for rule 'import/prefer-default-export' was not found  import/prefer-default-export
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/filters/grpc.exception-filter.ts
+  13:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:90  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:92  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  70:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/interceptors/created-with-location.interceptor.ts
+   9:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/interceptors/helper.interceptor.ts
+   8:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/interceptors/http.logger.interceptor.ts
+  15:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/interceptors/prisma-error-interceptor.ts
+  21:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/shared/package.spec.ts
+  8:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/websockets/client-setup.ts
+  14:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/websockets/common.ts
+   7:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:86  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/websockets/dyo.ws.adapter.ts
+   62:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   63:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   63:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:88  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  207:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/websockets/namespace.spec.ts
+  289:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/dyrector-io-dyrectorio/web/crux/src/websockets/namespace.ts
+  170:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 259 problems (259 errors, 0 warnings)

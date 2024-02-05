@@ -1,0 +1,21 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/priyankarpal-ProjectsHut/app/docs/page.tsx
+  215:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/priyankarpal-ProjectsHut/app/projects/[username]/page.tsx
+  80:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/priyankarpal-ProjectsHut/app/projects/page.tsx
+   56:48  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  128:42  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  156:5   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  159:50  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/priyankarpal-ProjectsHut/utils/paginate.ts
+  1:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/priyankarpal-ProjectsHut/utils/searchProject.ts
+  1:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  3:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 9 problems (9 errors, 0 warnings)

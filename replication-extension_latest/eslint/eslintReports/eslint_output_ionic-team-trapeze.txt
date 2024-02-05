@@ -1,0 +1,250 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/ctx.ts
+   12:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   26:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   79:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  151:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/definitions.ts
+    8:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   30:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   43:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   53:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   63:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   94:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   95:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:5   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  136:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  145:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/index.ts
+  11:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  48:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/op.ts
+    5:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   13:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   24:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   34:65  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   44:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   99:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  225:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  246:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  248:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/android/appName.ts
+  11:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/android/copy.ts
+  13:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/android/res.ts
+  18:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/index.ts
+  7:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/ios/buildSettings.ts
+  14:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/ios/buildVersion.ts
+  17:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/ios/copy.ts
+  13:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/ios/entitlements.ts
+  41:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/ios/plist.ts
+  43:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/ios/project.ts
+  19:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/ios/xml.ts
+  38:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/operations/project/copy.ts
+  13:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/tasks/run.ts
+  90:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/util/cli.ts
+   4:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   5:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   8:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/util/log.ts
+  34:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/util/node.ts
+   6:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/util/term.ts
+  8:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/src/yaml-config.ts
+  13:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  54:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/test/op.test.ts
+   54:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   90:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  168:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/test/ops/android.gradle.test.ts
+  11:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/test/tasks/run.test.ts
+  308:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/configure/test/utils.ts
+  3:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/android/gradle-file.ts
+   13:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   46:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  189:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  283:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  295:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  381:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  401:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  403:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  405:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  406:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  465:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  482:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  482:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  503:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  713:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/android/project.ts
+  295:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/declarations.d.ts
+   2:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   7:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/definitions.ts
+   7:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  15:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/ios/project.ts
+  199:25   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  362:83   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  504:100  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  546:76   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  551:74   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  609:62   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  622:72   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  628:60   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/json.ts
+   9:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/logger.ts
+   4:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  14:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  22:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/plist.ts
+   23:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/properties.ts
+   9:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/strings.ts
+  22:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/util/detect-indent.ts
+  105:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/util/pbx.ts
+  4:66  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/util/properties.ts
+  9:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/util/subprocess.ts
+  31:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/util/xml.ts
+  21:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:8   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/vfs.ts
+  67:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/xcconfig.ts
+  27:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/src/xml.ts
+  150:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  222:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  230:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/test/project.android.test.ts
+  111:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  134:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/ionic-team-trapeze/packages/project/test/project.ios.test.ts
+  381:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 156 problems (156 errors, 0 warnings)

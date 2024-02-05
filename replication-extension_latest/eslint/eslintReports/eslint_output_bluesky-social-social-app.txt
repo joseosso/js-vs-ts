@@ -1,0 +1,298 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/__e2e__/util.ts
+   6:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  72:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/__mocks__/@gorhom/bottom-sheet.tsx
+   6:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  31:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  32:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/jest/test-utils.tsx
+   9:27  error  Unexpected any. Specify a different type                           @typescript-eslint/no-explicit-any
+  11:5   error  Definition for rule 'react-native/no-inline-styles' was not found  react-native/no-inline-styles
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/api/api-polyfill.ts
+  14:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/api/index.ts
+  238:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/async/retry.ts
+   5:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  12:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/async/revertible.ts
+   5:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/hooks/useOTAUpdate.ts
+  75:10  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/hooks/useTimer.ts
+  28:5  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/media/manip.ts
+  51:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/merge-refs.ts
+  15:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/notifee.ts
+  31:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/storage.ts
+  21:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/lib/strings/errors.ts
+  1:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/index.ts
+  18:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  27:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/cache/image-sizes.ts
+  26:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/content/list.ts
+  130:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  266:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  266:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  288:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/content/post-thread.ts
+  142:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/content/profile.ts
+  238:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  259:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/discovery/feeds.ts
+   62:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   79:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   94:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/discovery/suggested-actors.ts
+   94:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/feeds/custom-feed.ts
+   95:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/feeds/notifications.ts
+  354:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  430:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  479:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  521:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  521:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/feeds/posts.ts
+  176:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  265:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  335:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  335:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/lists/actor-feeds.ts
+  81:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  95:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/lists/blocked-accounts.ts
+  69:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/lists/likes.ts
+   80:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   94:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/lists/lists-list.ts
+  119:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/lists/muted-accounts.ts
+  69:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/lists/reposted-by.ts
+   83:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  115:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/lists/user-followers.ts
+  82:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/lists/user-follows.ts
+  82:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/log.ts
+  43:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  55:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:36  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  95:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/root-store.ts
+  119:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  173:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/session.ts
+   46:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  311:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/ui/create-account.ts
+   78:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/ui/profile.ts
+  97:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/state/models/ui/saved-feeds.ts
+  119:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  213:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/auth/login/Login.tsx
+   44:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  330:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  557:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  713:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/composer/Composer.tsx
+  178:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/composer/photos/OpenCameraBtn.tsx
+  40:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/lightbox/ImageViewing/hooks/useImageDimensions.ts
+  80:7  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/lightbox/ImageViewing/hooks/usePanResponder.ts
+  1:1  error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/lightbox/ImageViewing/utils.ts
+  19:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/lightbox/Lightbox.tsx
+  42:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/lists/ListItems.tsx
+   54:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   70:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/lists/ListsList.tsx
+   50:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   63:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  124:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/modals/ChangeHandle.tsx
+   34:74  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  114:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  344:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/modals/Confirm.tsx
+  38:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/modals/CreateOrEditMuteList.tsx
+   70:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/modals/DeleteAccount.tsx
+  38:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/modals/EditProfile.tsx
+   78:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/modals/Waitlist.tsx
+  51:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/modals/report/ReportAccount.tsx
+  47:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/modals/report/ReportPost.tsx
+  59:17  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/notifications/Feed.tsx
+  26:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  85:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/notifications/FeedItem.tsx
+  186:5  error  Definition for rule 'react-native-a11y/no-nested-touchables' was not found  react-native-a11y/no-nested-touchables
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/posts/Feed.tsx
+   43:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   59:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/posts/MultiFeed.tsx
+  40:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/profile/FollowButton.tsx
+  35:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/profile/ProfileHeader.tsx
+  187:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  216:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  236:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/util/ErrorBoundary.tsx
+  11:10  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/util/EventStopper.tsx
+  9:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/util/Link.tsx
+  146:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/util/PressableWithHover.tsx
+  23:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/util/ViewSelector.tsx
+  24:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/com/util/forms/NativeDropdown.tsx
+  37:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/screens/Debug.tsx
+  54:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/bluesky-social-social-app/src/view/screens/Profile.tsx
+   63:7   error  Definition for rule 'react-hooks/exhaustive-deps' was not found  react-hooks/exhaustive-deps
+  106:22  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  113:22  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  141:14  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+✖ 158 problems (158 errors, 0 warnings)

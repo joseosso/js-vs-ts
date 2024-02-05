@@ -1,0 +1,14 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FightingDesign-fighting-design/packages/fighting-add-component/template/component/index.ts
+  1:8  error  Parsing error: Expression expected
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FightingDesign-fighting-design/packages/fighting-add-component/template/component/src/interface.ts
+  1:14  error  Parsing error: Identifier expected
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FightingDesign-fighting-design/packages/fighting-add-component/template/component/src/props.ts
+  5:0  error  Parsing error: Declaration or statement expected
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/FightingDesign-fighting-design/packages/fighting-add-component/template/test/__name__.spec.ts
+  3:10  error  Parsing error: ',' expected
+
+✖ 4 problems (4 errors, 0 warnings)

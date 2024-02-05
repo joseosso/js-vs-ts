@@ -1,0 +1,123 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/astro-angular/src/index.ts
+  42:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/content/src/lib/content-file.ts
+  2:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  2:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/content/src/lib/content.spec.ts
+  134:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/content/src/lib/content.ts
+  20:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:59  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/content/src/lib/get-content-files.ts
+  9:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/content/src/lib/inject-content-files.spec.ts
+  77:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/content/src/lib/inject-content-files.ts
+   5:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/content/src/lib/parse-raw-content-file.ts
+  3:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/content/src/lib/utils/zone-wait-for.ts
+  3:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/nx-plugin/src/generators/app/lib/add-eslint.ts
+  11:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/platform/src/lib/content-plugin.spec.ts
+  10:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  13:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/platform/src/lib/content-plugin.ts
+  30:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/router/src/lib/inject-load.ts
+  8:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/router/src/lib/markdown-helpers.ts
+  4:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/router/src/lib/route-config.ts
+  48:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/router/src/lib/route-types.ts
+  12:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/trpc/src/lib/client/trpc-rxjs-proxy.ts
+   72:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  112:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  196:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  245:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/trpc/src/lib/utils/wait-for.ts
+  3:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/vite-plugin-angular/setup-vitest.ts
+   11:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   17:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   21:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   32:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   39:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   48:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   66:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   80:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   82:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   99:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:11  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:9   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  108:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  118:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  132:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  140:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  148:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/vite-plugin-angular/src/lib/angular-build-optimizer-plugin.ts
+  103:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/vite-plugin-angular/src/lib/angular-vite-plugin.ts
+  437:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  445:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  467:26  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/vite-plugin-angular/src/lib/component-resolvers.ts
+  15:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/vite-plugin-angular/src/lib/host.ts
+  11:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/analogjs-analog/packages/vite-plugin-nitro/src/lib/vite-plugin-nitro.spec.ts
+  28:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 73 problems (73 errors, 0 warnings)

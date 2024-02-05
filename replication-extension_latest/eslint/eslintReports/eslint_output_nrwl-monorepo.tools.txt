@@ -1,0 +1,9 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nrwl-monorepo.tools/libs/website/feature-analytics/src/lib/gtag.ts
+  19:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/nrwl-monorepo.tools/libs/website/ui-home/src/lib/tools-review.tsx
+  271:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 3 problems (3 errors, 0 warnings)

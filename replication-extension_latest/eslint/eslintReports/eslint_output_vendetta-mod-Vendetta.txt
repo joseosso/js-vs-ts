@@ -1,0 +1,121 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/def.d.ts
+    9:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   37:89  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   52:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  163:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  210:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  211:12  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  312:13  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  317:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:6   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  358:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  369:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  369:48  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  370:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  370:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  373:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  374:64  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  375:75  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  376:78  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  377:69  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  378:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  379:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  416:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  417:93  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  433:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  433:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  433:92  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  447:71  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  452:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  458:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  459:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  486:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  487:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  504:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  512:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/lib/debug.ts
+  36:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  44:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/lib/metro/filters.ts
+   4:42   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:79   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:57   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:77   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:108  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:85   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:130  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:82   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  63:123  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:43   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/lib/plugins.ts
+  63:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/lib/storage/index.ts
+    7:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+    7:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   10:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   10:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   16:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   60:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   90:44  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:18  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  114:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/lib/themes.ts
+   96:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  195:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  195:82  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/lib/utils/findInReactTree.ts
+  4:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  4:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/lib/utils/findInTree.ts
+   6:112  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:4    error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/lib/windowObject.ts
+  20:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/ui/alerts.ts
+  23:72  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/ui/assets.ts
+  23:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/ui/components/index.ts
+  8:86   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:102  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:115  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:127  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/ui/quickInstall/url.tsx
+  51:76  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/ui/safeMode.tsx
+  70:79  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/ui/settings/data.tsx
+   19:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   24:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   25:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   33:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:73  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/ui/settings/patches/panels.tsx
+  24:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/vendetta-mod-Vendetta/src/ui/settings/patches/you.tsx
+  30:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  34:46  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 85 problems (85 errors, 0 warnings)

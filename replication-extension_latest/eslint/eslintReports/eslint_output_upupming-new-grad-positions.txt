@@ -1,0 +1,10 @@
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/upupming-new-grad-positions/src/frontend/common/utils.ts
+  1:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  3:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/frivera/Documents/frivera/repositories/git/js-vs-ts/replication-extension_latest/git-repos/TS/upupming-new-grad-positions/src/frontend/components/PositionsTable.tsx
+  8:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  9:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 4 problems (4 errors, 0 warnings)
